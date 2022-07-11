@@ -16,7 +16,7 @@
 
         h1 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -25,7 +25,7 @@
 
         .s1 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -33,8 +33,8 @@
         }
 
         .s2 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -42,8 +42,8 @@
         }
 
         .s3 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -51,8 +51,8 @@
         }
 
         .s4 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -60,8 +60,8 @@
         }
 
         .s5 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -71,7 +71,7 @@
         .p,
         p {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -81,7 +81,7 @@
 
         .s6 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -90,7 +90,7 @@
 
         .s7 {
             color: #202020;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -99,7 +99,7 @@
 
         .s8 {
             color: #C00000;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -108,7 +108,7 @@
 
         .s9 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -117,7 +117,7 @@
 
         .s10 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -125,8 +125,8 @@
         }
 
         .s11 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -135,7 +135,7 @@
 
         .s12 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -144,7 +144,7 @@
 
         .s13 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -154,7 +154,7 @@
 
         .s14 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -163,7 +163,7 @@
 
         .s15 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -172,7 +172,7 @@
 
         .s17 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -181,7 +181,7 @@
 
         .s18 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -190,8 +190,8 @@
         }
 
         .s19 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -200,7 +200,7 @@
 
         .s20 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -210,7 +210,7 @@
 
         .s21 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -220,7 +220,7 @@
 
         .s22 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -228,8 +228,8 @@
         }
 
         .s23 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -246,8 +246,8 @@
         }
 
         .s25 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -255,8 +255,8 @@
         }
 
         .s27 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -265,7 +265,7 @@
 
         .s28 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -282,7 +282,7 @@
         }
 
         .s30 {
-            color: #006FC0;
+            color: #0563c1;
             font-family: Calibri, sans-serif;
             font-style: normal;
             font-weight: bold;
@@ -291,8 +291,8 @@
         }
 
         .s31 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -301,7 +301,7 @@
 
         .s32 {
             color: #C00000;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -310,7 +310,7 @@
 
         .s33 {
             color: #C00000;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -319,7 +319,7 @@
 
         h3 {
             color: #6F2F9F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -328,7 +328,7 @@
 
         .s34 {
             color: #6F2F9F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -346,7 +346,7 @@
 
         .s36 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -356,7 +356,7 @@
 
         .s37 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -364,8 +364,8 @@
         }
 
         .s38 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -373,8 +373,8 @@
         }
 
         .s39 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -383,8 +383,8 @@
         }
 
         .s40 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -402,7 +402,7 @@
 
         .s42 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -411,7 +411,7 @@
 
         .s43 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -419,8 +419,8 @@
         }
 
         .s44 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -428,8 +428,8 @@
         }
 
         .s45 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -447,7 +447,7 @@
 
         .s47 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: underline;
@@ -456,7 +456,7 @@
 
         .s49 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -465,7 +465,7 @@
 
         .s50 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -474,7 +474,7 @@
 
         .s51 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -483,7 +483,7 @@
 
         .s52 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -492,7 +492,7 @@
 
         .s53 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -501,7 +501,7 @@
 
         .s54 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -510,7 +510,7 @@
 
         .s55 {
             color: #F00;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -519,7 +519,7 @@
 
         .s57 {
             color: #F00;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -537,7 +537,7 @@
 
         .s59 {
             color: #4471C4;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -546,7 +546,7 @@
 
         .s60 {
             color: #4471C4;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -555,7 +555,7 @@
 
         .s61 {
             color: #F00;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -564,7 +564,7 @@
 
         .s62 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -573,7 +573,7 @@
 
         .s63 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -582,7 +582,7 @@
 
         .s64 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: underline;
@@ -591,7 +591,7 @@
 
         .s65 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -601,7 +601,7 @@
 
         .s66 {
             color: #C00000;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: normal;
             text-decoration: none;
@@ -610,7 +610,7 @@
 
         .s68 {
             color: #212121;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -619,7 +619,7 @@
 
         .s69 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -628,7 +628,7 @@
 
         .s70 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -637,7 +637,7 @@
 
         .s71 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -657,7 +657,7 @@
 
         .s73 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -665,8 +665,8 @@
         }
 
         .s74 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -675,7 +675,7 @@
 
         .s75 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -684,7 +684,7 @@
 
         .s77 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -693,7 +693,7 @@
 
         .s79 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -702,7 +702,7 @@
 
         .s80 {
             color: #001F5F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -711,7 +711,7 @@
 
         .s81 {
             color: #2E5395;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -720,7 +720,7 @@
 
         .s83 {
             color: #6F2F9F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -729,7 +729,7 @@
 
         .s84 {
             color: #6F2F9F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -738,7 +738,7 @@
 
         .s85 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -747,7 +747,7 @@
 
         .s86 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -756,7 +756,7 @@
 
         .s88 {
             color: #313D4F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -765,7 +765,7 @@
 
         .s90 {
             color: #313D4F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -774,7 +774,7 @@
 
         .s91 {
             color: #313D4F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -783,7 +783,7 @@
 
         .s92 {
             color: #313D4F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -792,7 +792,7 @@
 
         .s94 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: underline;
@@ -801,7 +801,7 @@
 
         .s95 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -810,7 +810,7 @@
 
         .s96 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -819,7 +819,7 @@
 
         a {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: underline;
@@ -828,7 +828,7 @@
 
         .s97 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -837,7 +837,7 @@
 
         h2 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -846,7 +846,7 @@
 
         .s98 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -865,7 +865,7 @@
 
         .s102 {
             color: #2D74B5;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -874,7 +874,7 @@
 
         .s103 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -883,7 +883,7 @@
 
         .s104 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -892,7 +892,7 @@
 
         .s105 {
             color: #2D74B5;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: none;
@@ -901,7 +901,7 @@
 
         .s106 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -910,7 +910,7 @@
 
         .s107 {
             color: #2D74B5;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: underline;
@@ -919,7 +919,7 @@
 
         .s108 {
             color: #00F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -937,7 +937,7 @@
 
         .s110 {
             color: #F00;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -964,7 +964,7 @@
 
         .s113 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: italic;
             font-weight: bold;
             text-decoration: underline;
@@ -972,8 +972,8 @@
         }
 
         .s114 {
-            color: #006FC0;
-            font-family: Calibri, sans-serif;
+            color: #0563c1;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -982,7 +982,7 @@
 
         .s115 {
             color: #2F2F2F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: underline;
@@ -991,7 +991,7 @@
 
         .s116 {
             color: #2F2F2F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -1000,7 +1000,7 @@
 
         .s117 {
             color: #2F2F2F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1009,7 +1009,7 @@
 
         .s118 {
             color: #0462C1;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: underline;
@@ -1027,7 +1027,7 @@
 
         .s121 {
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -1047,7 +1047,7 @@
             counter-increment: c1;
             content: counter(c1, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
             text-decoration: none;
@@ -1235,7 +1235,7 @@
             counter-increment: c2;
             content: "(" counter(c2, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1269,7 +1269,7 @@
             counter-increment: p1;
             content: "(" counter(p1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1289,7 +1289,7 @@
             counter-increment: q1;
             content: "(" counter(q1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1323,7 +1323,7 @@
             counter-increment: s1;
             content: "(" counter(s1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1343,7 +1343,7 @@
             counter-increment: s2;
             content: counter(s2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1363,7 +1363,7 @@
             counter-increment: t1;
             content: "(" counter(t1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1383,7 +1383,7 @@
             counter-increment: u1;
             content: "(" counter(u1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1403,7 +1403,7 @@
             counter-increment: v1;
             content: "(" counter(v1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1423,7 +1423,7 @@
             counter-increment: v2;
             content: counter(v2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1443,7 +1443,7 @@
             counter-increment: v2;
             content: counter(v2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1463,7 +1463,7 @@
             counter-increment: w1;
             content: "(" counter(w1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1483,7 +1483,7 @@
             counter-increment: x1;
             content: "(" counter(x1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1503,7 +1503,7 @@
             counter-increment: y1;
             content: "(" counter(y1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1523,7 +1523,7 @@
             counter-increment: z1;
             content: "(" counter(z1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1543,7 +1543,7 @@
             counter-increment: z2;
             content: counter(z2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1563,7 +1563,7 @@
             counter-increment: c1;
             content: "(" counter(c1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1583,7 +1583,7 @@
             counter-increment: d1;
             content: "(" counter(d1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1603,7 +1603,7 @@
             counter-increment: e1;
             content: "(" counter(e1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1623,7 +1623,7 @@
             counter-increment: f1;
             content: "(" counter(f1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1643,7 +1643,7 @@
             counter-increment: f2;
             content: counter(f2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1691,7 +1691,7 @@
             counter-increment: i1;
             content: "(" counter(i1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1711,7 +1711,7 @@
             counter-increment: i2;
             content: counter(i2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1745,7 +1745,7 @@
             counter-increment: k1;
             content: "(" counter(k1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1765,7 +1765,7 @@
             counter-increment: l1;
             content: "(" counter(l1, upper-latin)") ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1789,7 +1789,7 @@
             counter-increment: m1;
             content: counter(m1, decimal)". ";
             color: #313D4F;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1813,7 +1813,7 @@
             counter-increment: n1;
             content: counter(n1, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1831,7 +1831,7 @@
         #l45>li>*:first-child:before {
             content: " ";
             color: black;
-            font-family: Symbol, serif;
+            font-family: 'Symbol', serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1886,7 +1886,7 @@
             counter-increment: o2;
             content: counter(o2, decimal)". ";
             color: black;
-            font-family: Calibri, sans-serif;
+            font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: normal;
             text-decoration: none;
@@ -1938,7 +1938,22 @@
 
 
 <body>
-    <h1 style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">RESIDENTIAL LEASE AGREEMENT
+    <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+        <tr style="height:30px">
+            <td style="width:30%; padding-right:30px">
+                <img style="width:100%" src="images/logo.png" alt="logo"/>
+
+            </td>
+            <td style="width:70%">
+                <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                    108 Lakeside Drive, Southampton, PA 18966
+                </p>
+                <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+            </td>
+        </tr>
+    </table>
+    <h1 style="padding-top: 7pt;text-indent: 0pt;text-align:center;word-spacing:10px">RESIDENTIAL LEASE AGREEMENT
     </h1>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <ol id="l1">
@@ -1954,14 +1969,14 @@
                     style=" color: #000;">Landlord</span><span class="p">&quot;</span></p>
             <p class="s1" style="padding-top: 2pt;padding-left: 85pt;text-indent: 0pt;text-align: left;">and</p>
             <p class="s1" style="padding-top: 1pt;padding-left: 50pt;text-indent: 0pt;text-align: left;">TENANT(S):
-                <span style=" color: #006FC0;">Emily Magner and Family (N/A)</span><span class="s6">; </span><span
+                <span style="color: #0563c1;">Emily Magner and Family (N/A)</span><span class="s6">; </span><span
                     class="p">called &quot;</span>Tenant<span class="p">&quot;</span></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s1" style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Property located at: <span
-                    style=" color: #006FC0;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247</span><span
+                    style=" color: #0563c1;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247</span><span
                     class="s7">; called </span><span class="p">&quot;</span>Property<span class="p">&quot;</span></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s8" style="padding-left: 11pt;text-indent: 0pt;text-align: left;">CRS Temporary Housing is
+            <p class="s8" style="padding-left: 11pt;text-indent: 0pt;text-align: left;font-size:9pt">CRS Temporary Housing is
                 responsible for rent, late fees, security deposit(s), and other costs.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
@@ -1969,18 +1984,22 @@
             <p class="s1" style="padding-left: 32pt;text-indent: -18pt;text-align: left;">LANDLORD CONTACT INFORMATION
             </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <table style="border-collapse:collapse;margin-left:8.74pt" cellspacing="0">
+            <table style="border-collapse:collapse" cellspacing="0">
+
+            
                 <tr style="height:14pt">
-                    <td style="width:86pt">
-                        <p class="s9" style="padding-right: 3pt;text-indent: 0pt;line-height: 11pt;text-align: right;">
-                            Rental Payments:</p>
+                    <td style="width:100pt">
+                        <p class="s9" style="padding-right: 3pt;padding-left: 14pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
+                            Rental Payments:
+                        </p>
                     </td>
                     <td style="width:176pt" colspan="2">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
                     <td style="width:148pt">
-                        <p class="s9" style="padding-right: 4pt;text-indent: 0pt;line-height: 11pt;text-align: right;">
-                            Maintenance Requests:</p>
+                        <p class="s9" style="padding-right: 4pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
+                            Maintenance Requests:
+                        </p>
                     </td>
                     <td style="width:180pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -1988,38 +2007,38 @@
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-left: 40pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Payable to:</p>
                     </td>
-                    <td style="width:176pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td style="width:86pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
+                        <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Dan Housing, Inc.</p>
                     </td>
-                    <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                    <td style="">
+                        <p class="s10" style="padding-right: 5pt; padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Dan Housing, Inc. Contact:</p>
                     </td>
-                    <td style="width:180pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Gary Segal</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 50pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Address:</p>
                     </td>
-                    <td style="width:176pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
+                    <td style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
                         colspan="2">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             108 Lakeside Drive</p>
                     </td>
-                    <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                    <td style="width:250pt">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 118pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Address:</p>
                     </td>
                     <td
-                        style="width:180pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             108 Lakeside Drive</p>
                     </td>
@@ -2028,50 +2047,51 @@
                     <td style="width:86pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
-                    <td style="width:176pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
+                    <td style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
                         colspan="2">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Southampton, PA 18966</p>
                     </td>
-                    <td style="width:148pt">
+                    <td style="width:250pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
                     <td
-                        style="width:180pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Southampton, PA 18966</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-right: 5pt; padding-left: 48pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Phone(s):</p>
                     </td>
-                    <td style="width:76pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td style="width:100pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             215-355-6075</p>
                     </td>
+                    
                     <td style="width:100pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 7pt;text-indent: 0pt;line-height: 13pt;text-align: left;">|
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">|
                             215-355-6076</p>
                     </td>
                     <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-right: 5pt; padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             General Phone Number(s):</p>
                     </td>
                     <td style="width:180pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s11" style="padding-right: 5pt; padding-left: 50pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             215-355-4094</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-right: 5pt; padding-left: 75pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Fax:</p>
                     </td>
                     <td
                         style="width:76pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
                             215-220-3419</p>
                     </td>
                     <td
@@ -2079,7 +2099,7 @@
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
                     <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 142pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Fax:</p>
                     </td>
                     <td
@@ -2088,29 +2108,67 @@
                             215-220-3419</p>
                     </td>
                 </tr>
+
+
+                <tr style="height:16pt">
+                    <td style="width:148pt">
+                    <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
+                            href="mailto:Gary@DanHousing.com"
+                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
+                            target="_blank">General E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
+                            target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
+                            style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
+                            target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
+                            target="_blank">Donna@DanHousing.com</a>
+                        </p>
+                    </td>
+                    <td style="width:148pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
+                        colspan="2">
+                        <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
+                            href="mailto:Gary@DanHousing.com"
+                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
+                            target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
+                            target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
+                            style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
+                            target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
+                            target="_blank">Donna@DanHousing.com</a>
+                        </p>
+                    </td>
+                    <!-- <td style="width:148pt">
+                        <p style="padding-left: 17pt;text-indent: 0pt;text-align: left;"><a href="mailto:Gary@DanHousing.com"
+                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
+                            target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s13"
+                            target="_blank">Gary@DanHousing.com</a>
+                        </p>
+                    </td> -->
+                    <!-- <td
+                        style="width:180pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            108 Lakeside Drive</p>
+                    </td> -->
+                </tr>
             </table>
-            <p style="padding-left: 18pt;text-indent: 0pt;text-align: left;"><a href="mailto:Gary@DanHousing.com"
-                    style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
-                    target="_blank">General E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s13"
-                    target="_blank">Gary@DanHousing.com</a></p>
-            <p style="padding-left: 100pt;text-indent: 0pt;text-align: left;"><a href="mailto:Donna@DanHousing.com"
-                    class="s14">Donna@DanHousing.com</a></p>
-            <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
+
+            
+            <!-- <p style="padding-left: 100pt;text-indent: 0pt;text-align: left;"><a href="mailto:Donna@DanHousing.com"
+                    class="s14">Donna@DanHousing.com</a></p> -->
+                <!-- <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
                     href="mailto:Gary@DanHousing.com"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
                     target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
                     target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
                     style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
                     target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
-                    target="_blank">Donna@DanHousing.com</a></p>
+                    target="_blank">Donna@DanHousing.com</a>
+                </p> -->
             <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;" />
+            <p style="text-indent: 0pt;text-align: left;width:50%">
             <p class="s18" style="padding-left: 35pt;text-indent: 0pt;text-align: left;"><a
                     href="mailto:Nina@DanHousing.com"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
                     target="_blank">Accounting: </a><span
                     style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 10pt; vertical-align: 1pt;">Nina@DanHousing.com</span>
-                <span class="s12">Maintenance Phone(s): </span><span class="s19">215-355-6075 | 215-355-4094</span></p>
+                <span class="s12" style="padding-left:100px">Maintenance Phone(s): </span><span class="s19">215-355-6075 | 215-355-4094</span></p>
             <p style="padding-top: 1pt;padding-left: 37pt;text-indent: 0pt;text-align: left;"><a
                     href="mailto:Leo@DanHousing.com"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
@@ -2120,8 +2178,8 @@
                     class="s14">Donna@DanHousing.com</a></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p style="padding-left: 138pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-            <p class="s12" style="padding-left: 37pt;text-indent: 0pt;text-align: left;">Emergency Phone(s): <span
-                    style=" color: #006FC0;">215-355-6075 | 215-355-4094</span></p>
+            <p class="s12" style="padding-left: 37pt;text-indent: 0pt;text-align: right;">Emergency Phone(s): <span
+                    style=" color: #0563c1;">215-355-6075 | 215-355-4094</span></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -2130,7 +2188,7 @@
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">LEASE TERM
             </p>
             <p class="s12" style="padding-top: 4pt;padding-bottom: 2pt;text-indent: 0pt;text-align: right;">Start Date:
-                <span style=" color: #006FC0;">July 11, 2022 </span><span class="p">, at 10:00 am</span></p>
+                <span style=" color: #0563c1;">July 11, 2022 </span><span class="p">, at 10:00 am</span></p>
             <p style="padding-left: 95pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
             <p class="s20" style="text-indent: 0pt;text-align: right;">End Date: <span class="s19">September 11, 2022
                 </span><span class="s21">, at 12:00 pm</span></p>
@@ -2255,7 +2313,7 @@
                 Landlord</p>
             <p class="s15"
                 style="padding-top: 5pt;padding-bottom: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">
-                Bed/Bath: <span style=" color: #006FC0;">1 / 1 </span>Sq. Ft.: <span style=" color: #006FC0;">829
+                Bed/Bath: <span style=" color: #0563c1;">1 / 1 </span>Sq. Ft.: <span style=" color: #0563c1;">829
                 </span>Year Built: <span class="s27">UnKnown</span></p>
             <p class="s17" style="padding-left: 77pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
