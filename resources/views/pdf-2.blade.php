@@ -2187,12 +2187,12 @@
         <li data-list-text="3.">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">LEASE TERM
             </p>
-            <p class="s12" style="padding-top: 4pt;padding-bottom: 2pt;text-indent: 0pt;text-align: right;">Start Date:
+            <p class="s12" style="padding-top: 4pt;padding-left: 40pt;padding-bottom: 2pt;text-indent: 0pt;text-align: left;">Start Date:
                 <span style=" color: #0563c1;">July 11, 2022 </span><span class="p">, at 10:00 am</span></p>
-            <p style="padding-left: 95pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-            <p class="s20" style="text-indent: 0pt;text-align: right;">End Date: <span class="s19">September 11, 2022
+            <p style="padding-left: 95pt;text-indent: 0pt;line-height: 1pt;text-align: left;">
+            <p class="s20" style="text-indent: 0pt;padding-left: 40pt;text-align: left;">End Date: <span class="s19">September 11, 2022
                 </span><span class="s21">, at 12:00 pm</span></p>
-            <p style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+            <p style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="4.">
@@ -2201,114 +2201,42 @@
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <table style="border-collapse:collapse;margin-left:9.82pt" cellspacing="0">
                 <tr style="height:12pt">
-                    <td style="width:71pt">
+                    <td>
                         <p class="s22" style="padding-left: 2pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
-                            Property Type:</p>
+                            Property Type:
+                        </p>
                     </td>
-                    <td style="width:60pt">
-                    <td style="width:61pt">
-                    <td style="width:46pt">
-                    <td style="width:56pt">
-                    <td style="width:93pt">
-                        <p class="s22" style="padding-left: 16pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
-                            Garage/Parking:</p>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Single</td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Townhouse</td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Twin</td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Condo</td>
+                    <td>
+                        <p class="s22" style="padding-left: 16pt;padding-right: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
+                            Garage/Parking:
+                        </p>
                     </td>
-                    <td style="width:50pt">
-                    <td style="width:62pt">
-                    <td style="width:77pt">
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Garage</td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Driveway</td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Carport</td>
+                    <td style="width:80px"></td>
                 </tr>
                 <tr style="height:11pt">
                     <td style="width:71pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
-                    <td style="width:60pt">
-                        <p class="s24" style="padding-left: 8pt;text-indent: 0pt;line-height: 9pt;text-align: left;">☒
-                            <span class="s23">Apartment</span></p>
-                    </td>
-                    <td style="width:61pt">
-                    <td style="width:46pt">
-                    <td style="width:56pt">
-                    <td style="width:93pt">
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Apartment</td>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Mobil</td>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Trailer</td>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Duplex</td>
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Street</td>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Community</td>
+                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Assigned Parking</td>
                     </td>
-                    <td style="width:50pt">
-                        <p class="s24"
-                            style="padding-left: 7pt;padding-right: 10pt;text-indent: 0pt;line-height: 10pt;text-align: center;">
-                            ☒ <span class="s23">Street</span></p>
-                    </td>
-                    <td style="width:62pt">
-                        <p class="s24" style="padding-left: 7pt;text-indent: 0pt;line-height: 10pt;text-align: left;">☒
-                            <span class="s23">Community</span></p>
-                    </td>
-                    <td style="width:77pt">
                 </tr>
             </table>
-            <ul id="l2">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Single</p>
-                </li>
-            </ul>
-            <ul id="l3">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 15pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Townhouse</p>
-                </li>
-            </ul>
-            <ul id="l4">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 17pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Twin
-                    </p>
-                </li>
-            </ul>
-            <ul id="l5">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 16pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Condo</p>
-                </li>
-            </ul>
-            <ul id="l6">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 18pt;text-indent: -9pt;line-height: 9pt;text-align: left;">
-                        Garage</p>
-                </li>
-            </ul>
-            <ul id="l7">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 17pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Driveway</p>
-                </li>
-            </ul>
-            <ul id="l8">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 17pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Carport</p>
-                </li>
-            </ul>
-            <ul id="l9">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 15pt;text-indent: -9pt;line-height: 9pt;text-align: left;">Mobil
-                    </p>
-                </li>
-            </ul>
-            <ul id="l10">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 17pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Trailer</p>
-                </li>
-            </ul>
-            <ul id="l11">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 16pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
-                        Duplex</p>
-                </li>
-            </ul>
-            <ul id="l12">
-                <li data-list-text="☐">
-                    <p class="s23" style="padding-left: 17pt;text-indent: -9pt;line-height: 10pt;text-align: left;">
-                        Assigned Parking</p>
-                </li>
-            </ul>
+            
+            
             <p class="s25" style="padding-left: 405pt;text-indent: 0pt;text-align: left;">AND/OR as permitted by Law /
                 Landlord</p>
             <p class="s15"
