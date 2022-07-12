@@ -1934,6 +1934,7 @@
             vertical-align: top;
             overflow: visible;
         }
+
     </style>
 
 
@@ -1985,32 +1986,25 @@
             </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <table style="border-collapse:collapse" cellspacing="0">
-
-            
+                <tbody>
                 <tr style="height:14pt">
                     <td style="width:100pt">
                         <p class="s9" style="padding-right: 3pt;padding-left: 14pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
                             Rental Payments:
                         </p>
                     </td>
-                    <td style="width:176pt" colspan="2">
-                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                    </td>
-                    <td style="width:148pt">
+                    <!-- <td style="">
                         <p class="s9" style="padding-right: 4pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
                             Maintenance Requests:
                         </p>
-                    </td>
-                    <td style="width:180pt">
-                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                    </td>
+                    </td> -->
                 </tr>
                 <tr style="height:16pt">
-                    <td style="width:86pt">
+                    <td style="">
                         <p class="s10" style="padding-left: 40pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Payable to:</p>
                     </td>
-                    <td style="width:86pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
                         <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Dan Housing, Inc.</p>
                     </td>
@@ -2108,9 +2102,7 @@
                             215-220-3419</p>
                     </td>
                 </tr>
-
-
-                <tr style="height:16pt">
+                <!-- <tr style="height:16pt">
                     <td style="width:148pt">
                     <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
                             href="mailto:Gary@DanHousing.com"
@@ -2134,33 +2126,10 @@
                             target="_blank">Donna@DanHousing.com</a>
                         </p>
                     </td>
-                    <!-- <td style="width:148pt">
-                        <p style="padding-left: 17pt;text-indent: 0pt;text-align: left;"><a href="mailto:Gary@DanHousing.com"
-                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
-                            target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s13"
-                            target="_blank">Gary@DanHousing.com</a>
-                        </p>
-                    </td> -->
-                    <!-- <td
-                        style="width:180pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            108 Lakeside Drive</p>
-                    </td> -->
-                </tr>
+                    
+                </tr> -->
+                </tbody>
             </table>
-
-            
-            <!-- <p style="padding-left: 100pt;text-indent: 0pt;text-align: left;"><a href="mailto:Donna@DanHousing.com"
-                    class="s14">Donna@DanHousing.com</a></p> -->
-                <!-- <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
-                    href="mailto:Gary@DanHousing.com"
-                    style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                    target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
-                    target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
-                    style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                    target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
-                    target="_blank">Donna@DanHousing.com</a>
-                </p> -->
             <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
             <p style="text-indent: 0pt;text-align: left;width:50%">
             <p class="s18" style="padding-left: 35pt;text-indent: 0pt;text-align: left;"><a
@@ -2168,7 +2137,8 @@
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
                     target="_blank">Accounting: </a><span
                     style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 10pt; vertical-align: 1pt;">Nina@DanHousing.com</span>
-                <span class="s12" style="padding-left:100px">Maintenance Phone(s): </span><span class="s19">215-355-6075 | 215-355-4094</span></p>
+                <span class="s12" style="padding-left:100px">Maintenance Phone(s): </span><span class="s19">215-355-6075 | 215-355-4094</span>
+            </p>
             <p style="padding-top: 1pt;padding-left: 37pt;text-indent: 0pt;text-align: left;"><a
                     href="mailto:Leo@DanHousing.com"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
@@ -2177,9 +2147,10 @@
             <p style="padding-left: 100pt;text-indent: 0pt;text-align: left;"><a href="mailto:Donna@DanHousing.com"
                     class="s14">Donna@DanHousing.com</a></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 138pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+            <p style="padding-left: 138pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
             <p class="s12" style="padding-left: 37pt;text-indent: 0pt;text-align: right;">Emergency Phone(s): <span
-                    style=" color: #0563c1;">215-355-6075 | 215-355-4094</span></p>
+                    style=" color: #0563c1;">215-355-6075 | 215-355-4094</span>
+            </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -2202,36 +2173,105 @@
             <table style="border-collapse:collapse;margin-left:9.82pt" cellspacing="0">
                 <tr style="height:12pt">
                     <td>
-                        <p class="s22" style="padding-left: 2pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
+                        <p class="s22" style="width:75pt;padding-left: 2pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
                             Property Type:
                         </p>
                     </td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Single</td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Townhouse</td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Twin</td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Condo</td>
-                    <td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Single
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Townhouse
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Twin
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Condo
+                        </label>
+                    </td>
                         <p class="s22" style="padding-left: 16pt;padding-right: 8pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
                             Garage/Parking:
                         </p>
                     </td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Garage</td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Driveway</td>
-                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Carport</td>
-                    <td style="width:80px"></td>
+                    <td class="s23" style="padding-left: 3pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Garage
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 4pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Driveway
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 3pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Carport
+                        </label>
+                    </td>
                 </tr>
                 <tr style="height:11pt">
-                    <td style="width:71pt">
+                    <td style="padding-left: 100pt">
+                        
+                    </td>
+                    <td class="s23" style="padding-left: 8pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            Apartment
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Mobil
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Trailer
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 10pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            Duplex
+                        </label>
+                    </td>
+                    <td style="width:75pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Apartment</td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Mobil</td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Trailer</td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Duplex</td>
-                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Street</td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Community</td>
-                    <td class="s23" style="padding-left: 18pt;text-indent: -10pt;line-height: 9pt;text-align: left;">Assigned Parking</td>
+                    <td class="s23" style="padding-left: 2pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            Street
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 3pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            Community
+                        </label>
+                    </td>
+                    <td class="s23" style="padding-left: 6pt;text-indent: -10pt;line-height: 9pt;text-align: left;">
+                        <label style="vertical-align:top">
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            Assigned Parking
+                        </label>
                     </td>
                 </tr>
             </table>
@@ -2241,34 +2281,69 @@
                 Landlord</p>
             <p class="s15"
                 style="padding-top: 5pt;padding-bottom: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">
-                Bed/Bath: <span style=" color: #0563c1;">1 / 1 </span>Sq. Ft.: <span style=" color: #0563c1;">829
-                </span>Year Built: <span class="s27">UnKnown</span></p>
-            <p class="s17" style="padding-left: 77pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </li>
-        <li data-list-text="5.">
+                <span> Bed/Bath: </span><span class="s15" style="color: #0563c1;">1 / 1 </span>
+                <span style="display:inline-block; width: 350px;"></span>
+                <span>Sq. Ft.: </span><span class="s15" style="color: #0563c1; padding-right:30px">829</span>
+                <span>Year Built: </span><span class="s15" style="color: #0563c1;">UnKnown</span>
+            </p>
+        </li>               
+        <li data-list-text="5." style="padding-top:10px">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">RENEWAL TERM
             </p>
             <p class="s4" style="padding-left: 30pt;text-indent: 0pt;text-align: left;">This Lease will AUTOMATICALLY
                 RENEW for a term of MONTH TO MONTH (also called the &quot;Renewal Term&quot;) at the End Date of this
                 Lease or at the end of any Renewal Term unless:</p>
             <p class="s29" style="padding-left: 30pt;text-indent: 0pt;text-align: left;"><span class="s28">Tenant gives
-                    Landlord at least </span>☐ <span class="s30">15</span><span class="s31">, </span>☒ <span
-                    class="s30">14</span><span class="s31">, </span>☐ <span class="s30">60</span><span class="s31">
-                </span><span class="s28">days written notice before End Date and </span>☒ <span
+                    Landlord at least </span>
+                    <img src="images/checkbox.png" alt="checkbox" style="width:11px;height:11px">
+                    <span class="s30" style="vertical-align:top">15</span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:15px;height:15px">
+                    <span
+                    class="s30">14</span><span class="s31">, </span>
+                    <img src="images/checkbox.png" alt="checkbox" style="width:11px;height:11px">
+                    <span class="s30">60</span><span class="s31">
+                </span><span class="s28">days written notice before End Date and </span>
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:15px;height:15px">
+                <span
                     class="s30">14</span><span class="s31"> </span><span class="s28">days before the end of any Renewal
-                    Term Landlord gives Tenant at least </span>☐ <span class="s30">15</span><span class="s31">, </span>☒
-                <span class="s30">30</span><span class="s31">, </span>☐ <span class="s30">60</span><span class="s31">
+                    Term Landlord gives Tenant at least </span>
+                        <img src="images/checkbox.png" alt="checkbox" style="width:11px;height:11px">
+                    <span class="s30">15</span><span class="s31">, </span>
+                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:15px;height:15px">
+                <span class="s30">30</span><span class="s31">, </span>
+                    <img src="images/checkbox.png" alt="checkbox" style="width:11px;height:11px">
+                <span class="s30">60</span><span class="s31">
                 </span><span class="s28">days written notice before End Date or before the end of any Renewal
                     Term</span></p>
             <p class="s32" style="padding-left: 30pt;text-indent: 0pt;line-height: 13pt;text-align: left;">All notices
                 must be provided no later than 3:00 pm EST <span class="s33">before the End Date or before the End of
                     any Renewal Term.</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+            <table>
+                <tbody>
+                    <tr>
+                        <td style="text-align: right; width:700px">
+                            <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3> 
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="s35" style="padding-left: 11pt;text-align: left;border-bottom:1px solid #000"></td>
+                        <td style="width:500px"></td>
+                        <td class="s35" style="padding-right: 11pt;text-align: right;border-bottom:1px solid #000"></td>
+                    </tr>
+                    <tr>
+                        <td style="text-indent: 0pt;text-align: left;">Tenant Initials</td>
+                        <td style="width:500px"></td>
+                        <td style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            
         </li>
         <li data-list-text="6.">
             <p class="s1"
@@ -2310,7 +2385,6 @@
                     <td style="width:22pt">
                         <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(C)</p>
                     </td>
-                    <td style="width:462pt" />
                     <td
                         style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s43"
