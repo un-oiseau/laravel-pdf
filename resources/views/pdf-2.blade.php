@@ -1988,38 +1988,41 @@
             <table style="border-collapse:collapse" cellspacing="0">
                 <tbody>
                 <tr style="height:14pt">
-                    <td style="width:100pt">
+                    <td style="">
                         <p class="s9" style="padding-right: 3pt;padding-left: 14pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
                             Rental Payments:
                         </p>
                     </td>
-                    <!-- <td style="">
-                        <p class="s9" style="padding-right: 4pt;text-indent: 0pt;line-height: 11pt;text-align: left;">
+                    <!-- <td style="text-indent:100pt"></td> -->
+                    <td>
+                        <p class="s9" style="padding-right: 4pt;text-indent: 0pt;line-height: 11pt;text-align: right;">
                             Maintenance Requests:
                         </p>
-                    </td> -->
+                    </td>
                 </tr>
                 <tr style="height:16pt">
-                    <td style="">
-                        <p class="s10" style="padding-left: 40pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            Payable to:</p>
+                    <td>
+                        <p class="s10" style="padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Payable to:
+                        </p>
                     </td>
                     <td style="border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
                         <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Dan Housing, Inc.</p>
                     </td>
-                    <td style="">
-                        <p class="s10" style="padding-right: 5pt; padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            Dan Housing, Inc. Contact:</p>
+                    <td>
+                        <p class="s10" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        Dan Housing, Inc. Contact:</p>
                     </td>
                     <td style="border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            Gary Segal</p>
+                            Gary Segal
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt;padding-left: 50pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 35pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Address:</p>
                     </td>
                     <td style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
@@ -2027,12 +2030,12 @@
                         <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             108 Lakeside Drive</p>
                     </td>
-                    <td style="width:250pt">
-                        <p class="s10" style="padding-right: 5pt;padding-left: 118pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td>
+                        <p class="s10" style="padding-right: 5pt;padding-left: 97pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Address:</p>
                     </td>
                     <td
-                        style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        style="border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             108 Lakeside Drive</p>
                     </td>
@@ -2041,59 +2044,60 @@
                     <td style="width:86pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
-                    <td style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
+                    <td style="border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
                         colspan="2">
                         <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Southampton, PA 18966</p>
                     </td>
-                    <td style="width:250pt">
+                    <td>
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
-                    <td
-                        style="width:250pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    <td style="border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Southampton, PA 18966</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
-                    <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt; padding-left: 48pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td>
+                        <p class="s10" style="padding-right: 5pt; padding-left: 33pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Phone(s):</p>
                     </td>
-                    <td style="width:100pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    <td style="width:100pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
                         <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            215-355-6075</p>
+                            215-355-6075 | 215-355-6076</p>
                     </td>
                     
-                    <td style="width:100pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    <!-- <td style="border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">|
-                            215-355-6076</p>
+                            </p>
+                    </td> -->
+                    <td>
+                        <p class="s10" style="padding-right: 5pt; padding-left: 7pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            General Phone Number(s):
+                        </p>
                     </td>
-                    <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt; padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            General Phone Number(s):</p>
-                    </td>
-                    <td style="width:180pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s11" style="padding-right: 5pt; padding-left: 50pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-right: 5pt; text-indent: 0pt;line-height: 13pt;text-align: left;">
                             215-355-4094</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
-                    <td style="width:86pt">
-                        <p class="s10" style="padding-right: 5pt; padding-left: 75pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            Fax:</p>
+                    <td>
+                        <p class="s10" style="padding-right: 5pt; padding-left: 60pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Fax:
+                        </p>
                     </td>
-                    <td
-                        style="width:76pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    <td style="border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            215-220-3419</p>
+                            215-220-3419
+                        </p>
                     </td>
                     <td
                         style="width:100pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p style="text-indent: 0pt;text-align: left;"><br /></p>
                     </td>
                     <td style="width:148pt">
-                        <p class="s10" style="padding-right: 5pt;padding-left: 142pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 125pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Fax:</p>
                     </td>
                     <td
@@ -2102,44 +2106,86 @@
                             215-220-3419</p>
                     </td>
                 </tr>
-                <!-- <tr style="height:16pt">
-                    <td style="width:148pt">
-                    <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
-                            href="mailto:Gary@DanHousing.com"
-                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                            target="_blank">General E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
-                            target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
-                            style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                            target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
-                            target="_blank">Donna@DanHousing.com</a>
+                <tr style="height:16pt">
+                    <td style="width:86pt">
+                        <p class="s10" style="padding-right: 5pt;padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        General E-Mail:</p>
+                    </td>
+                    <td style="width:250pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <a href="mailto:Gary@DanHousing.com" class="s14" target="_blank">Gary@DanHousing.com</a>
+                            <a href="mailto:Donna@DanHousing.com" class="s14" target="_blank">Donna@DanHousing.com</a>
                         </p>
                     </td>
-                    <td style="width:148pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt"
-                        colspan="2">
-                        <p style="padding-left: 58pt;text-indent: -40pt;line-height: 114%;text-align: left;"><a
-                            href="mailto:Gary@DanHousing.com"
-                            style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                            target="_blank">E-Mail: </a><a href="mailto:Gary@DanHousing.com" class="s14"
-                            target="_blank">Gary@DanHousing.com</a><a href="mailto:Donna@DanHousing.com"
-                            style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt;"
-                            target="_blank"> </a><a href="mailto:Donna@DanHousing.com" class="s14"
-                            target="_blank">Donna@DanHousing.com</a>
+                    <td>
+                        <p class="s10" style="padding-right: 5pt;padding-left: 110pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            E-Mail:
                         </p>
                     </td>
-                    
-                </tr> -->
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <a href="mailto:Gary@DanHousing.com" class="s14" target="_blank">Gary@DanHousing.com</a>
+                            <a href="mailto:Donna@DanHousing.com" class="s14" target="_blank">Donna@DanHousing.com</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:50pt">
+                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                    </td>
+
+                </tr>
+                <tr style="height:16pt">
+                    <td>
+                        <p class="s10" style=" padding-left: 25pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Accounting:
+                        </p>
+                    </td>
+                    <td colspan="2" style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <a
+                                href="mailto:nina@danhousing.com"
+                                style="color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 10pt; vertical-align: 1pt";
+                                target="_blank">Nina@DanHousing.com:
+                            </a>
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s10" style="padding-right: 5pt;padding-left: 15pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Maintenance Phone(s):</p>
+                    </td>
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            215-355-6075 | 215-355-6076</p>
+                    </td>
+                </tr>
+
+                <tr style="height:16pt">
+                    <td>
+                        <p class="s10" style="padding-right: 5pt; padding-left: 28pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Extensions:</p>
+                    </td>
+                    <td style="width:250pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
+                        <p class="s11" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <a href="mailto:Leo@DanHousing.com" class="s14" target="_blank">Leo@DanHousing.com</a>
+                            <a href="mailto:Donna@DanHousing.com" class="s14" target="_blank">Donna@DanHousing.com</a>
+                        </p>
+                    </td>
+                    <td style="padding-left: 15pt;">
+                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            Emergency Phone(s):</p>
+                    </td>
+                    <td style="border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s11" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            215-355-6075 | 215-355-6076</p>
+                    </td>
+                </tr>
+
+                
                 </tbody>
             </table>
-            <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;width:50%">
-            <p class="s18" style="padding-left: 35pt;text-indent: 0pt;text-align: left;"><a
-                    href="mailto:Nina@DanHousing.com"
-                    style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
-                    target="_blank">Accounting: </a><span
-                    style=" color: #0462C1; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 10pt; vertical-align: 1pt;">Nina@DanHousing.com</span>
-                <span class="s12" style="padding-left:100px">Maintenance Phone(s): </span><span class="s19">215-355-6075 | 215-355-4094</span>
-            </p>
-            <p style="padding-top: 1pt;padding-left: 37pt;text-indent: 0pt;text-align: left;"><a
+
+            <!-- <p style="padding-top: 1pt;padding-left: 37pt;text-indent: 0pt;text-align: left;"><a
                     href="mailto:Leo@DanHousing.com"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
                     target="_blank">Extensions: </a><a href="mailto:Leo@DanHousing.com" class="s13"
@@ -2153,7 +2199,7 @@
             </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
         </li>
         <li data-list-text="3.">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">LEASE TERM
