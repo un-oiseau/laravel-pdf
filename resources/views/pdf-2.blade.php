@@ -1943,7 +1943,6 @@
         <tr style="height:30px">
             <td style="width:30%; padding-right:30px">
                 <img style="width:100%" src="images/logo.png" alt="logo"/>
-
             </td>
             <td style="width:70%">
                 <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
@@ -2180,28 +2179,10 @@
                             215-355-6075 | 215-355-6076</p>
                     </td>
                 </tr>
-
-                
                 </tbody>
             </table>
-
-            <!-- <p style="padding-top: 1pt;padding-left: 37pt;text-indent: 0pt;text-align: left;"><a
-                    href="mailto:Leo@DanHousing.com"
-                    style=" color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 11pt;"
-                    target="_blank">Extensions: </a><a href="mailto:Leo@DanHousing.com" class="s13"
-                    target="_blank">Leo@DanHousing.com</a></p>
-            <p style="padding-left: 100pt;text-indent: 0pt;text-align: left;"><a href="mailto:Donna@DanHousing.com"
-                    class="s14">Donna@DanHousing.com</a></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 138pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-            <p class="s12" style="padding-left: 37pt;text-indent: 0pt;text-align: right;">Emergency Phone(s): <span
-                    style=" color: #0563c1;">215-355-6075 | 215-355-4094</span>
-            </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s17" style="padding-left: 94pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
         </li>
-        <li data-list-text="3.">
+        <li data-list-text="3." style="padding-top:10pt">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">LEASE TERM
             </p>
             <p class="s12" style="padding-top: 4pt;padding-left: 40pt;padding-bottom: 2pt;text-indent: 0pt;text-align: left;">Start Date:
@@ -2377,59 +2358,117 @@
             <table>
                 <tbody>
                     <tr>
-                        <td class="s35" style="padding-left: 11pt;text-align: left;border-bottom:1px solid #000"></td>
+                        <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
                         <td style="width:500px"></td>
-                        <td class="s35" style="padding-right: 11pt;text-align: right;border-bottom:1px solid #000"></td>
+                        <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
                     </tr>
                     <tr>
-                        <td style="text-indent: 0pt;text-align: left;">Tenant Initials</td>
-                        <td style="width:500px"></td>
-                        <td style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                        <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                        <td class="s28" style="width:500px"></td>
+                        <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
                     </tr>
                 </tbody>
             </table>
-
-            
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+            <table>
+                <tbody>
+                    <tr style="height:16pt">
+                    
+                    <td style="width:220pt">
+                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                            Confidential - Thursday, July 7, 2022
+                        </p>
+                    </td>
+                
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            Page 1 of 22
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                            DAN Housing, Inc © 2016-2022
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
         </li>
+        
+            <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+                <tr style="height:30px">
+                    <td style="width:30%; padding-right:30px">
+                        <img style="width:100%" src="images/logo.png" alt="logo"/>
+
+                    </td>
+                    <td style="width:70%">
+                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                            108 Lakeside Drive, Southampton, PA 18966
+                        </p>
+                        <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                        <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                    </td>
+                </tr>
+            </table>
+
         <li data-list-text="6.">
             <p class="s1"
                 style="padding-top: 2pt;padding-bottom: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">
                 RENT</p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
                 <tr style="height:16pt">
-                    <td style="width:484pt" colspan="2">
+                    <td colspan="2">
                         <p class="s38" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             <span class="s36">(A) </span><span class="s37">Rent is due in advance, without demand, on or
                                 before the </span>1<span class="s39">st</span> <span class="s37">day of each
                                 month.</span></p>
                     </td>
-                    <td style="width:90pt" bgcolor="#8EAADB">
+                    <td style="width:120pt" bgcolor="#8EAADB">
                         <p class="s9" style="padding-right: 5pt;text-indent: 0pt;text-align: right;">Amounts</p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:22pt">
-                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            (B)</p>
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">(B)</p>
                     </td>
-                    <td style="width:462pt">
-                        <p style="padding-left: 269pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-                        <p class="s40"
-                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            <span class="s37">The total Rent due per </span><span class="s38">Month </span><span
-                                class="s37">is: </span>Furnished: <span class="s41">☒ </span>Yes <span class="s41">☐
-                            </span>No <span class="s42">| </span>Utilities Included: <span class="s41">☒ </span>Yes
-                            <span class="s41">☐ </span>No</p>
+                    <td colspan="2">
+                        <p style="text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
+                        <p class="s40" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <span class="s37">The total Rent due per </span>
+                            <span class="s38">Month </span>
+                            <span class="s37">is: </span>Furnished: <span class="s41">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Yes
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span>No 
+                            <span class="s42">| </span>Utilities Included: <span class="s41">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Yes
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span>No
+                        </p>
                     </td>
                     <td style="width:90pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s43"
                             style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
-                            $4,580.00</p>
+                            $4,580.00
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:22pt">
-                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(C)</p>
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(C)</p>
+                    </td>
+                    <td style="width:360pt">
+                        <p class="s41"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <span class="s37">Full Month or </span>
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s37">Pro-Rated Month (based on 30
+                                days) </span><span class="s38">July</span></p>
                     </td>
                     <td
                         style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
@@ -2442,10 +2481,13 @@
                     <td style="width:22pt">
                         <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(D)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:360pt">
                         <p class="s41"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            ☒ <span class="s37">Full Month or </span>☐ <span class="s37">Pro-Rated Month (based on 30
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <span class="s37">Full Month or </span>
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s37">Pro-Rated Month (based on 30
                                 days) </span><span class="s38">August</span></p>
                     </td>
                     <td
@@ -2459,7 +2501,7 @@
                     <td style="width:22pt">
                         <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(E)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:300pt">
                         <p class="s37"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                             Other Deposits/Fees: <span class="s38">N/A -</span></p>
@@ -2475,7 +2517,7 @@
                     <td style="width:22pt">
                         <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(F)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:300pt">
                         <p class="s37"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                             Utilities allowance p/m: <span class="s38">N/A -</span></p>
@@ -2491,7 +2533,7 @@
                     <td style="width:22pt">
                         <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(G)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:350pt">
                         <p class="s37"
                             style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                             The total amount of Rent due during the Term is: <span class="s38">$4,580.00 x 2 + $152.67
@@ -2509,7 +2551,7 @@
                         <p class="s37" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             (H)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:300pt">
                         <p class="s37"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                             After the Initial Term, Rent Amount: <span class="s38">Market Rate.</span></p>
@@ -2526,7 +2568,7 @@
                         <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             (I)</p>
                     </td>
-                    <td style="width:462pt">
+                    <td style="width:300pt">
                         <p class="s37"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                             If Rent is more than <span class="s44">&nbsp;5 </span><span class="s38"> </span>days late,
@@ -2540,14 +2582,14 @@
                     </td>
                 </tr>
             </table>
-            <ul id="l13">
-                <li data-list-text="☐">
-                    <p class="s37"
-                        style="padding-top: 1pt;padding-left: 19pt;text-indent: -13pt;line-height: 13pt;text-align: left;">
-                        Full Month or <span class="s41">☒ </span>Pro-Rated Month (based on 30 days) <span
-                            class="s38">July (21 Days)</span></p>
-                </li>
-            </ul>
+                <p class="s37"
+                    style="padding-top: 1pt;padding-left: 19pt;text-indent: -13pt;line-height: 13pt;text-align: left;">
+                    <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    Full Month or <span class="s41">
+                        <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                    </span>Pro-Rated Month (based on 30 days) <span
+                        class="s38">July (21 Days)</span>
+                </p>
             <ol id="l14">
                 <li data-list-text="(J)">
                     <p style="padding-top: 1pt;padding-left: 57pt;text-indent: -24pt;text-align: left;">All other
@@ -2569,23 +2611,37 @@
                 <li data-list-text="(M)">
                     <p style="padding-left: 57pt;text-indent: -26pt;line-height: 14pt;text-align: left;">The landlord
                         will accept the following methods of payment:</p>
-                    <ul id="l15">
-                        <li data-list-text="☐">
-                            <p style="padding-top: 1pt;padding-left: 71pt;text-indent: -13pt;text-align: left;">Cash,
-                                <span class="s46">☒ </span>Money Order, <span class="s46">☒ </span>Business Check, <span
-                                    class="s46">☒ </span>Bank Check, <span class="s46">☒ </span>Credit Cards, <span
-                                    class="s46">☒ </span>Direct Deposit, <span class="s46">☐ </span>Other <u>&nbsp;</u>
-                            </p>
-                            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                        </li>
-                    </ul>
+                        <p style="padding-top: 1pt;padding-left: 10pt;text-indent: -13pt;text-align: left;">
+                            <span class="s46">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span>
+                                Cash,
+                            <span class="s46">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Money Order, 
+                            <span class="s46">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Business Check, 
+                            <span class="s46">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Bank Check,
+                            <span class="s46">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>Credit Cards,
+                            <span class="s46">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span>Direct Deposit, <span class="s46">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span>Other <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+                        </p>
+                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
                 </li>
             </ol>
         </li>
         <li data-list-text="7.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">MOVE-IN/OUT
+            <p class="s1" style="padding-left: 32pt;text-indent: -18pt;text-align: left;">MOVE-IN/OUT
                 PAYMENTS (Rent, Deposits, and Other Fees)</p>
-            <p style="text-indent: 0pt;text-align: left;" />
+            <p style="text-indent: 0pt;text-align: left;"></p>
             <ol id="l16">
                 <li data-list-text="(A)">
                     <p style="padding-top: 2pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Security
@@ -2593,66 +2649,83 @@
                     <p class="s50" style="padding-left: 23pt;text-indent: 0pt;text-align: left;"><span class="p">Deposit
                             held at </span><span class="s49">(</span>financial Institution<span
                             class="s51">)</span><span class="s52">: </span>Wells Fargo, TD Bank or Bank of America <span
-                            class="p">Paid by: </span><span class="s46">☒ </span><span class="s27">Tenant </span><span
-                            class="s53">OR </span><span class="s46">☒ </span><span class="s27">CRS Temporary Housing
+                            class="p">Paid by: </span><span class="s46">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span><span class="s27">Tenant </span><span
+                            class="s53">OR </span><span class="s46">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span><span class="s27">CRS Temporary Housing
                         </span><span class="s54">$4,000.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(B)">
-                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">☐ <span
-                            class="p">Full Month or </span>☒ <span class="p">Pro-Rated Month (based on 30 days)
+                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">
+                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                    <span class="p">Full Month or </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Pro-Rated Month (based on 30 days)
                         </span><span class="s4">July (21 Days) </span><span class="s1">$3,206.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(C)">
-                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">☒ <span
-                            class="p">Full Month or </span>☐ <span class="p">Pro-Rated Month (based on 30 days)
+                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Full Month or </span>
+                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                    <span class="p">Pro-Rated Month (based on 30 days)
                         </span><span class="s4">August </span><span class="s1">$4,580.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(D)">
                     <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Rental
                         Insurance Fee: <span class="s55">If Insurance Policy is NOT transferable, NEW Rental policy Must
                             be purchased: Included </span><b>$00.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(E)">
                     <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">
                         Application/Processing Fee: <b>$275.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(F)">
                     <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Cleaning Fee:
                         <b>Before Move-In $400.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(G)">
                     <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Admin/Broker
                         Fee: <b>$275.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(H)">
                     <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Other
                         Deposits/Fees: <span class="s4">N/A </span><b>$00.00</b></p>
                     <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-                    <p style="text-indent: 0pt;text-align: left;" />
+                    <p style="text-indent: 0pt;text-align: left;"></p>
                 </li>
                 <li data-list-text="(I)">
                     <p class="s46" style="padding-left: 49pt;text-indent: -26pt;line-height: 113%;text-align: left;">
-                        <span class="p">Pet Deposit/Fee: </span>☒ <span class="s4">Non-Refundable </span>☐ <span
-                            class="s4">Refundable </span>☐ <span class="s4">N/A </span><span class="s1">$350.00 Total
+                        <span class="p">Pet Deposit/Fee: </span>
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                        <span class="s4">Non-Refundable </span>
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                        <span
+                            class="s4">Refundable </span>
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s4">N/A </span><span class="s1">$350.00 Total
                             Amount Due: (Rent, Security Deposit, and other fees before Move-in) $13,086.00</span></p>
                 </li>
             </ol>
-            <p class="s57"
-                style="padding-top: 1pt;padding-left: 23pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Rent
+            <p class="s57" style="padding-top: 1pt;padding-left: 23pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Rent
                 payments and/or fees will be paid on behalf of the Tenant and Family by CRS Temporary Housing</p>
-            <p class="s58" style="padding-left: 23pt;text-indent: 0pt;line-height: 13pt;text-align: left;">⭐⭐⭐ <span
-                    class="s57">ATTN: If the lease is extended on m2m basIs, the RENT might be higher, it will be based
-                    on the current market rate.</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 23pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <p class="s58" style="padding-left: 23pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                <img src="images/star.png" alt="star">
+                <img src="images/star.png" alt="star">
+                <img src="images/star.png" alt="star">
+                <span class="s57">ATTN: If the lease is extended on m2m basIs, the RENT might be higher, it will be based
+                    on the current market rate.
+                </span>
+            </p>
         </li>
         <li data-list-text="8.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">RETURN OF
@@ -2661,7 +2734,8 @@
                 <li data-list-text="(A)">
                     <p style="padding-top: 2pt;padding-left: 54pt;text-indent: -23pt;text-align: justify;">At the
                         move-out, the Tenant will return all keys and give the Landlord written notice of the
-                        Tenant&#39;s new mailing address where the Landlord can return the Security Deposit.</p>
+                        Tenant&#39;s new mailing address where the Landlord can return the Security Deposit.
+                    </p>
                 </li>
                 <li data-list-text="(B)">
                     <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Within <span
@@ -2673,43 +2747,106 @@
                             class="s45">7</span><span class="s4"> </span>days of notice. Any security deposit unclaimed
                         by Tenant as well as any check outstanding shall be forfeited by the Tenant after a period of
                         <span class="s45">30</span><span class="s4"> </span>days after the termination or expiration of
-                        this Lease.</p>
+                        this Lease.
+                    </p>
                 </li>
                 <li data-list-text="(C)">
                     <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">The Landlord may deduct repair
                         costs and any unpaid rents from Tenant&#39;s Security Deposit. Any remaining Security Deposit
                         will be returned to the Tenant within <span class="s45">30</span><span class="s4"> </span>days
-                        after the Tenant moves from the Property.</p>
+                        after the Tenant moves from the Property.
+                    </p>
                 </li>
             </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+            <table>
+                <tbody>
+                    <tr style="height:16pt">
+                    
+                    <td style="width:220pt">
+                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                            Confidential - Thursday, July 7, 2022
+                        </p>
+                    </td>
+                
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            Page 1 of 22
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                            DAN Housing, Inc © 2016-2022
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
             </h3>
             <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
         </li>
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+        </table>
         <li data-list-text="9.">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">APPLIANCES
                 INCLUDED</p>
-            <p class="s46" style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">☒ <span
-                    class="p">Stove, </span>☒ <span class="p">Refrigerator, </span>☒ <span class="p">Microwave, </span>☒
-                <span class="p">Air Conditioning, </span>☒ <span class="p">Garbage Disposal, </span>☒ <span
-                    class="p">Dishwasher, </span>☒ <span class="p">Washer, </span>☒ <span class="p">Dryer,</span></p>
-            <p style="text-indent: 0pt;text-align: left;" />
+            <p class="s46" style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+            <span
+                    class="p">Stove, </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Refrigerator, </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Microwave, </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                <span class="p">Air Conditioning, </span>
+                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                <span class="p">Garbage Disposal, </span>
+                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                <span
+                    class="p">Dishwasher, </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Washer, </span>
+                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                    <span class="p">Dryer,</span></p>
+            <p style="text-indent: 0pt;text-align: left;"></p>
             <ul id="l18">
-                <li data-list-text="☐">
-                    <p style="padding-top: 2pt;padding-left: 44pt;text-indent: -13pt;text-align: left;">Washer/Dryer
-                        Hookups (<span class="s46">☐ </span>Gas <span class="s46">☐ </span>Electric), <span
-                            class="s46">☐ </span>Shared Laundry, <span class="s46">☐ </span>Other: <u>&nbsp;</u></p>
-                </li>
+                <p style="padding-top: 2pt;padding-left: 38pt;text-indent: -13pt;text-align: left;">
+                    <span>
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    </span>
+                    Washer/Dryer
+                    Hookups (<span class="s46">
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    </span>Gas <span class="s46">
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    </span>Electric ), <span class="s46">
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    </span>Shared Laundry, <span class="s46">
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    </span>Other: <u></u>
+                </p>
             </ul>
             <p class="s61" style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">Landlord is
                 responsible for repairs of all of the Appliances listed above unless otherwise stated here:</p>
-            <p class="s57"
-                style="padding-top: 2pt;padding-bottom: 1pt;padding-left: 36pt;text-indent: 0pt;text-align: left;">N/A
+            <p class="s57" style="padding-top: 2pt;padding-bottom: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">N/A
             </p>
-            <p style="padding-left: 29pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <p style="border-bottom-style:solid;border-bottom-width:1pt;margin-left:40px;margin-right:40px"></p>
         </li>
         <li data-list-text="10.">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">UTILITIES,
@@ -2743,87 +2880,146 @@
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s62" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Gas or Oil (if
-                            Applicable) <span class="s63">Split between </span><span class="s41">☐</span></p>
+                            Applicable) <span class="s63">Split between</span>
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s62" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Electricity and/or
-                            Solar Services <span class="s63">Split between </span><span class="s41">☐</span></p>
+                            Solar Services <span class="s63">Split between </span>
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Air Conditioning
-                            Central <span class="s41">☒ </span>Windows <span class="s41">☐</span></p>
+                            Central
+                            <span class="s41">
+                                <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                            </span>Windows <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Hot Water Split
-                            between <span class="s41">☐</span></p>
+                            between
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Cold Water Public
-                            <span class="s41">☒ </span>Well <span class="s41">☐ </span>Split between <span
-                                class="s41">☐</span></p>
+                            <span class="s41">
+                                <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                            </span>Well <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span>Split between
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
-                        <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Sewer Septic <span
-                                class="s41">☐ </span>Public <span class="s41">☒ </span>Private <span class="s41">☐
+                        <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Sewer Septic
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span>
+                            Public
+                            <span class="s41">
+                                <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                            </span>Private
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
                             </span>Split between <span class="s41">☐</span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Trash Removal
-                            Included in the Rent <span class="s41">☐ </span>Split between <span class="s41">☐</span></p>
+                            Included in the Rent <span class="s41">☐ </span>Split between
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2832,10 +3028,14 @@
                             Care - <b>Tenant must water the lawn </b>(if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2844,10 +3044,14 @@
                             from Stairs, House Entry, Parking space(s)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2856,23 +3060,33 @@
                             Pest/Rodent Control (Bed Bugs not included – See Bed Bug Addendum)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Pool/Spa
-                            Maintenance (if Applicable) Community <span class="s41">☐ </span>Private <span
-                                class="s41">☐</span></p>
+                            Maintenance (if Applicable) Community <span class="s41">☐ </span>Private
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2881,10 +3095,14 @@
                             (if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2893,10 +3111,14 @@
                             Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2905,10 +3127,14 @@
                             Maintenance of Common Areas (if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2917,10 +3143,14 @@
                             Telephone Service (if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2929,10 +3159,14 @@
                             (if Applicable) Basic and/or Netflix/Hulu/Roku, etc. Services</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2941,10 +3175,14 @@
                             Wi-Fi/Internet (if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☒</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2953,10 +3191,14 @@
                             Security System (if Applicable)</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
@@ -2965,10 +3207,14 @@
                             Sports Center/Gym</p>
                     </td>
                     <td style="width:105pt">
-                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
                 <tr style="height:15pt">
@@ -2978,11 +3224,13 @@
                     </td>
                     <td style="width:105pt">
                         <p class="s41" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            ☐</p>
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                     <td style="width:97pt">
-                        <p class="s41"
-                            style="padding-right: 4pt;text-indent: 0pt;line-height: 13pt;text-align: center;">☐</p>
+                        <p class="s41" style="padding-right: 4pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </p>
                     </td>
                 </tr>
             </table>
@@ -2995,7 +3243,11 @@
             <p class="s64" style="padding-top: 2pt;padding-left: 29pt;text-indent: 0pt;text-align: left;">Comments:</p>
             <p class="s57" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">Property is furnished by Owner
                 and/or CRS Temporary Housing. All Utilities/Amenities are paid by Owner. (See above)</p>
-            <p class="s58" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">⭐⭐⭐ <span class="s57">ATTN: If
+            <p class="s58" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">
+                <img src="images/star.png" alt="star" style="width:5px;height:5px">
+                <img src="images/star.png" alt="star" style="width:5px;height:5px">
+                <<img src="images/star.png" alt="star" style="width:5px;height:5px">
+            <span class="s57">ATTN: If
                     there is a CAP on utilities, Tenant will reimburse the Owner for the difference.</span></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
