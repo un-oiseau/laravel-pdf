@@ -2412,8 +2412,7 @@
             </table>
 
         <li data-list-text="6.">
-            <p class="s1"
-                style="padding-top: 2pt;padding-bottom: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">
+            <p class="s1" style="padding-top: 2pt;padding-bottom: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">
                 RENT</p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
                 <tr style="height:16pt">
@@ -2638,7 +2637,7 @@
                 </li>
             </ol>
         </li>
-        <li data-list-text="7.">
+        <li data-list-text="7." style="padding-top:20px">
             <p class="s1" style="padding-left: 32pt;text-indent: -18pt;text-align: left;">MOVE-IN/OUT
                 PAYMENTS (Rent, Deposits, and Other Fees)</p>
             <p style="text-indent: 0pt;text-align: left;"></p>
@@ -2771,7 +2770,7 @@
                 
                     <td style="width:200pt">
                         <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            Page 1 of 22
+                            Page 2 of 22
                         </p>
                     </td>
                     <td>
@@ -2862,42 +2861,42 @@
                 to do so.</p>
             <table style="border-collapse:collapse;margin-left:29.72pt" cellspacing="0">
                 <tr style="height:16pt">
-                    <td style="width:367pt" bgcolor="#8EAADB">
+                    <td style="width:50pt" bgcolor="#8EAADB">
                         <p class="s43" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                             Utilities / Amenities</p>
                     </td>
-                    <td style="width:105pt" bgcolor="#8EAADB">
+                    <td style="width:55pt" bgcolor="#8EAADB">
                         <p class="s43"
                             style="padding-left: 16pt;padding-right: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
                             Paid by Landlord</p>
                     </td>
-                    <td style="width:97pt" bgcolor="#8EAADB">
+                    <td style="width:50pt" bgcolor="#8EAADB">
                         <p class="s43"
                             style="padding-left: 10pt;padding-right: 15pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
                             Paid by Tenant</p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:367pt">
+                    <td style="width:50pt">
                         <p class="s62" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Gas or Oil (if
                             Applicable) <span class="s63">Split between</span>
                             <span class="s41">
                                 <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
                             </span></p>
                     </td>
-                    <td style="width:105pt">
+                    <td style="width:55pt">
                         <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
                             <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
                         </p>
                     </td>
-                    <td style="width:97pt">
+                    <td style="width:55pt">
                         <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
                             <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
                         </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:367pt">
+                    <td style="width:55pt">
                         <p class="s62" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Electricity and/or
                             Solar Services <span class="s63">Split between </span>
                             <span class="s41">
@@ -2990,7 +2989,10 @@
                             </span>Private
                             <span class="s41">
                                 <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
-                            </span>Split between <span class="s41">☐</span></p>
+                            </span>Split between 
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span></p>
                     </td>
                     <td style="width:105pt">
                         <p class="s41" style="padding-left: 5pt;text-indent: 0pt;text-align: center;">
@@ -3006,7 +3008,10 @@
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Trash Removal
-                            Included in the Rent <span class="s41">☐ </span>Split between
+                            Included in the Rent
+                            <span class="s41">
+                                <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            </span>Split between
                             <span class="s41">
                                 <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
                             </span></p>
@@ -3073,7 +3078,9 @@
                 <tr style="height:17pt">
                     <td style="width:367pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Pool/Spa
-                            Maintenance (if Applicable) Community <span class="s41">☐ </span>Private
+                            Maintenance (if Applicable) Community <span class="s41">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </span>Private
                             <span class="s41">
                                 <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
                             </span></p>
@@ -3149,12 +3156,12 @@
                     </td>
                     <td style="width:97pt">
                         <p class="s41" style="padding-right: 4pt;text-indent: 0pt;text-align: center;">
-                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
                         </p>
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:367pt">
+                    <td style="width:400pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Cable Television
                             (if Applicable) Basic and/or Netflix/Hulu/Roku, etc. Services</p>
                     </td>
@@ -3244,16 +3251,41 @@
             <p class="s57" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">Property is furnished by Owner
                 and/or CRS Temporary Housing. All Utilities/Amenities are paid by Owner. (See above)</p>
             <p class="s58" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">
-                <img src="images/star.png" alt="star" style="width:5px;height:5px">
-                <img src="images/star.png" alt="star" style="width:5px;height:5px">
-                <<img src="images/star.png" alt="star" style="width:5px;height:5px">
+                <img src="images/star.png" alt="star" style="width:12px;height:12px">
+                <img src="images/star.png" alt="star" style="width:12px;height:12px">
+                <<img src="images/star.png" alt="star" style="width:12px;height:12px">
             <span class="s57">ATTN: If
                     there is a CAP on utilities, Tenant will reimburse the Owner for the difference.</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
             </h3>
             <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
+
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+            <table>
+                <tbody>
+                    <tr style="height:16pt">
+
+                    <td style="width:220pt">
+                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                            Confidential - Thursday, July 7, 2022
+                        </p>
+                    </td>
+
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            Page 2 of 22
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                            DAN Housing, Inc © 2016-2022
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="11.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">POSSESSION
@@ -4798,9 +4830,9 @@
                 </li>
             </ul>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s96"
                 style="padding-top: 5pt;padding-left: 47pt;text-indent: -22pt;line-height: 78%;text-align: left;"><span
@@ -5115,7 +5147,7 @@
             </td>
         </tr>
     </table>
-    <p style="padding-left: 92pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+    <p style="padding-left: 92pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
     <p class="s96" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">All dogs and cats
         must wear vaccination tags attached to a collar that is worn at all times. The Tenant will maintain a valid
         rabies vaccination certificate issued by a licensed veterinarian. It must include the animal&#39;s name,
@@ -5205,7 +5237,8 @@
             <p class="s113" style="padding-top: 4pt;padding-left: 17pt;text-indent: -11pt;text-align: justify;">Private
                 Pool/Spa</p>
             <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Pool/Spa Maintenance
-                responsibility by Landlord <span class="s112">☐</span></p>
+                responsibility by Landlord <span class="s112">
+                </span></p>
             <p class="s96" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant shall keep the pool
                 and spa neat and tidy. Tenant shall promptly notify Landlord of any hazardous conditions that arise in
                 connection with the pool or spa. Tenant Might need to add water to the Pool/Spa if needed.</p>
