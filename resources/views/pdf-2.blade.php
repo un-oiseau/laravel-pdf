@@ -2369,12 +2369,12 @@
                     </tr>
                 </tbody>
             </table>
-            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
             <table>
                 <tbody>
                     <tr style="height:16pt">
                     
-                    <td style="width:220pt">
+                    <td style="width:200pt">
                         <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
                             Confidential - Thursday, July 7, 2022
                         </p>
@@ -2432,7 +2432,7 @@
                     </td>
                     <td colspan="2">
                         <p style="text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                        <p class="s40" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                        <p class="s40" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;max-width:400px">
                             <span class="s37">The total Rent due per </span>
                             <span class="s38">Month </span>
                             <span class="s37">is: </span>Furnished: <span class="s41">
@@ -2449,7 +2449,7 @@
                             </span>No
                         </p>
                     </td>
-                    <td style="width:90pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    <td style="width:90pt;border-bottom-style:solid;border-bottom-width:1pt" colspan="2">
                         <p class="s43"
                             style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
                             $4,580.00
@@ -2463,9 +2463,9 @@
                     <td style="width:360pt">
                         <p class="s41"
                             style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
                             <span class="s37">Full Month or </span>
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
                             <span class="s37">Pro-Rated Month (based on 30
                                 days) </span><span class="s38">July</span></p>
                     </td>
@@ -2487,6 +2487,281 @@
                             <span class="s37">Full Month or </span>
                                 <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
                             <span class="s37">Pro-Rated Month (based on 30
+                                days) </span><span class="s38">August</span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $4,580.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(E)</p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s37"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Other Deposits/Fees: <span class="s38">N/A -</span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $00.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(F)</p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s37"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Utilities allowance p/m: <span class="s38">N/A -</span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $00.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(G)</p>
+                    </td>
+                    <td style="width:350pt">
+                        <p class="s37" style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            The total amount of Rent due during the Term is: <span class="s38">$4,580.00 x 2 + $152.67
+                                (1 Day) =
+                            </span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43" style="padding-top: 2pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $9,312.67
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            (H)
+                        </p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s37"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            After the Initial Term, Rent Amount: <span class="s38">Market Rate.</span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $00.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            (I)
+                        </p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s37"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            If Rent is more than <span class="s44">&nbsp;5 </span><span class="s38"> </span>days late,
+                            Tenant pays a Late Charge of:
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $100.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            (I)
+                        </p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            If Rent is more than <span class="s44">&nbsp;5 </span><span class="s38"> </span>days late,
+                            Tenant pays a Late Charge of:
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $100.00
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (J)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            All other
+                            payments due from Tenant to Landlord, including late charges or utility charges are considered
+                            to be Additional Rent. Failure to pay this Additional Rent is a breach of the Lease in the same
+                            way as failing to pay the regular Rent.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (J)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Tenant agrees that all payments
+                            will be applied against outstanding Additional Rent that is due before they will be applied
+                            against the current Rent due.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (K)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            The tenant will pay a fee of
+                            <span class="s45">$100</span><span class="s4"> </span>for any payment that is returned by any
+                            financial institution for any reason. Any late charges will continue to apply until valid
+                            payment is received.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (L)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            The landlord will accept the following methods of payment:
+                            </p>
+                            <p style="padding-left: 57pt;text-indent: -26pt;line-height: 14pt;text-align: left;">The landlord
+                            will accept the following methods of payment:</p>
+                            <p style="padding-top: 1pt;padding-left: 10pt;text-indent: -13pt;text-align: left;">
+                                <span class="s46">
+                                    <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                                </span>
+                                    Cash,
+                                <span class="s46">
+                                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                                </span>Money Order, 
+                                <span class="s46">
+                                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                                </span>Business Check, 
+                                <span class="s46">
+                                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                                </span>Bank Check,
+                                <span class="s46">
+                                    <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                                </span>Credit Cards,
+                                <span class="s46">
+                                    <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                                </span>Direct Deposit, <span class="s46">
+                                    <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                                </span>Other <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </li>
+        <li data-list-text="7.">
+            <p class="s1" style="padding-left: 32pt;text-indent: -18pt;text-align: left;">MOVE-IN/OUT
+                PAYMENTS (Rent, Deposits, and Other Fees)
+            </p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tr style="height:16pt">
+                    <td colspan="2">
+                        <p class="s38" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <span class="s36">(A) </span>
+                                <span class="s37">Security
+                                    Deposit, held in escrow by: <b>Property Owner </b> 
+                                </span>
+                        <p class="s50" style="text-indent: 0pt;text-align: left; width:500px"><span class="p">Deposit
+                        held at </span><span class="s49">(</span>financial Institution<span class="s51">)</span>
+                            <span class="s52">: </span>Wells Fargo, TD Bank or Bank of America <span
+                            class="p">Paid by: </span><span class="s46">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span><span class="s27">Tenant </span><span class="s53">OR </span>
+                            <span class="s46">
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            </span><span class="s27">CRS Temporary Housing
+                            </span><span class="s54">$4,000.00</span>
+                        </p>
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
+                        </p>
+                    </td>
+                    <td style="width:120pt" bgcolor="#8EAADB">
+                        <p class="s9" style="padding-right: 5pt;text-indent: 0pt;text-align: right;">Amounts Due</p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(B)</p>
+                    </td>
+                    <td style="width:360pt">
+                        <p class="s41"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s37">Full Month or </span>
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <span class="s37">Pro-Rated Month (based on 30
+                                days) </span><span class="s38">July</span>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $3,206.00</p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(C)</p>
+                    </td>
+                    <td style="width:360pt">
+                        <p class="s41"
+                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <span class="s37">Full Month or </span>
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s37">Pro-Rated Month (based on 30
                                 days) </span><span class="s38">August</span></p>
                     </td>
                     <td
@@ -2496,9 +2771,86 @@
                             $4,580.00</p>
                     </td>
                 </tr>
+                
                 <tr style="height:16pt">
                     <td style="width:22pt">
-                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(E)</p>
+                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(D)</p>
+                    </td>
+                    <td colspan="2">
+                        <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;width:400px">
+                            Rental Insurance Fee: 
+                            <span class="s55">If Insurance Policy is NOT transferable, NEW Rental policy Must
+                            be purchased: Included
+                            </span>
+                        </p>
+                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
+                    </td>
+                    <td colspan="4" style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $00.00</p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(E)</p>
+                    </td>
+                    <td style="width:350pt">
+                        <p class="s37"
+                            style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Application/Processing Fee: 
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 2pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $275.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(F)</p>
+                    </td>
+                    <td style="width:350pt">
+                        <p class="s37"
+                            style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Clearing Fee: 
+                            <b>Before Move-In $400.00</b>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 2pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $400.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(G)</p>
+                    </td>
+                    <td style="width:350pt">
+                        <p class="s37"
+                            style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            Admin/Broker Fee:
+                            <b>Before Move-In $400.00</b>
+                        </p>
+                    </td>
+                    <td
+                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                        <p class="s43"
+                            style="padding-top: 2pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $275.00
+                        </p>
+                    </td>
+                </tr>
+
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(H)</p>
                     </td>
                     <td style="width:300pt">
                         <p class="s37"
@@ -2514,214 +2866,52 @@
                 </tr>
                 <tr style="height:16pt">
                     <td style="width:22pt">
-                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(F)</p>
-                    </td>
-                    <td style="width:300pt">
-                        <p class="s37"
-                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                            Utilities allowance p/m: <span class="s38">N/A -</span></p>
-                    </td>
-                    <td
-                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s43"
-                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
-                            $00.00</p>
-                    </td>
-                </tr>
-                <tr style="height:16pt">
-                    <td style="width:22pt">
-                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">(G)</p>
-                    </td>
-                    <td style="width:350pt">
-                        <p class="s37"
-                            style="padding-top: 2pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                            The total amount of Rent due during the Term is: <span class="s38">$4,580.00 x 2 + $152.67
-                                (1 Day) =</span></p>
-                    </td>
-                    <td
-                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s43"
-                            style="padding-top: 2pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
-                            $9,312.67</p>
-                    </td>
-                </tr>
-                <tr style="height:16pt">
-                    <td style="width:22pt">
-                        <p class="s37" style="padding-left: 2pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            (H)</p>
-                    </td>
-                    <td style="width:300pt">
-                        <p class="s37"
-                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                            After the Initial Term, Rent Amount: <span class="s38">Market Rate.</span></p>
-                    </td>
-                    <td
-                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
-                        <p class="s43"
-                            style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
-                            $00.00</p>
-                    </td>
-                </tr>
-                <tr style="height:16pt">
-                    <td style="width:22pt">
                         <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
-                            (I)</p>
+                            (I)
+                        </p>
                     </td>
                     <td style="width:300pt">
-                        <p class="s37"
-                            style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                            If Rent is more than <span class="s44">&nbsp;5 </span><span class="s38"> </span>days late,
-                            Tenant pays a Late Charge of:</p>
+                        <p class="s46" style="padding-left: 2pt;text-indent: 0pt;line-height: 113%;text-align: left;">
+                            <span class="p">Pet Deposit/Fee: </span>
+                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            <span class="s4">Non-Refundable </span>
+                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                            <span class="s4">Refundable </span>
+                                    <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                                <span class="s4">N/A </span>
+                        </p>
                     </td>
-                    <td
-                        style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
+                    
+                    <td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt">
                         <p class="s43"
                             style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
-                            $100.00</p>
+                            $350.00
+                        </p>
+                    </td>
+                </tr>
+                <tr style="height:16pt">
+                    <td style="width:22pt">
+                        <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(H)</p>
+                    </td>
+                    <td style="width:300pt">
+                        <p class="s1" style="text-indent: 0pt;">Total
+                            Amount Due: (Rent, Security Deposit, and other fees before Move-in) 
+                        </p>
+                    </td>
+                    <td style="width:90pt;border-top-style:solid;border-top-width:1pt;" bgcolor="#8EAADB">
+                        <p class="s43" style="padding-top: 1pt;padding-right: 5pt;text-indent: 0pt;line-height: 12pt;text-align: right;">
+                            $13,086.00
+                        </p>
                     </td>
                 </tr>
             </table>
-                <p class="s37"
-                    style="padding-top: 1pt;padding-left: 19pt;text-indent: -13pt;line-height: 13pt;text-align: left;">
-                    <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
-                    Full Month or <span class="s41">
-                        <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
-                    </span>Pro-Rated Month (based on 30 days) <span
-                        class="s38">July (21 Days)</span>
-                </p>
-            <ol id="l14">
-                <li data-list-text="(J)">
-                    <p style="padding-top: 1pt;padding-left: 57pt;text-indent: -24pt;text-align: left;">All other
-                        payments due from Tenant to Landlord, including late charges or utility charges are considered
-                        to be Additional Rent. Failure to pay this Additional Rent is a breach of the Lease in the same
-                        way as failing to pay the regular Rent.</p>
-                </li>
-                <li data-list-text="(K)">
-                    <p style="padding-left: 57pt;text-indent: -25pt;text-align: left;">Tenant agrees that all payments
-                        will be applied against outstanding Additional Rent that is due before they will be applied
-                        against the current Rent due.</p>
-                </li>
-                <li data-list-text="(L)">
-                    <p style="padding-left: 57pt;text-indent: -24pt;text-align: left;">The tenant will pay a fee of
-                        <span class="s45">$100</span><span class="s4"> </span>for any payment that is returned by any
-                        financial institution for any reason. Any late charges will continue to apply until valid
-                        payment is received.</p>
-                </li>
-                <li data-list-text="(M)">
-                    <p style="padding-left: 57pt;text-indent: -26pt;line-height: 14pt;text-align: left;">The landlord
-                        will accept the following methods of payment:</p>
-                        <p style="padding-top: 1pt;padding-left: 10pt;text-indent: -13pt;text-align: left;">
-                            <span class="s46">
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                            </span>
-                                Cash,
-                            <span class="s46">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                            </span>Money Order, 
-                            <span class="s46">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                            </span>Business Check, 
-                            <span class="s46">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                            </span>Bank Check,
-                            <span class="s46">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                            </span>Credit Cards,
-                            <span class="s46">
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                            </span>Direct Deposit, <span class="s46">
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                            </span>Other <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
-                        </p>
-                        <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                </li>
-            </ol>
-        </li>
-        <li data-list-text="7." style="padding-top:20px">
-            <p class="s1" style="padding-left: 32pt;text-indent: -18pt;text-align: left;">MOVE-IN/OUT
-                PAYMENTS (Rent, Deposits, and Other Fees)</p>
-            <p style="text-indent: 0pt;text-align: left;"></p>
-            <ol id="l16">
-                <li data-list-text="(A)">
-                    <p style="padding-top: 2pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Security
-                        Deposit, held in escrow by: <b>Property Owner </b><u><b>Amounts Due</b></u></p>
-                    <p class="s50" style="padding-left: 23pt;text-indent: 0pt;text-align: left;"><span class="p">Deposit
-                            held at </span><span class="s49">(</span>financial Institution<span
-                            class="s51">)</span><span class="s52">: </span>Wells Fargo, TD Bank or Bank of America <span
-                            class="p">Paid by: </span><span class="s46">
-                                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                            </span><span class="s27">Tenant </span><span
-                            class="s53">OR </span><span class="s46">
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                            </span><span class="s27">CRS Temporary Housing
-                        </span><span class="s54">$4,000.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(B)">
-                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">
-                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                    <span class="p">Full Month or </span>
-                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                    <span class="p">Pro-Rated Month (based on 30 days)
-                        </span><span class="s4">July (21 Days) </span><span class="s1">$3,206.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(C)">
-                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;text-align: left;">
-                        <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                    <span class="p">Full Month or </span>
-                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                    <span class="p">Pro-Rated Month (based on 30 days)
-                        </span><span class="s4">August </span><span class="s1">$4,580.00</span></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(D)">
-                    <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Rental
-                        Insurance Fee: <span class="s55">If Insurance Policy is NOT transferable, NEW Rental policy Must
-                            be purchased: Included </span><b>$00.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(E)">
-                    <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">
-                        Application/Processing Fee: <b>$275.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(F)">
-                    <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Cleaning Fee:
-                        <b>Before Move-In $400.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(G)">
-                    <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Admin/Broker
-                        Fee: <b>$275.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(H)">
-                    <p style="padding-bottom: 1pt;padding-left: 49pt;text-indent: -26pt;text-align: left;">Other
-                        Deposits/Fees: <span class="s4">N/A </span><b>$00.00</b></p>
-                    <p style="padding-left: 513pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-                    <p style="text-indent: 0pt;text-align: left;"></p>
-                </li>
-                <li data-list-text="(I)">
-                    <p class="s46" style="padding-left: 49pt;text-indent: -26pt;line-height: 113%;text-align: left;">
-                        <span class="p">Pet Deposit/Fee: </span>
-                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
-                        <span class="s4">Non-Refundable </span>
-                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                        <span
-                            class="s4">Refundable </span>
-                                <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
-                            <span class="s4">N/A </span><span class="s1">$350.00 Total
-                            Amount Due: (Rent, Security Deposit, and other fees before Move-in) $13,086.00</span></p>
-                </li>
-            </ol>
             <p class="s57" style="padding-top: 1pt;padding-left: 23pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Rent
-                payments and/or fees will be paid on behalf of the Tenant and Family by CRS Temporary Housing</p>
-            <p class="s58" style="padding-left: 23pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                payments and/or fees will be paid on behalf of the Tenant and Family by CRS Temporary Housing ATTN: </p>
+                <p class="s58" style="padding-left: 23pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
                 <img src="images/star.png" alt="star">
                 <img src="images/star.png" alt="star">
                 <img src="images/star.png" alt="star">
-                <span class="s57">ATTN: If the lease is extended on m2m basIs, the RENT might be higher, it will be based
+                <span class="s57">If the lease is extended on m2m basIs, the RENT might be higher, it will be based
                     on the current market rate.
                 </span>
             </p>
@@ -2757,35 +2947,44 @@
                     </p>
                 </li>
             </ol>
-            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
             <table>
-                <tbody>
-                    <tr style="height:16pt">
-                    
-                    <td style="width:220pt">
-                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
-                            Confidential - Thursday, July 7, 2022
-                        </p>
-                    </td>
-                
-                    <td style="width:200pt">
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            Page 2 of 22
-                        </p>
-                    </td>
-                    <td>
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
-                            DAN Housing, Inc © 2016-2022
-                        </p>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
-            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
+                  <tbody>
+                      <tr>
+                          <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                          <td style="width:500px"></td>
+                          <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                      </tr>
+                      <tr>
+                          <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                          <td class="s28" style="width:500px"></td>
+                          <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
+              <table>
+                  <tbody>
+                      <tr style="height:16pt">
+
+                      <td style="width:180pt">
+                          <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                              Confidential - Thursday, July 7, 2022
+                          </p>
+                      </td>
+
+                      <td style="width:200pt">
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                              Page 2 of 22
+                          </p>
+                      </td>
+                      <td>
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                              DAN Housing, Inc © 2016-2022
+                          </p>
+                      </td>
+                  </tr>
+                  </tbody>
+              </table>
         </li>
         <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
             <tr style="height:30px">
@@ -3254,38 +3453,48 @@
                 <img src="images/star.png" alt="star" style="width:12px;height:12px">
                 <img src="images/star.png" alt="star" style="width:12px;height:12px">
                 <<img src="images/star.png" alt="star" style="width:12px;height:12px">
-            <span class="s57">ATTN: If
-                    there is a CAP on utilities, Tenant will reimburse the Owner for the difference.</span></p>
-            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
-
-            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+                <span class="s57">ATTN: If there is a CAP on utilities, Tenant will reimburse the Owner for the difference.</span>
+            </p>
+            
             <table>
-                <tbody>
-                    <tr style="height:16pt">
+                  <tbody>
+                      <tr>
+                          <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                          <td style="width:500px"></td>
+                          <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                      </tr>
+                      <tr>
+                          <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                          <td class="s28" style="width:500px"></td>
+                          <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
+              <table>
+                  <tbody>
+                      <tr style="height:16pt">
 
-                    <td style="width:220pt">
-                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
-                            Confidential - Thursday, July 7, 2022
-                        </p>
-                    </td>
+                      <td style="width:220pt">
+                          <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                              Confidential - Thursday, July 7, 2022
+                          </p>
+                      </td>
 
-                    <td style="width:200pt">
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            Page 2 of 22
-                        </p>
-                    </td>
-                    <td>
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
-                            DAN Housing, Inc © 2016-2022
-                        </p>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
+                      <td style="width:200pt">
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                              Page 3 of 22
+                          </p>
+                      </td>
+                      <td>
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                              DAN Housing, Inc © 2016-2022
+                          </p>
+                      </td>
+                  </tr>
+                  </tbody>
+              </table>
+            
         </li>
         <li data-list-text="11.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">POSSESSION
