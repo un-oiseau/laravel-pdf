@@ -2911,7 +2911,7 @@
                 <img src="images/star.png" alt="star">
                 <img src="images/star.png" alt="star">
                 <img src="images/star.png" alt="star">
-                <span class="s57">If the lease is extended on m2m basIs, the RENT might be higher, it will be based
+                <span class="s57">If the lease is extended on m2m basis, the RENT might be higher, it will be based
                     on the current market rate.
                 </span>
             </p>
@@ -2928,7 +2928,7 @@
                             <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(A)</p>
                         </td>
                         <td style="width:530pt">
-                            <p style="padding-top: 2pt;padding-left: 24pt;text-indent: -23pt;text-align: justify;">At the
+                            <p style="padding-top: 2pt;text-align: justify;">At the
                                 move-out, the Tenant will return all keys and give the Landlord written notice of the
                                 Tenant&#39;s new mailing address where the Landlord can return the Security Deposit.
                             </p>
@@ -2939,7 +2939,7 @@
                             <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(B)</p>
                         </td>
                         <td style="width:530pt">
-                            <p style="padding-left: 24pt;text-indent: -23pt;text-align: justify;">Within <span
+                            <p style="text-align: left;">Within <span
                                 class="s59">30</span><span class="s60"> </span>days after the Tenant moves from the
                             Property, Landlord will give Tenant a written list of any damage(s) to the Property that
                             Landlord claims Tenant is responsible for. If the deposit is not sufficient enough to cover such
@@ -2957,7 +2957,7 @@
                             <p class="s37" style="padding-left: 3pt;text-indent: 0pt;text-align: left;">(C)</p>
                         </td>
                         <td style="width:530pt">
-                            <p style="padding-left: 24pt;text-indent: -23pt;text-align: justify;">The Landlord may deduct repair
+                            <p style="text-align: left;">The Landlord may deduct repair
                             costs and any unpaid rents from Tenant&#39;s Security Deposit. Any remaining Security Deposit
                             will be returned to the Tenant within <span class="s45">30</span><span class="s4"> </span>days
                             after the Tenant moves from the Property.
@@ -3065,7 +3065,7 @@
             </p>
             <p style="border-bottom-style:solid;border-bottom-width:1pt;margin-left:40px;margin-right:40px"></p>
         </li>
-        <li data-list-text="10.">
+        <li data-list-text="10." style="max-width:580pt">
             <p class="s1" style="padding-top: 2pt;padding-left: 32pt;text-indent: -18pt;text-align: left;">UTILITIES,
                 AMENITIES, AND SERVICES
             </p>
@@ -3247,7 +3247,7 @@
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:367pt">
+                    <td style="max-width:300pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Lawn and Shrubbery
                             Care - <b>Tenant must water the lawn </b>(if Applicable)</p>
                     </td>
@@ -3279,7 +3279,7 @@
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:367pt">
+                    <td style="width:300pt">
                         <p class="s37" style="padding-top: 1pt;padding-left: 10pt;text-indent: 0pt;text-align: left;">
                             Pest/Rodent Control (Bed Bugs not included – See Bed Bug Addendum)</p>
                     </td>
@@ -3380,7 +3380,7 @@
                     </td>
                 </tr>
                 <tr style="height:17pt">
-                    <td style="width:400pt">
+                    <td style="width:385pt">
                         <p class="s37" style="padding-left: 10pt;text-indent: 0pt;text-align: left;">Cable Television
                             (if Applicable) Basic and/or Netflix/Hulu/Roku, etc. Services</p>
                     </td>
@@ -3468,15 +3468,16 @@
                 or other costs occasioned by water usage violations.</p>
             <p class="s64" style="padding-top: 2pt;padding-left: 29pt;text-indent: 0pt;text-align: left;">Comments:</p>
             <p class="s57" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">Property is furnished by Owner
-                and/or CRS Temporary Housing. All Utilities/Amenities are paid by Owner. (See above)</p>
-            <p class="s58" style="padding-left: 29pt;text-indent: 0pt;text-align: left;">
-                <img src="images/star.png" alt="star" style="width:12px;height:12px">
-                <img src="images/star.png" alt="star" style="width:12px;height:12px">
-                <<img src="images/star.png" alt="star" style="width:12px;height:12px">
-                <span class="s57">ATTN: If there is a CAP on utilities, Tenant will reimburse the Owner for the difference.</span>
+                and/or CRS Temporary Housing. <br />All Utilities/Amenities are paid by Owner. (See above)</p>
+                <p class="s58" style="padding-left: 29pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                <img src="images/star.png" alt="star">
+                <img src="images/star.png" alt="star">
+                <img src="images/star.png" alt="star">
+                <span class="s57">ATTN: If there is a CAP on utilities, Tenant will reimburse the Owner for the difference.
+                </span>
             </p>
             
-            <table style="margin-top:200px">
+            <table style="margin-top:140px">
                   <tbody>
                       <tr>
                           <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
@@ -3495,7 +3496,7 @@
                   <tbody>
                       <tr style="height:16pt">
 
-                      <td style="width:220pt">
+                      <td style="width:200pt">
                           <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
                               Confidential - Thursday, July 7, 2022
                           </p>
@@ -3599,11 +3600,9 @@
                     </tr>
                 </tbody>
             </table>
-            
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="12.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;"> TENANT’S USE OF PROPERTY</p>
+            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;"> TENANT&#39;S USE OF PROPERTY</p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
                 <tbody>
                     <tr style="height:16pt">
@@ -3612,7 +3611,7 @@
                                 (A)
                             </p>
                         </td>
-                        <td style="width:530pt">
+                        <td style="width:580pt">
                             <p style="padding-top: 2pt;padding-left: 30pt;text-indent: -24pt;text-align: justify; width:530pt">Tenant will
                             use PROPERTY as a residence ONLY.
                             </p>
@@ -3624,7 +3623,7 @@
                                 (B)
                             </p>
                         </td>
-                        <td style="width:530pt">
+                        <td style="width:580pt">
                             <p style="padding-left: 30pt;text-indent: -23pt;text-align: justify; width:530pt">In no event shall more than 2
                             persons per bedroom be allowed to occupy the Property.
                             </p>
@@ -3636,7 +3635,7 @@
                                 (C)
                             </p>
                         </td>
-                        <td style="width:530pt">
+                        <td style="width:580pt">
                             <p style="text-indent: 7pt;text-align: justify; width:500pt">Tenant shall have no more than
                                 10 persons visit the Property at any one time for the period longer than 96 hours.
                             </p>
@@ -3648,7 +3647,7 @@
                                 (D)
                             </p>
                         </td>
-                        <td style="width:530pt">
+                        <td style="width:580pt">
                             <p style="text-align: justify; width:500pt"> No more than
                                 <span class="s45">&nbsp;1 </span><span class="s4"> </span>people will live at the property.
                                 <span style=" color: #212121;">Any guest(s) staying in the property more than 2 weeks in any
@@ -3666,7 +3665,7 @@
                                 (E)
                             </p>
                         </td>
-                        <td style="width:530pt">
+                        <td style="width:580pt">
                             <p style="text-indent: 7pt;text-align: justify; width:500pt">
                             Tenant is solely responsible
                             to pay for all of the costs for repairing any damage that is the fault of the Tenant or
@@ -3678,10 +3677,9 @@
                 </tbody>
             </table>
             
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="13.">
-            <p class="s1" style="padding-top: 9pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">RULES AND
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">RULES AND
                 REGULATIONS
             </p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
@@ -3692,8 +3690,8 @@
                                 (A)
                             </p>
                         </td>
-                        <td style="width:530pt">
-                            <p style="text-indent: 7pt;text-align: justify; width:500pt"> Verbal or
+                        <td style="">
+                            <p style="text-indent: 7pt;text-align: justify;width:500pt"> Verbal or
                             Written Rules and Regulations for use of the Property and common areas will be provided by the
                             owner/agent.
                             </p>
@@ -3705,8 +3703,8 @@
                                 (B)
                             </p>
                         </td>
-                        <td style="width:530pt">
-                            <p style="text-indent: 7pt;text-align: justify; width:500pt"> Any violation of the Rules and
+                        <td style="">
+                            <p style="text-indent: 7pt;text-align: justify;width:500pt"> Any violation of the Rules and
                             Regulations is a breach of this Lease.
                             </p>
                         </td>
@@ -3717,8 +3715,8 @@
                                 (C)
                             </p>
                         </td>
-                        <td style="width:530pt">
-                            <p style="text-indent: 7pt;text-align: justify; width:500pt"> Landlord may change the Rules and
+                        <td style="">
+                            <p style="text-indent: 7pt;text-align: justify;width:500pt"> Landlord may change the Rules and
                             Regulations if the change benefits the Tenant or improves the health, safety, or welfare of
                             others. Landlord agrees to provide all changes to the Tenant in writing.
                         </td>
@@ -3729,8 +3727,8 @@
                                 (D)
                             </p>
                         </td>
-                        <td style="width:530pt">
-                            <p style="text-indent: 7pt;text-align: justify; width:500pt">No more than
+                        <td style="">
+                            <p style="text-indent: 7pt;text-align: justify;width:500pt">No more than
                             Tenant is responsible for
                             Tenant&#39;s family and guests obeying the Rules and Regulations and all laws.
                             </p>
@@ -3739,176 +3737,171 @@
                 </tbody>
             </table>
             
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="14.">
-            <p class="s1" style="padding-top: 9pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">TENANT&#39;S
-                CARE OF PROPERTY</p>
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">RULES AND
+                REGULATIONS
+            </p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
-                <tr style="height:16pt" data-list-text="(A)">
-                    <p class="s64" style="padding-top: 2pt;padding-left: 54pt;text-indent: -23pt;text-align: left;width:530pt">
-                        Tenant will:</p>
-                    <td style="width:22pt">
-                        <table>
-                            <tr data-list-text="1.">
-                                <td>
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Keep the Property clean,
-                                    safe and obey all laws by the local municipality, Landlord’s, and/or HOA policies and
-                                    regulations.
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="2.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Dispose
-                                    of all trash, garbage, and any other waste materials as required by Landlord and the
-                                    law.
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="3.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Use care when using any
-                                    of the electrical, plumbing, heating, ventilation or other facilities or appliances,
-                                    etc..
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="4.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Notify Landlord
-                                    immediately of any repairs needed and of any potentially harmful health or environmental
-                                    conditions.
-                                    </p>
-                                </td>
-                            </tr>
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <span class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </span>
+                            <span class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left; text-decoration:underline; font-style:italic">
+                                Tenant Will
+                            </span>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt;">
+                        <td style="width:380pt;">
+                        <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                            <tbody>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            1.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: left"> Keep the Property clean,
+                                                safe and obey all laws by the local municipality, Landlord&#39;s, and/or HOA policies and
+                                                regulations.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            2.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: left"> Dispose
+                                            of all trash, garbage, and any other waste materials as required by Landlord and the
+                                            law.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            3.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: left"> Use care when using any
+                                            of the electrical, plumbing, heating, ventilation or other facilities or appliances,
+                                            etc..
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            4.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: left"> Notify Landlord
+                                            immediately of any repairs needed and of any potentially harmful health or environmental
+                                            conditions.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </tbody>
                         </table>
-                        <!-- <li data-list-text="1.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Keep the Property clean,
-                                safe and obey all laws by the local municipality, Landlord’s, and/or HOA policies and
-                                regulations.
-                            </p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;line-height: 13pt;text-align: left;width:530pt">Dispose
-                                of all trash, garbage, and any other waste materials as required by Landlord and the
-                                law.</p>
-                        </li>
-                        <li data-list-text="3.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Use care when using any
-                                of the electrical, plumbing, heating, ventilation or other facilities or appliances,
-                                etc..
-                            </p>
-                        </li>
-                        <li data-list-text="4.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Notify Landlord
-                                immediately of any repairs needed and of any potentially harmful health or environmental
-                                conditions.
-                            </p>
-                            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                        </li> -->
-                    </td>
-                </tr>
-                <tr style="height:16pt"  data-list-text="(B)">
-                    <p class="s64" style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Tenant will NOT:</p>
-                    <!-- <ol id="l25">
-                        <li data-list-text="1.">
-                            <p style="padding-top: 1pt;padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Keep any
-                                flammable, hazardous, and/or explosive materials on the Property.</p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Destroy, damage, or
-                                deface any part of the Property or common areas.</p>
-                        </li>
-                        <li data-list-text="3.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Disturb the peace and
-                                quiet of other tenant(s) or neighbor(s).</p>
-                        </li>
-                        <li data-list-text="4.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Make changes to the
-                                property, such as painting or remodeling, without the written permission of the
-                                Landlord. Tenant agrees that any changes or improvements made will belong to the
-                                Landlord.</p>
-                        </li>
-                        <li data-list-text="5.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Perform any maintenance
-                                or repairs on the Property unless otherwise stated in the Rules and Regulations, if any.
-                            </p>
-                        </li>
-                    </ol> -->
-                    <td id="l24">
-                        <table>
-                            <tr data-list-text="1.">
-                                <td>
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Keep any
-                                    flammable, hazardous, and/or explosive materials on the Property.
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="2.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Destroy, damage, or
-                                    deface any part of the Property or common areas.
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="3.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Disturb the peace and
-                                    quiet of other tenant(s) or neighbor(s).
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="4.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Make changes to the
-                                    property, such as painting or remodeling, without the written permission of the
-                                    Landlord. Tenant agrees that any changes or improvements made will belong to the
-                                    Landlord.
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr data-list-text="5.">
-                                <td data-list-text="1.">
-                                    <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Perform any maintenance
-                                    or repairs on the Property unless otherwise stated in the Rules and Regulations, if any.
-                                    </p>
-                                </td>
-                            </tr>
+                            
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <span class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </span>
+                            <span class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left; text-decoration:underline; font-style:italic">
+                                Tenant will NOT:
+                            </span>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt;">
+                        <td style="text-indent: 7pt;">
+                        <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                            <tbody>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            1.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: justify"> Keep any flammable, hazardous, and/or explosive materials on the Property.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            2.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: justify"> Destroy, damage, or deface any part of the Property or common areas.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            3.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: justify"> Disturb the peace and quiet of other tenant(s) or neighbor(s).
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            4.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: justify"> Make changes to the property, such as painting or remodeling, 
+                                        without the written permission of the Landlord. Tenant agrees that any changes or improvements
+                                         made will belong to the Landlord.
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr style="height:16pt">
+                                    <td style="width:22pt">
+                                        <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                            5.
+                                        </p>
+                                    </td>
+                                    <td style="width:500pt">
+                                        <p style="text-align: justify"> Perform any maintenance or repairs on the Property 
+                                        unless otherwise stated in the Rules and Regulations, if any.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </tbody>
                         </table>
-                        <!-- <li data-list-text="1.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Keep the Property clean,
-                                safe and obey all laws by the local municipality, Landlord’s, and/or HOA policies and
-                                regulations.
-                            </p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;line-height: 13pt;text-align: left;width:530pt">Dispose
-                                of all trash, garbage, and any other waste materials as required by Landlord and the
-                                law.</p>
-                        </li>
-                        <li data-list-text="3.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Use care when using any
-                                of the electrical, plumbing, heating, ventilation or other facilities or appliances,
-                                etc..
-                            </p>
-                        </li>
-                        <li data-list-text="4.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: left;width:530pt">Notify Landlord
-                                immediately of any repairs needed and of any potentially harmful health or environmental
-                                conditions.
-                            </p>
-                            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                        </li> -->
-                    </td>
-                </tr>
+                            
+                        </td>
+                    </tr>
+                </tbody>
             </table>
+            
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
+        
         <li data-list-text="15.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">CONDITION OF THE PROPERTY AT
                 MOVE-IN</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: left;width:530pt">Tenant has inspected the
+            <p style="padding-left: 30pt;text-indent: 0pt;text-align: left;width:530pt">Tenant has inspected the
                 Property and agrees to accept the Property &quot;as-is,&quot; except for the following: (<i><b>Please
                         fill in the Move-In Check List Addendum – Page 22.</b></i>)
             </p>
@@ -3976,7 +3969,7 @@
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="17.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">LANDLORD’s RIGHT TO ENTER</p>
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">LANDLORD&#39;s RIGHT TO ENTER</p>
             <ol id="l27">
                 <li data-list-text="(A)">
                     <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Tenant agrees that Landlord or
@@ -3987,7 +3980,7 @@
                 </li>
                 <li data-list-text="(B)">
                     <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">When possible, Landlord will
-                        give the Tenant <b>24 </b>hours’ notice of the date, time. and the reason for the visit.</p>
+                        give the Tenant <b>24 </b>hours&#39; notice of the date, time. and the reason for the visit.</p>
                 </li>
                 <li data-list-text="(C)">
                     <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">In emergencies, the Landlord
@@ -4008,7 +4001,7 @@
                 or repair is required due to normal wear and tear: structural components, interior and exterior walls,
                 floors, ceiling, roofs, sewer connections, plumbing, wiring, and household appliances, if applicable.
                 However, Tenant shall be responsible for all costs associated with maintenance or repair of the
-                foregoing items if Tenant or any person within Tenant’s control knowingly, intentionally, deliberately,
+                foregoing items if Tenant or any person within Tenant&#39;s control knowingly, intentionally, deliberately,
                 recklessly, or negligently destroys, defaces, damages, or impairs such items, including, without
                 limitation, causing the plumbing system to become clogged or backed up other than by reason of ordinary
                 wear and tear of the plumbing system. Notwithstanding the foregoing, it shall be presumed that all clogs
@@ -4016,9 +4009,9 @@
                 shall be responsible for all costs associated with maintenance or repair of such damages. Tenant shall
                 maintain the Leased Premises in a clean, safe, and sanitary manner, keeping the entire Leased Premises
                 free from trash, rubbish, abandoned, inoperable, and unregistered vehicles, and the like. In lieu of any
-                repair or maintenance for which Landlord is responsible, should Landlord determine, in Landlord’s sole
+                repair or maintenance for which Landlord is responsible, should Landlord determine, in Landlord&#39;s sole
                 and absolute discretion, that such repair or maintenance is not of material importance to the Leased
-                Premises, Landlord may, at Landlord’s option, without abatement, deduction or setoff of rent, leave such
+                Premises, Landlord may, at Landlord&#39;s option, without abatement, deduction or setoff of rent, leave such
                 malfunctioning item abandoned in place without repair or maintenance, remove such item without a
                 replacement, replace such item with a dissimilar item, or perform any other alternate remedy Landlord
                 deems appropriate.</p>
@@ -4028,7 +4021,7 @@
             <p class="s1" style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant agrees to and shall
                 immediately pay the first $75 of any repair or maintenance for which Tenant is responsible as additional
                 rent. <span class="p">Such additional rent shall be immediately due from the Tenant at the option of the
-                    Landlord. If the payment is not received promptly, it will be subtracted from the Tenant’s security
+                    Landlord. If the payment is not received promptly, it will be subtracted from the Tenant&#39;s security
                     deposit.</span></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
@@ -4081,7 +4074,7 @@
                     time. Levels of radon that exceed federal and state guidelines have been found in local municipally
                     guiding. Additional information regarding radon and radon testing may be obtained from your county
                     health unit. More information regarding Radon could be found on the </a><a
-                    href="http://www.epa.gov/radon/index.html" class="s69" target="_blank">EPA’s </a><span
+                    href="http://www.epa.gov/radon/index.html" class="s69" target="_blank">EPA&#39;s </a><span
                     style=" color: #00F; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 11pt;">website</span><span
                     class="s70"> </span>or contact your local municipality website. <b>Owner/Agent has No records of
                     Radon being present at the property</b>.</p>
@@ -4163,7 +4156,7 @@
             <ol id="l31">
                 <li data-list-text="(A)">
                     <p style="padding-left: 55pt;text-indent: -24pt;text-align: justify;">Tenant understands that
-                        Landlord&#39;s/Agent’s insurance does not cover Tenant, Tenant&#39;s property, or Tenants
+                        Landlord&#39;s/Agent&#39;s insurance does not cover Tenant, Tenant&#39;s property, or Tenants
                         guests. Tenant is advised to obtain property and liability insurance to protect Tenant,
                         Tenant&#39;s property, and Tenant&#39;s guests who may be injured while on the Property.</p>
                 </li>
@@ -4285,7 +4278,7 @@
                         the</p>
                 </li>
             </ol>
-            <p class="s61" style="padding-left: 54pt;text-indent: 0pt;text-align: left;">Landlord and/or Landlord’s
+            <p class="s61" style="padding-left: 54pt;text-indent: 0pt;text-align: left;">Landlord and/or Landlord&#39;s
                 agents/representatives.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
@@ -4862,7 +4855,7 @@
         building. For this Smoke-Free Property Addendum, smoking is defined as inhaling, breathing, or carrying and lit
         a cigarette, cigar, pipe, or other tobacco or non-tobacco smoked product in any form, legal and illegal.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Tenant(s), occupants, and Tenant’s invitees
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Tenant(s), occupants, and Tenant&#39;s invitees
         and guests acknowledge the Leased Premises are designated as a smoke-free living space. No smoking anywhere
         within the rental unit is permitted. Where applicable, smoking shall not be permitted in any common areas,
         including but not limited to hallways, adjoining grounds, balconies, and/or patios.</p>
@@ -4876,7 +4869,7 @@
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant accepts that Landlord has limited ability
         to police, monitor, or enforce the terms of this Smoke-Free Property Addendum. Tenant understands enforcement
-        depends upon the compliance of the Tenant(s) occupants, Tenant’s guests, and invitees. Landlord puts on notice
+        depends upon the compliance of the Tenant(s) occupants, Tenant&#39;s guests, and invitees. Landlord puts on notice
         any Tenant(s) with respiratory illnesses, diseases, allergies, or any other physical or mental condition
         relating to the effects of smoke that the Landlord assumes no greater duty of care to enforce this Addendum than
         any other landlord obligation under the Lease.</p>
@@ -4892,7 +4885,7 @@
         and is reported to the Owner or Homeowners Association, the Tenant will be charged a $100.00 fee for each
         occurrence.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s57" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">With Landlord’s permission Tenant
+    <p class="s57" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">With Landlord&#39;s permission Tenant
         might be allowed to smoke outside, but must obey State, Local municipality, and Homeowner Association (if any)
         smoking rules.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -4938,7 +4931,7 @@
         <li data-list-text="2.">
             <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">The use of marijuana in
                 the Leased Premises creates a nuisance: marijuana smoke may dissipate into common areas or neighboring
-                units, interfering with other tenants’ health, property, and their reasonable expectation of clean air
+                units, interfering with other tenants&#39; health, property, and their reasonable expectation of clean air
                 and a drug-free environment.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
@@ -4947,7 +4940,7 @@
                 increase the risk of mold and other structural damage to the Leased Premises. Accordingly, increasing
                 humidity levels for the cultivation of marijuana plants on the Leased Premises is prohibited. Tenant
                 accepts financial responsibility for any and all costs necessary to restore the Leased Premises to its
-                original condition due to the tenant’s cultivation of marijuana.</p>
+                original condition due to the tenant&#39;s cultivation of marijuana.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="4.">
@@ -4987,7 +4980,7 @@
     <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
     <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
     <p class="s88" style="padding-top: 2pt;padding-left: 59pt;text-indent: 0pt;text-align: left;">Zero Tolerance for
-        Criminal Activity and Megan’s Law Addendum</p>
+        Criminal Activity and Megan&#39;s Law Addendum</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
@@ -5025,7 +5018,7 @@
         for the balance of the Lease term, court costs, attorney fees, and other charges in accordance with all
         applicable local laws and regulations.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s92" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Megan’s Law Statement.</p>
+    <p class="s92" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Megan&#39;s Law Statement.</p>
     <p style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">Before or
         After taking occupancy in the above-stated Premises, <span style=" color: #313D4F;">Tenant(s) should exercise
             whatever due to diligence Tenant(s) deems necessary with respect to the information on sexual offenders
@@ -5057,7 +5050,7 @@
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
         </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
     <p class="s53" style="padding-top: 8pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">The goal of this
-        Addendum is to protect the quality of the rented unit’s environment from the affects of bed bugs by providing
+        Addendum is to protect the quality of the rented unit&#39;s environment from the affects of bed bugs by providing
         sufficient information and instructions. It is also the goal of this Addendum to clearly set forth the
         responsibilities of each of the parties to the rental agreement.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -5078,7 +5071,7 @@
         </li>
         <li data-list-text="3.">
             <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">The Resident shall
-                cooperate with pest control efforts. If your unit or a neighbor’s unit is infested, a pest management
+                cooperate with pest control efforts. If your unit or a neighbor&#39;s unit is infested, a pest management
                 professional may be called in to eradicate the problem. Your unit must be properly prepared for
                 treatment. The resident must comply with recommendations and requests from the pest control specialist
                 prior to professional treatment including but not limited to:</p>
@@ -5115,7 +5108,7 @@
         <li data-list-text="4.">
             <p class="s75" style="padding-top: 4pt;padding-left: 41pt;text-indent: -18pt;text-align: justify;">Resident
                 agrees to indemnify and hold the Owner/Agent harmless from any actions, claims, losses, damages, and
-                expenses including but not limited to attorneys’ fees that Owner/Agent may incur as a result of the
+                expenses including but not limited to attorneys&#39; fees that Owner/Agent may incur as a result of the
                 negligence of the Resident(s) or any guest occupying or using the premises.</p>
         </li>
         <li data-list-text="5.">
@@ -5160,7 +5153,7 @@
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">This “MOLD ADDENDUM” is incorporated
         into and made part of the lease agreement, executed by the Landlord and the Tenant referring to and
-        incorporating the leased Premises. The goal of this Addendum is to protect the quality of the rented unit’s
+        incorporating the leased Premises. The goal of this Addendum is to protect the quality of the rented unit&#39;s
         environment from the affects of mold by providing sufficient information and instructions. It is also the goal
         of this Addendum to clearly set forth the responsibilities of each of the parties to the rental agreement.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -5268,9 +5261,9 @@
                 STATEMENT.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <p class="s96" style="padding-left: 19pt;text-indent: 0pt;text-align: justify;">TENANT FURTHER AGREES to
-                indemnify and hold harmless Owner and Owner’s management agents from any suits, actions, claims, losses,
-                damages, and expenses (including reasonable attorney’s and court costs) and any liability whatsoever
-                that Owner and/or its management agents may sustain or incur as a result of Tenant’s failure to comply
+                indemnify and hold harmless Owner and Owner&#39;s management agents from any suits, actions, claims, losses,
+                damages, and expenses (including reasonable attorney&#39;s and court costs) and any liability whatsoever
+                that Owner and/or its management agents may sustain or incur as a result of Tenant&#39;s failure to comply
                 or perform with the obligations set forth above or as the result of intentional or negligent action or
                 failure to act on the part of Tenant or any other person living in, occupying, or using the Premises.
             </p>
@@ -5305,7 +5298,7 @@
             <p class="s95" style="padding-top: 8pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;">This
                 “ASBESTOS DISCLOSURE ADDENDUM” is incorporated into and made part of the lease agreement, executed by
                 the Landlord and the Tenant referring to and incorporating the Leased Premises. The goal of this
-                Addendum is to protect the quality of the rented unit’s environment from the affects of asbestos by
+                Addendum is to protect the quality of the rented unit&#39;s environment from the affects of asbestos by
                 providing sufficient information and instructions. It is also the goal of this Addendum to clearly set
                 forth the responsibilities of each of the parties to the rental agreement.</p>
             <p class="s96" style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;">Asbestos is
@@ -5357,7 +5350,7 @@
                 </li>
                 <li data-list-text="2.">
                     <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;">Making any
-                        repairs, improvements, or alterations to the Premises without obtaining Owner/Agent’s prior
+                        repairs, improvements, or alterations to the Premises without obtaining Owner/Agent&#39;s prior
                         written consent and (when appropriate) providing Owner/Agent with a plan to prevent the release
                         or exposure of any asbestos.</p>
                     <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -5687,7 +5680,7 @@
         be kept or fed in or about the Premises, they can be dangerous. Tenant must notify local animal control and/or
         local authorities.</p>
     <p class="s96" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Landlord is not
-        responsible/liable for any of the Tenant’s pet(s) action. If the Tenant violates any part of this Addendum, the
+        responsible/liable for any of the Tenant&#39;s pet(s) action. If the Tenant violates any part of this Addendum, the
         Tenant is then in default of the Lease. In the event of a default, the Landlord may initiate legal proceedings
         in accordance with State and Local regulations to evict or have the Tenant removed from the Leased Premises as
         well as seek a judgment against the Tenant for any monies owed to the Landlord as a result of the Tenants
@@ -5696,7 +5689,7 @@
     <p class="s110" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: justify;">All of the big
         and/or aggressive dog breeds or aggressive dogs must wear dog muzzle while walking outside.</p>
     <p class="s110" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: justify;">Owner(s) and/or
-        Owners’ Agent(s) are not responsible for Tenant’s pet(s) actions, damages, and/or Injuries to humans or other
+        Owners&#39; Agent(s) are not responsible for Tenant&#39;s pet(s) actions, damages, and/or Injuries to humans or other
         animals.</p>
     <p class="s81" style="padding-top: 8pt;padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">
         Tenant&#39;s Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
@@ -5727,8 +5720,8 @@
     <p class="s111" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">☒<span
             class="s112"> </span><span class="s113">Community or Private Pool/Spa</span></p>
     <p class="s96" style="padding-top: 1pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
-        The Tenant(s) will use the swimming pool and/or hot spa at the Tenant’s own risk. The Landlord will not be
-        responsible for any injuries sustained by the Tenant, and/or the Tenant’s occupants or guests when using the
+        The Tenant(s) will use the swimming pool and/or hot spa at the Tenant&#39;s own risk. The Landlord will not be
+        responsible for any injuries sustained by the Tenant, and/or the Tenant&#39;s occupants or guests when using the
         swimming pool and/or hot spa. Children under the minimum age (posted at the pool) must be accompanied at all
         times, by a parent or legal guardian. Tenant must follow all Community and/or Owner rules and regulations.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
@@ -5752,9 +5745,9 @@
                 and keeping the pool/hot tub areas clean, neat, and organized. The Tenant must immediately notify the
                 Landlord of any repair that the pool and/or hot tub may require. The Tenant is responsible for a full
                 cost that may be due for repair and/or replacement of the swimming pool and/or hot tub that is required
-                as a result of negligence by the Tenant(s), or Tenant’s guests. The Tenant must operate the swimming
-                pool and/or hot tub according to the manufacturer’s instructions. The Tenant is responsible for using
-                chemicals in accordance with the manufacturer’s instructions (unless stated otherwise). The Tenant must
+                as a result of negligence by the Tenant(s), or Tenant&#39;s guests. The Tenant must operate the swimming
+                pool and/or hot tub according to the manufacturer&#39;s instructions. The Tenant is responsible for using
+                chemicals in accordance with the manufacturer&#39;s instructions (unless stated otherwise). The Tenant must
                 store all chemicals in a safe manner. No pets of any kind are permitted in the swimming pool and/or hot
                 tub at any time. The Tenant understands that the swimming pool and/or hot tub are strictly an amenity
                 and that the use of this amenity is not guaranteed under the terms of the Lease. Any interruption or
@@ -5769,14 +5762,14 @@
                 Waterfront</p>
             <p class="s96" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant(s) agrees that the
                 Property is a waterfront property, which creates a risk of personal injury or property damage
-                acknowledge and agrees that the use of the waterfront features are at the Landlord’s sole discretion and
+                acknowledge and agrees that the use of the waterfront features are at the Landlord&#39;s sole discretion and
                 that Landlord may withdraw consent to use all waterfront features at any time. Tenant(s) agree to remove
                 any boat, personal watercraft, or any other vehicle from the Property immediately upon the request of
-                the Landlord, at Tenant’s sole expense. Tenant(s) shall not sublet, assign or otherwise allow the use by
+                the Landlord, at Tenant&#39;s sole expense. Tenant(s) shall not sublet, assign or otherwise allow the use by
                 any third party any portion of any waterfront features.</p>
             <p class="s96" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant(s)
                 acknowledges and agrees that Landlord, the property owner, and its agents shall not be liable for any
-                personal injury to Tenant(s) or damage to Tenant’s property arising out of the existence of the
+                personal injury to Tenant(s) or damage to Tenant&#39;s property arising out of the existence of the
                 waterfront features on the Property and their use. Landlord, the property owner, and its agents&#39;
                 insurance policy(s) do not cover any loss suffered by the Tenant(s). Tenants(s) are strongly advised to
                 purchase insurance coverage on their personal belongings and liability coverage. Tenant(s) hereby
@@ -5793,7 +5786,7 @@
                 Tenant violates any part of this Addendum, the Tenant will then be in default of the Lease. In the event
                 of a default, the Landlord may initiate legal proceedings in accordance with local and state regulations
                 to evict or have the Tenant removed from the Leased Premises; as well as seek a judgment against the
-                Tenant for any monies owed to the Landlord as a result of the Tenant’s default.</p>
+                Tenant for any monies owed to the Landlord as a result of the Tenant&#39;s default.</p>
             <p class="s81"
                 style="padding-top: 2pt;padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">
                 Tenant&#39;s Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
@@ -5887,7 +5880,7 @@
         the Tenant will then be in default of the Lease. In the event of a default, the Landlord may initiate legal
         proceedings in accordance with local and state regulations to evict or have the Tenant removed from the Leased
         Premises; as well as seek a judgment against the Tenant for any monies owed to the Landlord as a result of the
-        Tenant’s default.</p>
+        Tenant&#39;s default.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: justify;">Tenant&#39;s
         Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
