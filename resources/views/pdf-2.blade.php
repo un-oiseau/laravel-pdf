@@ -4825,7 +4825,6 @@
             <span class="p">Tenant may
                     keep pets with Landlord&#39;s written permission according to the terms of the attached Rules and
                     Regulations. (See Pet Addendum)</span></p>
-            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
         </li>
         <li data-list-text="34.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">POOL/SPA
@@ -5009,6 +5008,20 @@
                   </tbody>
               </table>
         </li>
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+        </table>
 
         <li data-list-text="39.">
             <p class="s1"
@@ -5017,7 +5030,7 @@
             <table style="border-collapse:collapse;margin-left:30.81pt" cellspacing="0">
                 <tr style="height:16pt">
                     <td
-                        style="width:122pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt">
+                        style="width:140pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt">
                         <p class="s38" style="padding-right: 4pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
                             Water/Sewer Company:</p>
                     </td>
@@ -5110,73 +5123,127 @@
                     </td>
                 </tr>
             </table>
-            <p class="s58" style="padding-left: 36pt;text-indent: 0pt;text-align: left;">⭐⭐⭐ <span class="s57">Tenant
-                    must provide Landlord with Electric and/or Gas Account Number – If Applicable</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                <p class="s58" style="padding-left: 29pt;padding-top:3pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                    <img src="images/star.png" alt="star">
+                    <img src="images/star.png" alt="star">
+                    <img src="images/star.png" alt="star">
+                    <span class="s57">Tenant must provide Landlord with Electric and/or Gas Account Number – If Applicable</span>
+                </p>
         </li>
-        <li data-list-text="40.">
+        <li data-list-text="40">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">LEAD-BASED
-                PAINT HAZARD DISCLOSURES FOR PROPERTY BUILT BEFORE 1978</p>
-            <ul id="l40">
-                <li data-list-text="☐">
-                    <p style="padding-left: 33pt;text-indent: -22pt;text-align: left;">Property was built in or after
-                        1978. This paragraph does not apply.</p>
+                PAINT HAZARD DISCLOSURES FOR PROPERTY BUILT BEFORE 1978
+            </p>
+            <ul>
+                <li>
+                    <p style="padding-left: 33pt;text-indent: -22pt;text-align: left;">
+                        <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        Property was built in or after 1978. This paragraph does not apply.
+                    </p>
+                    <p class="s46" style="padding-top: 1pt;padding-left: 28pt;text-indent: -22pt;text-align: left;">
+                        <img src="images/checkbox-cross.png" alt="checkbox" style="width:17px;height:17px">
+                        <span class="s21">Property was built before 1978. Landlord and Tenant must provide information in this
+                        paragraph.</span>
+                    </p>
                 </li>
             </ul>
-            <p class="s46" style="padding-top: 1pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">☒ <span
-                    class="s21">Property was built before 1978. Landlord and Tenant must provide information in this
-                    paragraph.</span></p>
-            <ol id="l41">
-                <li data-list-text="(A)">
-                    <p class="s1" style="padding-top: 2pt;padding-left: 54pt;text-indent: -24pt;text-align: left;">
-                        Landlord does not know of any lead-based paint or lead-based paint hazards on the Property
-                        unless stated below:</p>
-                    <p class="s47" style="padding-top: 6pt;padding-left: 54pt;text-indent: 0pt;text-align: justify;">
-                        &nbsp;&nbsp;&nbsp; <span class="p">Landlord knows that there is lead-based paint, or that there
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td>
+                            <p class="s1" style="padding-left: 6pt;text-align:left;width:520pt"> 
+                            Landlord does not know of any lead-based paint or lead-based paint hazards on the Property
+                            unless stated below:
+                            </p>
+                            <p style="padding-top: 6pt;padding-left: 6pt;text-indent: 0pt;text-align: justify;width:520pt">
+                            _____ <span class="p">Landlord knows that there is lead-based paint, or that there
                             are lead-based paint hazards on the Property. Landlord must explain what the Landlord knows
                             about the lead-based paint and hazards, including how the Landlord learned that it is there,
                             where it is, and the condition of painted walls, trim and other surfaces. Landlord must give
                             Tenant any other information Landlord has about the lead-based paint and lead-based paint
-                            hazards.</span></p>
-                </li>
-                <li data-list-text="(B)">
-                    <p class="s1" style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Landlord has no
-                        reports/records about <span class="s77">lead-based paint or lead-based paint hazards on the
-                            Property unless stated below:</span></p>
-                    <p class="s47" style="padding-top: 7pt;padding-left: 54pt;text-indent: 0pt;text-align: justify;">
-                        &nbsp;&nbsp;&nbsp; <span class="p">Landlord has given Tenant all available records and reports
-                            about lead-based paint or lead-based paint hazards on the property. List records and
-                            reports:</span></p>
-                    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                    <p style="padding-left: 54pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
-                </li>
-                <li data-list-text="(C)">
-                    <p class="s1" style="padding-left: 54pt;text-indent: -23pt;line-height: 13pt;text-align: left;">
-                        Protect your Family from Lead in your Home brochure attached to this lease.</p>
-                </li>
-                <li data-list-text="(D)">
-                    <p class="s1" style="padding-top: 6pt;padding-left: 54pt;text-indent: -24pt;text-align: left;">
-                        Tenant initial all that is true:</p>
-                    <p style="padding-top: 6pt;padding-left: 54pt;text-indent: 0pt;text-align: left;"><u> &nbsp;&nbsp;
-                        </u>Tenant has received the pamphlet <i>Protect Your Family from Lead in Your Home</i>.</p>
-                    <p class="s47" style="padding-top: 6pt;padding-left: 54pt;text-indent: 0pt;text-align: left;">
-                        &nbsp;&nbsp; <span class="p">Tenant has read the information given by Landlord in paragraph 39
-                            (A) and (B) above.</span></p>
-                    <p class="s47" style="padding-top: 6pt;padding-left: 54pt;text-indent: 0pt;text-align: left;">
-                        &nbsp;&nbsp; <span class="p">Tenant has received all records and reports that Landlord listed in
-                            paragraph 39 (B) above.</span></p>
-                </li>
-                <li data-list-text="(E)">
-                    <p class="s1" style="padding-top: 6pt;padding-left: 54pt;text-indent: -23pt;text-align: left;">
-                        Landlord and Tenant certify, by signing this Lease, that the information given is true to the
-                        best of their knowledge.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                            hazards.</span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p class="s1" style="padding-left: 6pt;text-align:left;width:520pt"> 
+                            Landlord has no
+                            reports/records about <span class="s77">lead-based paint or lead-based paint hazards on the
+                            Property unless stated below:
+                            </p>
+                            <p style="padding-top: 7pt;padding-left: 6pt;text-indent: 0pt;text-align: justify;width:520pt">
+                            _____ <span class="p">Landlord has given Tenant all available records and reports
+                                about lead-based paint or lead-based paint hazards on the property. List records and
+                                reports:</span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <hr class="hr" style="width:550pt;margin:10px 0 5px">
+                        </td>
+                    </tr>
+                    
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p class="s1" style="text-align:left;width:530pt"> Protect your Family from Lead in your Home brochure attached to this lease.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                    <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (D)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s1" style="text-align:left;padding-left: 6pt;width:530pt"> Tenant initial all that is true:
+                            </p>
+                            <p style="padding-top: 6pt;text-indent: 0pt;padding-left: 6pt;text-align: left;width:530pt">
+                            _____ Tenant has received the pamphlet <i>Protect Your Family from Lead in Your Home</i>.</p>
+                            <p style="padding-top: 6pt;text-indent: 0pt;padding-left: 6pt;text-align: left;width:530pt">
+                            _____ <span class="p">Tenant has read the information given by Landlord in paragraph 39
+                                (A) and (B) above.</span></p>
+                            <p style="padding-top: 6pt;text-indent: 0pt;padding-left: 6pt;text-align: left;width:530pt">
+                            _____ <span class="p">Tenant has received all records and reports that Landlord listed in
+                                paragraph 39 (B) above.</span></p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (E)
+                            </p>
+                        </td>
+                        <td>
+                            <p class="s1" style="text-align:left;padding-left: 6pt;width:530pt"> 
+                            Landlord and Tenant certify, by signing this Lease, that the information given is true to the
+                            best of their knowledge.
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="41.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">NEIGHBORHOOD CONDITIONS</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant is advised to
+            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:550pt">Tenant is advised to
                 satisfy himself/herself as to neighborhood or area conditions, including, but not limited to, schools,
                 proximity and adequacy of law enforcement, crime statistics, the proximity of registered felons or
                 offenders, fire protection, other governmental services, availability, adequacy and cost of any
@@ -5191,18 +5258,75 @@
         <li data-list-text="42.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">ADDITIONAL TERMS</p>
             <p class="s79" style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">None</p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="43.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">ADDENDUMS</p>
             <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">Addendums are the part of
-                this lease.</p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 10pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+                this lease.
+            </p>
+            <table style="padding-top:60pt">
+                <tbody>
+                    <tr>
+                        <td style="text-align: right; width:700px">
+                            <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3> 
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                        <td style="width:500px"></td>
+                        <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                    </tr>
+                    <tr>
+                        <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                        <td class="s28" style="width:500px"></td>
+                        <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
+            <table>
+                <tbody>
+                    <tr style="height:16pt">
+                    
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                            Confidential - Thursday, July 7, 2022
+                        </p>
+                    </td>
+                
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            Page 8 of 22
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                            DAN Housing, Inc © 2016-2022
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
         </li>
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+        </table>
         <li data-list-text="44.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">CAPTIONS</p>
             <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">The headings in this
@@ -5210,43 +5334,106 @@
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="45.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">ENTIRE AGREEMENT</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">This Lease is the
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left">ENTIRE AGREEMENT</p>
+            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:550pt">This Lease is the
                 entire agreement between Landlord and Tenant. No spoken or written agreements made before are a part of
                 this Lease unless they are included in this Lease in writing. No waivers or modifications of this Lease
                 during the Term of this Lease are valid unless in writing signed by both Landlord and Tenant.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="46.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">MEDIATION</p>
-            <ol id="l42">
-                <li data-list-text="(A)">
-                    <p style="padding-top: 2pt;padding-left: 54pt;text-indent: -23pt;text-align: justify;">Consistent
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">MEDIATION</p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Consistent
                         with paragraphs B and C below, Landlord and Tenant agree to mediate any dispute or claim arising
                         between them out of this Agreement, or any resulting transaction, before resorting to court
                         action. Mediation fees, if any, shall be divided equally among the parties involved. If for any
                         dispute or claim to which this paragraph applies, any party commences an action without first
                         attempting to resolve the matter through mediation or refuses to mediate after a request has
                         been made, then that party shall not be entitled to recover attorney fees, even if they would
-                        otherwise be available to that party in any such action.</p>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">The following matters are
+                        otherwise be available to that party in any such action.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> The following matters are
                         excluded from mediation: (i) an unlawful detainer action; (ii) the filing or enforcement of a
                         mechanic&#39;s lien; and (iii) any matter within the jurisdiction of probate, small claims, or
                         bankruptcy court. The filing of court action to enable the recording of a notice of pending
                         action, for order of attachment, receivership, injunction, or other provisional remedies, shall
-                        not constitute a waiver of the mediation provision.</p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Landlord and Tenant agree to
+                        not constitute a waiver of the mediation provision.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Landlord and Tenant agree to
                         mediate disputes or claims involving Listing Agent, Leasing Agent or property manager
                         (“Broker”), provided Broker shall have agreed to such mediation prior to, or within a reasonable
                         time after, the dispute or claim is presented to such Broker. Any election by Broker to
-                        participate in mediation shall not result in Broker being deemed a party to this Agreement.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                        participate in mediation shall not result in Broker being deemed a party to this Agreement.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (D)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Landlord may provide additional
+                            fire protection systems for the benefit of the Tenant. Responsibility for maintaining these
+                            systems is stated in the Rules and Regulations if any.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (E)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:500pt"> Tenant will pay for damage to the
+                            Property if Tenant fails to maintain smoke detectors or other fire protection systems.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (F)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:500pt"> If the unit is equipped with
+                            battery apparated Smoke or Carbon Monoxide alarms, the Tenant is responsible to maintain/ check,
+                            and replace batteries if needed.
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="47.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">NOTICE BEFORE SIGNING</p>
@@ -5255,15 +5442,91 @@
     <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">If Tenant(s) has legal
         questions, Tenant is advised to consult an attorney.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s80" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">ENDING LEASE</p>
+    <p class="s80" style="padding-left: 31pt;text-indent: 0pt;text-align: left;">ENDING LEASE</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">By signing below, Landlord and Tenant
+    <p class="s1" style="padding-left: 31pt;text-indent: 0pt;text-align: left;">By signing below, Landlord and Tenant
         acknowledge that they have read and understood the notices and explanatory information set forth in this Lease.
     </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: justify;">Tenant&#39;s
+    <table>
+        <tr style="padding-left: 28pt;">
+            <td colspan="3" style="padding-left:35pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000">_______________________</span></p>
+            </td>
+            <td>
+                <p class="s81"></u> Date: <u>&nbsp;</u><<span style="color: #000">_______________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt;">
+            <td colspan="3" style="padding-left:35pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000">_______________________</span></p>
+            </td>
+            <td>
+                <p class="s81"></u> Date: <u>&nbsp;</u><span style="color: #000">_______________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt;">
+            <td colspan="3" style="padding-left:35pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000">_______________________</span></p>
+                <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
+                class="s84">On Behalf of Dan Housing, Inc.</span></p>
+            </td>
+            <td>
+                <p class="s81"></u> Date: <u>&nbsp;</u><span style="color: #000">_______________________</span></p>
+            </td>
+        </tr>
+    </table>
+    <table style="padding-top:60pt">
+                <tbody>
+                    <tr>
+                        <td style="text-align: right; width:700px">
+                            <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3> 
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                        <td style="width:500px"></td>
+                        <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                    </tr>
+                    <tr>
+                        <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                        <td class="s28" style="width:500px"></td>
+                        <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
+            <table>
+                <tbody>
+                    <tr style="height:16pt">
+                    
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                            Confidential - Thursday, July 7, 2022
+                        </p>
+                    </td>
+                
+                    <td style="width:200pt">
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                            Page 10 of 22
+                        </p>
+                    </td>
+                    <td>
+                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                            DAN Housing, Inc © 2016-2022
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+    <!-- <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: justify;">Tenant&#39;s
         Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
+        </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
     <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
@@ -5271,10 +5534,10 @@
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
     <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 9pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
+    <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+    <!-- <h3 style="padding-top: 9pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
     <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
     <p class="s85" style="padding-top: 2pt;padding-left: 217pt;text-indent: 0pt;line-height: 157%;text-align: center;">
         NOTICES AND INFORMATION CONSUMER CONTRACT ACT</p>
     <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
