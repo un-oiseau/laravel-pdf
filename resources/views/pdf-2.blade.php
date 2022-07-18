@@ -3548,9 +3548,8 @@
                 </tr>
             </table>
         </li>
-        
         <li data-list-text="11.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">POSSESSION
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">POSSESSION
                 AND TENANT RESPONSIBILITIES</p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
                 <tbody>
@@ -3574,7 +3573,7 @@
                             </p>
                         </td>
                         <td style="width:530pt">
-                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            <p class="s37" style="padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
                                 If Tenant cannot move in within
                                 <span class="s45">&nbsp;5 </span><span class="s4"> </span>days after Start Date because the
                                 previous tenant is still there or because of property damage, Tenant&#39;s exclusive rights are
@@ -3585,7 +3584,9 @@
                                             of the Lease to the day when the Property is available. Tenant will not owe rent until
                                             the Property is available.
                                         </p>
-                                    </li> 
+                                    </li>
+                                     
+                                    <p style="text-align: left; text-indent:-45pt">OR</p>
                                     <li data-list-text="2.">
                                         <p style="line-height: 10pt;text-align: left;">End the
                                             Lease and have all money already paid as rent or security deposit returned, with no
@@ -3603,7 +3604,7 @@
                             </p>
                         </td>
                         <td style="width:530pt">
-                            <p class="s66" style="text-align: justify;">If this is an
+                            <p class="s57" style="text-align: justify;">If this is an
                             Insurance claim relocation and no more extensions granted by the insurance adjuster, the Tenant
                             MUST promptly vacate the property otherwise Tenant will be automatically responsible to pay
                             lease payment(s) and sign a new lease with Landlord.
@@ -3831,7 +3832,7 @@
                             <span class="s37" style="padding-left: 4pt;text-indent: 0pt;text-align: left;">
                                 (B)
                             </span>
-                            <span class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left; text-decoration:underline; font-style:italic">
+                            <span class="s37" style="padding-left: 4pt;padding-bottom:-30px;text-indent: 0pt;line-height: 13pt;text-align: left; text-decoration:underline; font-style:italic">
                                 Tenant will NOT:
                             </span>
                         </td>
@@ -4236,19 +4237,19 @@
               </table>
         </li>
         <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
-            <tr style="height:30px">
-                <td style="width:30%; padding-right:30px">
-                    <img style="width:100%" src="images/logo.png" alt="logo"/>
-                </td>
-                <td style="width:70%">
-                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
-                        108 Lakeside Drive, Southampton, PA 18966
-                    </p>
-                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
-                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
-                </td>
-            </tr>
-        </table>
+                <tr style="height:30px">
+                    <td style="width:30%; padding-right:30px">
+                        <img style="width:100%" src="images/logo.png" alt="logo"/>
+                    </td>
+                    <td style="width:70%">
+                        <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                            108 Lakeside Drive, Southampton, PA 18966
+                        </p>
+                        <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                        <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                    </td>
+                </tr>
+            </table>
         <li data-list-text="20.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">RADON GAS</p>
             <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify; width:550pt"><a
@@ -4288,50 +4289,8 @@
                 repair or replace.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
-        <!-- <li data-list-text="22.old">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">DESTRUCTION OF PROPERTY</p>
-            <ol id="l29">
-                <li data-list-text="(A)">
-                    <p style="padding-top: 2pt;padding-left: 54pt;text-indent: -24pt;text-align: justify;">Tenant will
-                        notify Landlord or Landlord&#39;s agent immediately if the Property is severely damaged or
-                        destroyed by fire or by any other cause. Tenant will immediately notify Landlord or
-                        Landlord&#39;s agent of any condition in the Property that could severely damage or destroy the
-                        property.</p>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;line-height: 13pt;text-align: justify;">If the
-                        Property is severely damaged or destroyed for any reason:</p>
-                    <ol id="l30">
-                        <li data-list-text="1.">
-                            <p style="padding-left: 68pt;text-indent: -13pt;text-align: justify;">Tenant may continue to
-                                live on the livable part of the Property and pay a reduced rent as agreed to by Tenant
-                                and</p>
-                            <p class="s71"
-                                style="padding-left: 31pt;text-indent: 0pt;line-height: 14pt;text-align: left;">OR <span
-                                    class="p">Landlord until the damages are repaired.</span>
-                            </p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 68pt;text-indent: -13pt;line-height: 13pt;text-align: left;">If the
-                                law does not allow the Tenant to live on the Property, this lease is ended.</p>
-                        </li>
-                    </ol>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">If the Lease is ended, Landlord
-                        will return any unused security deposit or advanced rent to the Tenant.</p>
-                </li>
-                <li data-list-text="(D)">
-                    <p style="padding-left: 54pt;text-indent: -24pt;text-align: left;">If Tenant, Tenant&#39;s family,
-                        or Tenant&#39;s guests cause damage by fire or by other means, this Lease will remain in effect
-                        and the Tenant will continue to pay rent, even if the Tenant cannot occupy the Property.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-        </li> -->
         <li data-list-text="22.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">POSSESSION
-                AND TENANT RESPONSIBILITIES</p>
+            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">DESTRUCTION OF PROPERTY</p>
             <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
                 <tbody>
                     <tr style="height:16pt">
@@ -4342,9 +4301,12 @@
                         </td>
                         <td style="width:530pt">
                             <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                            Tenant may move in (take possession of the Property) on the Start Date of this Lease.
+                            Tenant will
+                            notify Landlord or Landlord&#39;s agent immediately if the Property is severely damaged or
+                            destroyed by fire or by any other cause. Tenant will immediately notify Landlord or
+                            Landlord&#39;s agent of any condition in the Property that could severely damage or destroy the
+                            property.
                             </p>
-                            
                         </td>
                     </tr>
                     <tr style="height:16pt">
@@ -4355,17 +4317,15 @@
                         </td>
                         <td style="width:530pt">
                             <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
-                                If Tenant cannot move in within
-                                <span class="s45">&nbsp;5 </span><span class="s4"> </span>days after Start Date because the
-                                previous tenant is still there or because of property damage, Tenant&#39;s exclusive rights are
-                                to:
+                            If the Property is severely damaged or destroyed for any reason:
                                 <ol style="padding-left:30px">
                                     <li data-list-text="1.">
-                                        <p style="text-align: left;">Change the starting date
-                                            of the Lease to the day when the Property is available. Tenant will not owe rent until
-                                            the Property is available.
+                                        <p style="text-align: left;">Tenant may continue to
+                                        live on the livable part of the Property and pay a reduced rent as agreed to by Tenant
+                                        and
                                         </p>
                                     </li> 
+                                    <p style="text-align: left; text-indent:-45pt">OR</p>
                                     <li data-list-text="2.">
                                         <p style="line-height: 10pt;text-align: left;">End the
                                             Lease and have all money already paid as rent or security deposit returned, with no
@@ -4383,107 +4343,269 @@
                             </p>
                         </td>
                         <td style="width:530pt">
-                            <p class="s66" style="text-align: justify;">If this is an
-                            Insurance claim relocation and no more extensions granted by the insurance adjuster, the Tenant
-                            MUST promptly vacate the property otherwise Tenant will be automatically responsible to pay
-                            lease payment(s) and sign a new lease with Landlord.
-                            </p> 
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            If the Lease is ended, Landlord
+                            will return any unused security deposit or advanced rent to the Tenant.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (D)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-top: 1pt;padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            If Tenant, Tenant&#39;s family,
+                            or Tenant&#39;s guests cause damage by fire or by other means, this Lease will remain in effect
+                            and the Tenant will continue to pay rent, even if the Tenant cannot occupy the Property.
+                            </p>
                         </td>
                     </tr>
                 </tbody>
             </table>
         </li>
         <li data-list-text="23.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">INSURANCE AND RELEASE</p>
-            <p style="padding-top: 1pt;padding-left: 33pt;text-indent: 0pt;text-align: left;"><b>IF CHECKED</b>, Tenant
-                must obtain a Rental insurance policy providing at least <span class="s45">$20,000.00</span><span
-                    class="s4"> </span>personal property insurance and a</p>
-            <p style="padding-top: 1pt;padding-left: 33pt;text-indent: -22pt;line-height: 65%;text-align: left;"><span
-                    class="s72">☒ </span>minimum of <span class="s45">$300,000.00</span><span class="s4">
-                </span>liability insurance to protect Tenant, Tenant&#39;s property, and Tenant&#39;s guests who may be
-                injured while on the Property. Tenant must maintain this insurance through the entire Term and any
-                Renewal Term. Tenant will provide proof</p>
-            <p style="padding-top: 1pt;padding-left: 33pt;text-indent: 0pt;text-align: justify;">of insurance upon
-                request. <span class="s15">If Policy is transferable. New Declaration Page will be provided by the
-                    Policy Holder(s) or their agent.</span></p>
-            <ol id="l31">
-                <li data-list-text="(A)">
-                    <p style="padding-left: 55pt;text-indent: -24pt;text-align: justify;">Tenant understands that
-                        Landlord&#39;s/Agent&#39;s insurance does not cover Tenant, Tenant&#39;s property, or Tenants
-                        guests. Tenant is advised to obtain property and liability insurance to protect Tenant,
-                        Tenant&#39;s property, and Tenant&#39;s guests who may be injured while on the Property.</p>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 55pt;text-indent: -23pt;text-align: justify;">Landlord is not legally
-                        responsible for any injury or damage to the Tenant or Tenant&#39;s guests that occurs on the
-                        Property.</p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-top: 1pt;padding-left: 55pt;text-indent: -23pt;text-align: justify;">Tenant is
-                        responsible for any loss to Landlord caused by Tenant, Tenant&#39;s family, or their guests,
-                        including attorney&#39;s fees.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">INSURANCE AND RELEASE
+            </p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td colspan="2">
+                            <p style="text-align:left;width:550pt"> <b>IF CHECKED</b>, Tenant
+                            must obtain a Rental insurance policy providing at least <span class="s45">$20,000.00</span><span
+                            class="s4"> </span>personal property insurance and a <span
+                            class="s72">
+                            <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                            </span>minimum of <span class="s45">$300,000.00</span><span class="s4">
+                            </span>liability insurance to protect Tenant, Tenant&#39;s property, and Tenant&#39;s guests who may be
+                            injured while on the Property. Tenant must maintain this insurance through the entire Term and any
+                            Renewal Term. Tenant will provide proof of insurance upon
+                            request. <span class="s15">If Policy is transferable. New Declaration Page will be provided by the
+                            Policy Holder(s) or their agent.</span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Landlord is not legally
+                            responsible for any injury or damage to the Tenant or Tenant&#39;s guests that occurs on the
+                            Property.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:550pt"> Failure to properly maintain
+                            smoke detectors, replace smoke detector batteries or notify the Landlord or Landlord&#39;s agent
+                            of any broken or malfunctioning smoke detectors is a breach of this Lease.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:550pt"> Tenant is
+                            responsible for any loss to Landlord caused by Tenant, Tenant&#39;s family, or their guests,
+                            including attorney&#39;s fees.
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="24.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">LANDLORD
-                REMEDIES IF TENANT BREACHES LEASE</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">If Tenant breaches the
-                Lease for any reason, Landlord&#39;s remedies may include any or all of the following:</p>
-            <ol id="l32">
-                <li data-list-text="(A)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Taking possession of the
-                        Property by going to court to evict the Tenant. Tenant agrees to pay Landlord&#39;s legal fees
-                        and reasonable costs, including the cost for Landlord or Landlord&#39;s agent to attend court
-                        hearings.</p>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">Filing a lawsuit against
-                        Tenant for rents, damages, and unpaid charges, and for rents and charges for the rest of the
-                        Lease term. If Landlord wins (gets a money judgment against the Tenant), the Landlord may use
-                        the court process to garnish Tenant&#39;s wages and take Tenant&#39;s personal goods, furniture,
-                        motor vehicles, and money, in banks.</p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;line-height: 13pt;text-align: justify;">Keeping
-                        Tenant&#39;s Security Deposit to be applied against unpaid rent or damages, or both.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">LANDLORD
+                REMEDIES IF TENANT BREACHES LEASE
+            </p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td colspan="2">
+                            <p style="text-align:left;width:550pt"> If Tenant breaches the
+                            Lease for any reason, Landlord&#39;s remedies may include any or all of the following:
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Taking possession of the
+                            Property by going to court to evict the Tenant. Tenant agrees to pay Landlord&#39;s legal fees
+                            and reasonable costs, including the cost for Landlord or Landlord&#39;s agent to attend court
+                            hearings.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:550pt"> Keeping
+                            Tenant&#39;s Security Deposit to be applied against unpaid rent or damages, or both.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:550pt"> Tenant is
+                            responsible for any loss to Landlord caused by Tenant, Tenant&#39;s family, or their guests,
+                            including attorney&#39;s fees.
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: right; width:700px">
+                              <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                          </td>
+                      </tr>
+                  </tbody>
+              </table>
+
+              <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                          <td style="width:500px"></td>
+                          <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                      </tr>
+                      <tr>
+                          <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                          <td class="s28" style="width:500px"></td>
+                          <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+              <table>
+                  <tbody>
+                      <tr style="height:16pt">
+
+                      <td style="width:220pt">
+                          <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                              Confidential - Thursday, July 7, 2022
+                          </p>
+                      </td>
+
+                      <td style="width:180pt">
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                              Page 6 of 22
+                          </p>
+                      </td>
+                      <td>
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                              DAN Housing, Inc © 2016-2022
+                          </p>
+                      </td>
+                  </tr>
+                  </tbody>
+              </table>
         </li>
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+        </table>
         <li data-list-text="25.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">TENANT ENDING
-                LEASE EARLY</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">Tenant may end this Lease
-                and move out of the Property before the End Date of the Lease or any Renewal Term only with the written
-                permission of Landlord, and only if:</p>
-            <ol id="l33">
-                <li data-list-text="(A)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Tenant gives Landlord at least
-                        <span class="s45">60</span><span class="s4"> </span>days written notice, AND</p>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Tenant pays Landlord a
-                        Termination fee of <span class="s45">two (2) months Rent</span>, <span class="s73">(</span><span
+            <p class="s1" style="padding-top: 3pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">TENANT ENDING
+                LEASE EARLY
+            </p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td colspan="2">
+                            <p style="text-align:left;width:570pt"> Tenant may end this Lease
+                            and move out of the Property before the End Date of the Lease or any Renewal Term only with the written
+                            permission of Landlord, and only if:
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Tenant gives Landlord at least
+                            <span class="s45">60</span><span class="s4"> </span>days written notice, AND
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Tenant pays Landlord a
+                            Termination fee of <span class="s45">two (2) months Rent</span>, <span class="s73">(</span><span
                             class="s74">Termination fee might change; on case by case basis, it must be approved by the
-                            owner of the property</span><span class="s73">)</span></p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Tenant continues to pay all rent
-                        until the End Date of the Lease, or any Renewal Term, or until a new tenant is approved by
-                        Landlord and a new lease takes effect, whichever happens first.</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+                            owner of the property</span><span class="s73">)</span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Tenant continues to pay all rent
+                            until the End Date of the Lease, or any Renewal Term, or until a new tenant is approved by
+                            Landlord and a new lease takes effect, whichever happens first.
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
         </li>
         <li data-list-text="26.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">ABANDONMENT</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">If the Tenant abandoned
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left">ABANDONMENT</p>
+            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:550pt">If the Tenant abandoned
                 the Property while Rent is due and unpaid, Landlord has the right to take possession of the Property
                 immediately and to rent the Property to another tenant. Any of Tenant&#39;s personal property or
                 possessions remaining on the Property after Tenant moves out will be considered to be abandoned
@@ -4493,58 +4615,102 @@
         </li>
         <li data-list-text="27.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">SALE OF PROPERTY</p>
-            <ol id="l34">
-                <li data-list-text="(A)">
-                    <p style="padding-top: 2pt;padding-left: 54pt;text-indent: -24pt;text-align: left;">If Property is
-                        sold, Landlord will give Tenant in writing:</p>
-                    <ol id="l35">
-                        <li data-list-text="1.">
-                            <p style="padding-left: 68pt;text-indent: -13pt;line-height: 13pt;text-align: left;">Notice
-                                that the Security Deposit has been given to the new landlord, who will be responsible
-                                for it.</p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 68pt;text-indent: -13pt;line-height: 13pt;text-align: left;">The
-                                name. address and phone number of the new landlord and where rent is to be paid if
-                                known.</p>
-                        </li>
-                    </ol>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Tenant agrees that Landlord may
-                        transfer Tenant&#39;s Security Deposit and advanced rent to the new landlord.</p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: left;">Landlord&#39;s responsibilities
-                        to Tenant under this Lease end after the Property has been sold and the Lease transferred to a
-                        new landlord.</p>
-                </li>
-                <li data-list-text="(D)">
-                    <p style="padding-left: 54pt;text-indent: -24pt;text-align: left;">If Landlord sells the Property
-                        during the Lease or any Renewal Term, Landlord has the right to terminate this Lease if Landlord
-                        gives at least <span class="s45">60</span><span class="s4"> </span>days&#39; written notice to
-                        Tenant. Tenant is not entitled to any payment of damages.</p>
-                </li>
-                <li data-list-text="(E)">
-                    <p class="s61" style="padding-left: 54pt;text-indent: -23pt;text-align: left;">If the Property is or
-                        will be For Sale, Tenant will allow showings with 24-hour notice. All showings will be done by
-                        the</p>
-                </li>
-            </ol>
-            <p class="s61" style="padding-left: 54pt;text-indent: 0pt;text-align: left;">Landlord and/or Landlord&#39;s
-                agents/representatives.</p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            If Property is sold, Landlord will give Tenant in writing:
+                                <span class="s45">&nbsp;5 </span><span class="s4"> </span>days after Start Date because the
+                                previous tenant is still there or because of property damage, Tenant&#39;s exclusive rights are
+                                to:
+                                <ol style="padding-left:30px">
+                                    <li data-list-text="1.">
+                                        <p style="text-align: left;">Notice
+                                        that the Security Deposit has been given to the new landlord, who will be responsible
+                                        for it.
+                                        </p>
+                                    </li>
+                                    <li data-list-text="2.">
+                                        <p style="line-height: 10pt;text-align: left;">The
+                                        name. address and phone number of the new landlord and where rent is to be paid if
+                                        known.
+                                        </p>
+                                    </li>
+                                </ol>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Tenant agrees that Landlord may
+                            transfer Tenant&#39;s Security Deposit and advanced rent to the new landlord.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> Landlord&#39;s responsibilities
+                            to Tenant under this Lease end after the Property has been sold and the Lease transferred to a
+                            new landlord.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (D)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> If Landlord sells the Property
+                            during the Lease or any Renewal Term, Landlord has the right to terminate this Lease if Landlord
+                            gives at least <span class="s45">60</span><span class="s4"> </span>days&#39; written notice to
+                            Tenant. Tenant is not entitled to any payment of damages.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (E)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s57" style="text-align: justify;">If the Property is or
+                            will be For Sale, Tenant will allow showings with 24-hour notice. All showings will be done by
+                            the Landlord and/or Landlord&#39;s agents/representatives
+                            </p> 
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="28.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">KEYS AND LOCKS</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;line-height: 13pt;text-align: justify;">
+            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;line-height: 13pt;text-align: justify;width:530pt">
                 Tenant will receive a minimum <span class="s45">&nbsp;1 </span><span class="s4"> </span>key(s) to the
                 Premises</p>
-            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant will receive a minimum <span
+            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;width:530pt">Tenant will receive a minimum <span
                     class="s45">&nbsp;1 </span><span class="s4"> </span>key(s) to the Mailbox (If Available) Tenant will
                 receive a minimum <span class="s45">&nbsp;1 </span><span class="s4"> </span>Garage/Pool Door Opener(s)
                 (If Available)</p>
-            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant agrees not to install additional
+            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;width:530pt">Tenant agrees not to install additional
                 or different locks or gates on any doors or windows at the Premises without written approval by
                 Landlord. Tenant agrees to return all keys to the Landlord. If all keys are not returned, Tenant agrees
                 to reimburse the Landlords for the cost of re-keying all locks. Tenant will be charged a $75.00 fine for
@@ -4554,7 +4720,7 @@
         <li data-list-text="29.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">PARKING AND VEHICLES (If
                 Private Parking available)</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">Driveway/Garage and
+            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:530pt">Driveway/Garage and
                 Street parking are permitted. You and your guests may park only in designated areas and not on the
                 grass. Tenant must keep driveways free of oil and grease. Tenant cannot keep inoperable and unlicensed
                 vehicles. No more than <span class="s45">&nbsp;1 </span><span class="s4"> </span>vehicle(s) is permitted
@@ -4564,30 +4730,82 @@
         </li>
         <li data-list-text="30.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">STORAGE</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">No Storage outside of
+            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:530pt">No Storage outside of
                 the Premises is authorized, permitted, or provided under this Agreement unless stated otherwise below.
             </p>
-            <ul id="l36">
-                <li data-list-text="☐">
-                    <p style="padding-top: 1pt;padding-left: 44pt;text-indent: -13pt;text-align: left;">Storage Shed
-                        <span class="s46">☐ </span>Pod Storage <span class="s46">☐ </span>Building Storage <span
-                            class="s46">☐ </span>Other Storage</p>
+            <ul >
+                <li>
+                    <p style="padding-top: 1pt;padding-left: 44pt;text-indent: -13pt;text-align: left;">
+                    <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                    Storage Shed
+                        <span class="s46">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </span>Pod Storage <span class="s46">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </span>Building Storage <span
+                            class="s46">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </span>Other Storage</p>
                 </li>
             </ul>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="31.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">CARPET CLEANING</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant must use a
+            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:530pt">Tenant must use a
                 professional carpet cleaning to clean carpets unless Landlord gives written permission to clean them
                 yourself</p>
             <p class="s75" style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">(<b>If Applicable</b><span
-                    class="p">)</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+                    class="p">)</span>
+            </p>
+            <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: right; width:700px">
+                              <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                          </td>
+                      </tr>
+                  </tbody>
+              </table>
+
+              <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                          <td style="width:500px"></td>
+                          <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                      </tr>
+                      <tr>
+                          <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                          <td class="s28" style="width:500px"></td>
+                          <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+              <table>
+                  <tbody>
+                      <tr style="height:16pt">
+
+                      <td style="width:220pt">
+                          <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                              Confidential - Thursday, July 7, 2022
+                          </p>
+                      </td>
+
+                      <td style="width:200pt">
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                              Page 7 of 22
+                          </p>
+                      </td>
+                      <td>
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                              DAN Housing, Inc © 2016-2022
+                          </p>
+                      </td>
+                  </tr>
+                  </tbody>
+              </table>
         </li>
         <li data-list-text="32.">
             <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">PEST CONTROL
@@ -4602,39 +4820,49 @@
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">PETS</p>
             <p style="padding-top: 1pt;padding-left: 33pt;text-indent: 0pt;text-align: left;">Tenant will not keep or
                 allow any pets on any part of the Property unless checked.</p>
-            <p class="s46" style="padding-left: 33pt;text-indent: -22pt;text-align: left;">☒ <span class="p">Tenant may
+            <p class="s46" style="padding-left: 33pt;text-indent: -22pt;text-align: left;">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+            <span class="p">Tenant may
                     keep pets with Landlord&#39;s written permission according to the terms of the attached Rules and
                     Regulations. (See Pet Addendum)</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
         </li>
         <li data-list-text="34.">
-            <p class="s1" style="padding-top: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">POOL/SPA
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">POOL/SPA
                 and/or WATERFRONT</p>
-            <p class="s46" style="padding-top: 2pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">☒ <span
-                    class="p">If Checked, Tenant must sign the “Pool/Spa and Waterfront Addendum” on Page 20.</span></p>
-            <p style="padding-left: 33pt;text-indent: 0pt;text-align: justify;">Community <span class="s46">☒
-                </span>Private <span class="s46">☐</span></p>
+            <p class="s46" style="padding-left: 33pt;text-indent: -22pt;text-align: left;">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                <span class="p">If Checked, Tenant must sign the “Pool/Spa and Waterfront Addendum” on Page 20.</span>
+            </p>
+            <p style="padding-left: 33pt;text-indent: 0pt;text-align: justify;">Community <span class="s46">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                </span>Private <span class="s46">
+                    <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                </span>
+            </p>
         </li>
         <li data-list-text="35.">
             <p class="s1" style="padding-top: 7pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">
                 FIREPLACE/WOOD STOVE</p>
-            <p class="s46" style="padding-top: 2pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">☒ <span
+            <p class="s46" style="padding-top: 2pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+            <span
                     class="p">If Checked, the Tenant must sign the “Fireplace/Wood Stove Agreement Addendum” on Page
                     21.</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="36.">
-            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">FIRE HAZARDS</p>
-            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;">In order to minimize
+            <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left">FIRE HAZARDS</p>
+            <p style="padding-top: 1pt;padding-left: 30pt;text-indent: 0pt;text-align: justify;width:600pt">In order to minimize
                 fire hazards and comply with city ordinances, Tenant shall comply with the following:</p>
-            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">Tenant(s) and guests will adhere to the
+            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;width:550pt">Tenant(s) and guests will adhere to the
                 Owner/Community rules and regulations other Management policies concerning fire hazards, which may be
                 revised from time to time. No person shall knowingly maintain a fire hazard. Grills, Barbeques, and any
                 other outdoor cooking or open flame devices will be used only on the ground level and will be placed a
                 minimum of <u><b>&nbsp;10 </b></u><b> </b>feet from any building. Such devices will not be used close to
                 combustible materials, tall grass or weeds, on exterior walls or on roofs, indoors, on balconies or
-                patios, or in other locations which may cause fires.</p>
-            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;">Only firewood is permitted in the
+                patios, or in other locations which may cause fires.
+            </p>
+            <p style="padding-left: 30pt;text-indent: 0pt;text-align: justify;width:550pt">Only firewood is permitted in the
                 fireplace. No artificial substances, such as Duraflame® logs are permitted. Ashes must be disposed of in
                 metal containers, after ensuring the ashes are cold. Flammable or combustible liquids and fuels shall
                 not be used or stored (including stock for sale) in dwellings, near exits, stairways breezeways, or
@@ -4643,11 +4871,19 @@
                 aisle, passageway, hallway, or stairway leading to or from any structure. Resident(s) are solely
                 responsible for fines or penalties caused by their actions in violation of local fire protection codes.
             </p>
-            <ul id="l37">
-                <li data-list-text="☐">
-                    <p class="s28" style="padding-left: 42pt;text-indent: -11pt;text-align: justify;">Electric grills
-                        may be used within patio area <span class="s29">☐ </span>Gas &amp; Propane barbeques are not
-                        permitted <span class="s29">☐ </span>Charcoal Grills only <span class="s29">☐ </span>See
+            <ul>
+                <li>
+                    <p class="s28" style="padding-left: 42pt;text-indent: -11pt;text-align: justify;width:530pt">
+                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                    Electric grills
+                        may be used within patio area <span class="s29">
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                        </span>Gas &amp; Propane barbeques are not
+                        permitted <span class="s29">
+                            <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
+                        </span>Charcoal Grills only <span class="s29">
+                            <img src="images/checkbox.png" alt="checkbox" style="width:13px;height:13px">
+                        </span>See
                         Apartment Regulations</p>
                 </li>
             </ul>
@@ -4655,52 +4891,125 @@
         </li>
         <li data-list-text="37.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">SMOKING</p>
-            <ol id="l38">
-                <li data-list-text="(A)">
-                    <p style="padding-top: 1pt;padding-left: 54pt;text-indent: -23pt;text-align: justify;">NO SMOKING of
-                        any substance is allowed on the Premises or common areas. If smoking does occur on the Premises
-                        or common areas. Tenant is responsible for all damage caused by smoking including, but not
-                        limited to stains, burns, odors, and removal of Debris:</p>
-                    <ol id="l39">
-                        <li data-list-text="1.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: justify;">Tenant acknowledges
-                                that in order to remove the odor caused by smoking, Landlord may need to replace carpet
-                                and drapes and paint the entire premises regardless of when these items were last
-                                cleaned, replaced, or repainted. Such actions and other necessary steps will impact the
-                                return of any security deposit.</p>
-                        </li>
-                        <li data-list-text="2.">
-                            <p style="padding-left: 67pt;text-indent: -13pt;text-align: justify;">If smoking does occur
-                                on the Premises or common areas, Tenant is in material breach of this Agreement; Tenant,
-                                guests, and all others may be required to leave the Premises</p>
-                        </li>
-                    </ol>
-                </li>
-                <li data-list-text="(B)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">The Premises or common areas
-                        may be subject to a local non-smoking ordinance.</p>
-                </li>
-                <li data-list-text="(C)">
-                    <p style="padding-left: 54pt;text-indent: -23pt;text-align: justify;">With the Owner approval,
-                        Tenant might be allowed to smoke outside, Tenant is responsible to clean</p>
-                </li>
-            </ol>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <table style="border-collapse:collapse;margin-left:29.38pt" cellspacing="0">
+                <tbody>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (A)
+                            </p>
+                        </td>
+                        <td style="width:530pt">
+                            <p class="s37" style="padding-left: 6pt;text-indent: 0pt;line-height: 12pt;text-align: left;">
+                            NO SMOKING of
+                            any substance is allowed on the Premises or common areas. If smoking does occur on the Premises
+                            or common areas. Tenant is responsible for all damage caused by smoking including, but not
+                            limited to stains, burns, odors, and removal of Debris:
+                                <ol style="padding-left:30px">
+                                    <li data-list-text="1.">
+                                        <p style="text-align: left;">Tenant acknowledges
+                                        that in order to remove the odor caused by smoking, Landlord may need to replace carpet
+                                        and drapes and paint the entire premises regardless of when these items were last
+                                        cleaned, replaced, or repainted. Such actions and other necessary steps will impact the
+                                        return of any security deposit.
+                                        </p>
+                                    </li>
+                                    <li data-list-text="2.">
+                                        <p style="line-height: 10pt;text-align: left;">If smoking does occur
+                                        on the Premises or common areas, Tenant is in material breach of this Agreement; Tenant,
+                                        guests, and all others may be required to leave the Premises
+                                        </p>
+                                    </li>
+                                </ol>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (B)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> The Premises or common areas
+                            may be subject to a local non-smoking ordinance.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="height:16pt">
+                        <td style="width:22pt">
+                            <p class="s37" style="padding-left: 4pt;text-indent: 0pt;line-height: 13pt;text-align: left;">
+                                (C)
+                            </p>
+                        </td>
+                        <td>
+                            <p style="text-align:left;width:530pt"> With the Owner approval,
+                            Tenant might be allowed to smoke outside, Tenant is responsible to clean
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <li data-list-text="38.">
             <p class="s1" style="padding-left: 31pt;text-indent: -18pt;text-align: left;">TENANT HAS FEWER RIGHTS THAN
                 MORTGAGE LENDER</p>
-            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;">Landlord may have a
+            <p style="padding-top: 2pt;padding-left: 30pt;text-indent: 0pt;text-align: left;width:550pt">Landlord may have a
                 mortgage on the Property. The rights of the mortgage lender come before the rights of the Tenant.
                 (Example: If the Landlord fails to make mortgage payments, the mortgage lender could take the Property
                 and end this Lease.) <b>TENANT MAY BE WAIVING OR GIVING UP TENANT&#39;S RIGHTS. TENANT UNDERSTANDS THAT
-                    IF THERE IS A FORECLOSURE, THE NEW OWNER WILL HAVE THE RIGHT TO END THIS LEASE.</b></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
+                    IF THERE IS A FORECLOSURE, THE NEW OWNER WILL HAVE THE RIGHT TO END THIS LEASE.</b>
+            </p>
+            <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: right; width:700px">
+                              <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                          </td>
+                      </tr>
+                  </tbody>
+              </table>
+
+              <table>
+                  <tbody>
+                      <tr>
+                          <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                          <td style="width:500px"></td>
+                          <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                      </tr>
+                      <tr>
+                          <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                          <td class="s28" style="width:500px"></td>
+                          <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+              <table>
+                  <tbody>
+                      <tr style="height:16pt">
+
+                      <td style="width:220pt">
+                          <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                              Confidential - Thursday, July 7, 2022
+                          </p>
+                      </td>
+
+                      <td style="width:200pt">
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                              Page 8 of 22
+                          </p>
+                      </td>
+                      <td>
+                          <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                              DAN Housing, Inc © 2016-2022
+                          </p>
+                      </td>
+                  </tr>
+                  </tbody>
+              </table>
         </li>
+
         <li data-list-text="39.">
             <p class="s1"
                 style="padding-top: 2pt;padding-bottom: 2pt;padding-left: 31pt;text-indent: -18pt;text-align: left;">
