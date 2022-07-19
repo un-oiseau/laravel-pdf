@@ -904,7 +904,6 @@
             font-family: 'Calibri', sans-serif;
             font-style: normal;
             font-weight: bold;
-            text-decoration: underline;
             font-size: 9pt;
         }
 
@@ -4985,8 +4984,8 @@
               </table>
               <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
               <table>
-                  <tbody>
-                      <tr style="height:16pt">
+                <tbody>
+                    <tr style="height:16pt">
 
                       <td style="width:220pt">
                           <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
@@ -5004,9 +5003,9 @@
                               DAN Housing, Inc © 2016-2022
                           </p>
                       </td>
-                  </tr>
-                  </tbody>
-              </table>
+                    </tr>
+                </tbody>
+            </table>
         </li>
         <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
             <tr style="height:30px">
@@ -5301,7 +5300,7 @@
                 
                     <td style="width:200pt">
                         <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            Page 8 of 22
+                            Page 9 of 22
                         </p>
                     </td>
                     <td>
@@ -5444,103 +5443,110 @@
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s80" style="padding-left: 31pt;text-indent: 0pt;text-align: left;">ENDING LEASE</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s1" style="padding-left: 31pt;text-indent: 0pt;text-align: left;">By signing below, Landlord and Tenant
+    <p class="s1" style="padding-left: 31pt;text-indent: 0pt;text-align: left;padding-bottom:60pt">By signing below, Landlord and Tenant
         acknowledge that they have read and understood the notices and explanatory information set forth in this Lease.
     </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <table>
-        <tr style="padding-left: 28pt;">
-            <td colspan="3" style="padding-left:35pt">
-                <p class="s81">Tenant&#39;s Signature: <span style="color: #000">_______________________</span></p>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
             </td>
-            <td>
-                <p class="s81"></u> Date: <u>&nbsp;</u><<span style="color: #000">_______________________</span></p>
-            </td>
-        </tr>
-        <tr style="padding-left: 28pt;">
-            <td colspan="3" style="padding-left:35pt">
-                <p class="s81">Tenant&#39;s Signature: <span style="color: #000">_______________________</span></p>
-            </td>
-            <td>
-                <p class="s81"></u> Date: <u>&nbsp;</u><span style="color: #000">_______________________</span></p>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
             </td>
         </tr>
-        <tr style="padding-left: 28pt;">
-            <td colspan="3" style="padding-left:35pt">
-                <p class="s81">Landlord&#39;s Signature: <span style="color: #000">_______________________</span></p>
-                <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-                class="s84">On Behalf of Dan Housing, Inc.</span></p>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
             </td>
-            <td>
-                <p class="s81"></u> Date: <u>&nbsp;</u><span style="color: #000">_______________________</span></p>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
             </td>
         </tr>
     </table>
-    <table style="padding-top:60pt">
-                <tbody>
-                    <tr>
-                        <td style="text-align: right; width:700px">
-                            <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3> 
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+    <table style="padding-top:40pt">
+        <tbody>
+            <tr>
+                <td style="text-align: right; width:700px">
+                    <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3> 
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
-            <table>
-                <tbody>
-                    <tr>
-                        <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
-                        <td style="width:500px"></td>
-                        <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
-                    </tr>
-                    <tr>
-                        <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
-                        <td class="s28" style="width:500px"></td>
-                        <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
-                    </tr>
-                </tbody>
-            </table>
-            <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
-            <table>
-                <tbody>
-                    <tr style="height:16pt">
-                    
-                    <td style="width:200pt">
-                        <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
-                            Confidential - Thursday, July 7, 2022
-                        </p>
-                    </td>
-                
-                    <td style="width:200pt">
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
-                            Page 10 of 22
-                        </p>
-                    </td>
-                    <td>
-                        <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
-                            DAN Housing, Inc © 2016-2022
-                        </p>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
-    <!-- <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: justify;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
-    <!-- <h3 style="padding-top: 9pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p> -->
-    <p class="s85" style="padding-top: 2pt;padding-left: 217pt;text-indent: 0pt;line-height: 157%;text-align: center;">
-        NOTICES AND INFORMATION CONSUMER CONTRACT ACT</p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <table>
+        <tbody>
+            <tr>
+                <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                <td style="width:500px"></td>
+                <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+            </tr>
+            <tr>
+                <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                <td class="s28" style="width:500px"></td>
+                <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:1px 20px">
+    <table>
+        <tbody>
+            <tr style="height:16pt">
+            
+            <td style="width:200pt">
+                <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                    Confidential - Thursday, July 7, 2022
+                </p>
+            </td>
+        
+            <td style="width:200pt">
+                <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                    Page 10 of 22
+                </p>
+            </td>
+            <td>
+                <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                    DAN Housing, Inc © 2016-2022
+                </p>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+    <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+      <tr style="height:30px">
+          <td style="width:30%; padding-right:30px">
+              <img style="width:100%" src="images/logo.png" alt="logo"/>
+          </td>
+          <td style="width:70%">
+              <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                  108 Lakeside Drive, Southampton, PA 18966
+              </p>
+              <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+              <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+          </td>
+      </tr>
+    </table>
+    
+    <p class="s85" style="padding-top: 2pt;text-indent: 0pt;line-height: 157%;text-align: center;">
+        NOTICES AND INFORMATION <br /> CONSUMER CONTRACT ACT</p>
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         The Office of the Attorney General has not pre-approved any special conditions or additional terms added by any
         parties. Any special conditions or additional terms must comply with the Tenant&#39;s state Plain Language
         Consumer Contract Act.</p>
@@ -5549,7 +5555,7 @@
         DEPOSITS</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Taking Security Deposits</p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         During the first year of a Lease, a Landlord may not require a security deposit of more than two months&#39;
         rent. After the first year of a Lease, this amount cannot exceed one month&#39;s rent, and any security deposit
         of more than one month&#39;s rent must be returned to the Tenant. If rent is increased during the first five
@@ -5557,7 +5563,7 @@
         well. After five years, the security deposit cannot be increased even if the rent goes up.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Holding Security Deposits</p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">If
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">If
         a Security Deposit is more than $100, the Landlord must keep the Security Deposit in a special bank account
         called an escrow account. Landlord is required to tell Tenant the name and address of the bank where the escrow
         account is located, as well as the amount of the deposit in the escrow account. After the second year of a
@@ -5565,7 +5571,7 @@
         Security Deposits belongs to the Tenant, but each year Landlord has the right to keep some or all of that
         interest up to an amount equal to 1% of the Security Deposit to cover certain administrative expenses. [For
         example, if a Security Deposit of $500 is held in an escrow account that earns</p>
-    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">$10 of interest in
+    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">$10 of interest in
         a year, Landlord has the option to retain up to 1% of the Security Deposit amount ($5) out of that interest.] If
         the interest carried is less than 1% of the Security Deposit amount, Landlord may keep all the interest, but the
         Landlord can never take any money out of the original Security Deposit for administrative expenses. After the
@@ -5573,7 +5579,7 @@
         anniversary of the first day of the original lease term.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Returning Security Deposits</p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         When a lease is ended, Landlord has 30 days to give Tenant a written list of any damage to the Property that
         Landlord claims Tenant is responsible for. If the cost to repair this damage is less than the amount of the
         Security Deposit being held, Landlord must return the amount of the deposit not being held back to fix those
@@ -5586,29 +5592,93 @@
         responsibility of Tenant to give Landlord his/her new address after the Lease is ended. <i><b>If Tenant does not
                 provide a new address to Landlord, Landlord is not liable for damages for failing to return Security
                 Deposit monies within 30 days.</b></i></p>
-    <p class="s1" style="padding-top: 8pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">INFORMATION
+    <p class="s1" style="padding-top: 8pt;text-indent: 0pt;text-align: center;">INFORMATION
         REGARDING TENANTS&#39; RIGHTS</p>
-    <p class="s75" style="padding-top: 7pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s75" style="padding-top: 7pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         Landlord cannot increase rents, decrease services, or threaten to go to court to evict Tenant because Tenant:
         (l) complains to a government agency or to Landlord about a building or housing code violation; (2) organizes or
         joins a Tenant&#39;s organization; or (3) uses Tenant&#39;s legal rights in a lawful manner.</p>
-    <p class="s1" style="padding-left: 105pt;text-indent: 0pt;line-height: 13pt;text-align: center;">INFORMATION
+    <p style="text-indent: 0pt;text-align: left;"><br /></p>
+    <p class="s1" style="text-indent: 0pt;line-height: 13pt;text-align: center;">INFORMATION
         REGARDING MEDIATION</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">Mediation is a way
+    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">Mediation is a way
         of resolving problems. A mediator may help the disputing parties reach an agreeable solution without having to
         involve the courts. Landlord and Tenant may agree to take any disputes arising from this Lease to a mediation
         program offered by the local association of REALTORS® or to another mediator. Landlord and Tenant can agree to
         mediation as part of this Lease (by signing a mediation form to attach to this Lease), or they can sign an
         agreement to mediate after a dispute arises.</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p class="s1" style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">INFORMATION
+    
+        <table style="padding-top:80pt">
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 11 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+
+
+    <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+      <tr style="height:30px">
+          <td style="width:30%; padding-right:30px">
+              <img style="width:100%" src="images/logo.png" alt="logo"/>
+          </td>
+          <td style="width:70%">
+              <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                  108 Lakeside Drive, Southampton, PA 18966
+              </p>
+              <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+              <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+          </td>
+      </tr>
+  </table>
+
+    <p class="s1" style="padding-top: 2pt;text-indent: 0pt;text-align: center;">INFORMATION
         REGARDING MOLD AND INDOOR AIR QUALITY</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">Indoor mold
+    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">Indoor mold
         contamination and the inhalation of bioaerosols (bacteria, mold spores, pollen, and viruses) have been
         associated with allergic responses including upper respiratory congestion, cough, mucous membrane irritation,
         fever, chills, muscle ache, or other transient inflammation or allergy. Claims have been made that exposure to
@@ -5623,12 +5693,13 @@
         37133, Washington, D.C. 20013-7133, 1-800-438-4318. Tenants should immediately notify Landlord if there is any
         condition in the Property that may lead to the growth of mold or if the Tenant believes that mold growth is
         present in the Property.</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s86" style="padding-left: 105pt;text-indent: 0pt;text-align: center;">LEAD-BASED PAINT HAZARDS</p>
+        
+
+    <p class="s86" style="text-indent: 0pt;text-align: center;">LEAD-BASED PAINT HAZARDS</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Lead Hazards Disclosure Requirements
     </p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         The Residential Lead-Based Paint Hazard Reduction Act says that any Landlord of property built before 1978 must
         give the Tenant an EPA pamphlet titled <i>Protect Your Family from Lead in Your Home</i>. The Landlord also must
         tell the Tenant and the Broker for the Landlord what the Landlord knows about lead-based paint and lead-based
@@ -5641,101 +5712,280 @@
         any major renovations on a pre-1978 structure. The Act does not apply to housing built-in 1978 or later.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s1" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Lead Warning Statement</p>
-    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s75" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">
         Housing built before 1978 may contain lead-based paint. Lead from paint, paint chips, and dust can pose health
         hazards if not taken care of properly. Lead exposure is especially harmful to young children and pregnant women.
         Before renting pre-1978 housing, Landlords must disclose the presence of known lead-based paint and lead-based
         paint hazards in the dwelling. Tenants must also receive a federally approved pamphlet on lead poisoning
         prevention.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p class="s88" style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">SMOKE-FREE PROPERTY
+    <table style="padding-top:180pt">
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+
+    <table style="padding-top:30pt">
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 12 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+    </table>
+
+    <p class="s88" style="padding-top: 2pt;text-indent: 0pt;text-align: center;">SMOKE-FREE PROPERTY
         ADDENDUM</p>
     <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
     <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
+        </span>
+    </p>
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+        <span style=" color: #1F4E79;">Emily Magner and Family</span>
+    </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">This lease &quot;Smoke-Free Property
+    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">This lease &quot;Smoke-Free Property
         Addendum&quot; is incorporated into and made part of the lease agreement executed by and between the Landlord
         and the Tenant referring to and incorporating the Leased Premises listed above.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Landlord has implemented a “No Smoking”
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">The Landlord has implemented a “No Smoking”
         policy due to the known health effects of secondhand smoke, increased costs incurred due to additional
         maintenance and cleaning, fire risks, and higher insurance costs associated with permitted smoking in the
         building. For this Smoke-Free Property Addendum, smoking is defined as inhaling, breathing, or carrying and lit
         a cigarette, cigar, pipe, or other tobacco or non-tobacco smoked product in any form, legal and illegal.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Tenant(s), occupants, and Tenant&#39;s invitees
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">The Tenant(s), occupants, and Tenant&#39;s invitees
         and guests acknowledge the Leased Premises are designated as a smoke-free living space. No smoking anywhere
         within the rental unit is permitted. Where applicable, smoking shall not be permitted in any common areas,
         including but not limited to hallways, adjoining grounds, balconies, and/or patios.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant(s) acknowledges that the Landlord does not
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Tenant(s) acknowledges that the Landlord does not
         promise or guarantee of smoke-free living space. Additionally, Tenant(s) acknowledges that Landlord&#39;s
         implementation of smoke-free living space does not make the Landlord responsible for the Tenant&#39;s health or
         of the smoke-free condition of the Tenant&#39;s unit and the common areas. However, the Landlord will try to
         enforce the terms within this Smoke-Free Property Addendum with the Lease to create a smoke-free environment.
     </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Tenant accepts that Landlord has limited ability
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Tenant accepts that Landlord has limited ability
         to police, monitor, or enforce the terms of this Smoke-Free Property Addendum. Tenant understands enforcement
         depends upon the compliance of the Tenant(s) occupants, Tenant&#39;s guests, and invitees. Landlord puts on notice
         any Tenant(s) with respiratory illnesses, diseases, allergies, or any other physical or mental condition
         relating to the effects of smoke that the Landlord assumes no greater duty of care to enforce this Addendum than
         any other landlord obligation under the Lease.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">If the Tenant violates any part of this Addendum,
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">If the Tenant violates any part of this Addendum,
         the Tenant will then be in default of the Lease. If a default occurs, the Landlord may initiate legal
         proceedings under all applicable laws and regulations to evict or have the Tenant removed from the Leased
         Premises and seek a judgment against the Tenant for any monies owed to the Landlord because of the Tenant&#39;s
         default. Any violation of this Addendum, even a single instance, constitutes a material breach of this addendum
         and may lead to immediate termination of the lease and withhold of security deposit.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">If the Tenant violates this “Smoke-Free Addendum”
+    <p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">If the Tenant violates this “Smoke-Free Addendum”
         and is reported to the Owner or Homeowners Association, the Tenant will be charged a $100.00 fee for each
         occurrence.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s57" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">With Landlord&#39;s permission Tenant
+    <p class="s57" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">With Landlord&#39;s permission Tenant
         might be allowed to smoke outside, but must obey State, Local municipality, and Homeowner Association (if any)
         smoking rules.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 11pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p class="s88" style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">Marijuana Addendum
+    
+    <table>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+
+    <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 13 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+    </table>
+
+    <p class="s88" style="padding-top: 2pt;text-indent: 0pt;text-align: center;">Marijuana Addendum
     </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
     <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
+        </span>
+    </p>
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+        <span style=" color: #1F4E79;">Emily Magner and Family</span>
+    </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">This lease &quot;Marijuana
         Addendum&quot; is incorporated into and made part of the lease executed by and between the Landlord and the
@@ -5747,21 +5997,21 @@
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <ol id="l43">
         <li data-list-text="1.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">Possession of marijuana,
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">Possession of marijuana,
                 whether dried, extracted, or in living plant form, is a criminal act under federal law. Tenant agrees
                 not to engage in any criminal activity in or near the Leased Premises, including the possession, use, or
                 cultivation of marijuana.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="2.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">The use of marijuana in
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">The use of marijuana in
                 the Leased Premises creates a nuisance: marijuana smoke may dissipate into common areas or neighboring
                 units, interfering with other tenants&#39; health, property, and their reasonable expectation of clean air
                 and a drug-free environment.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="3.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">Increased humidity may
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">Increased humidity may
                 increase the risk of mold and other structural damage to the Leased Premises. Accordingly, increasing
                 humidity levels for the cultivation of marijuana plants on the Leased Premises is prohibited. Tenant
                 accepts financial responsibility for any and all costs necessary to restore the Leased Premises to its
@@ -5769,270 +6019,539 @@
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="4.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">The Leased Premises are to
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">The Leased Premises are to
                 be used solely for residential purposes. Any cultivation and/or processing of marijuana plants shall
                 constitute a lease violation as a prohibited business activity.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="5.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">If a part of this Addendum
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">If a part of this Addendum
                 is declared invalid or conflicts with all applicable laws, ordinances, or statutes, the remainder of
                 this addendum will remain in full force and effect.</p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
         </li>
         <li data-list-text="6.">
-            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">Any violation of this
+            <p class="s91" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">Any violation of this
                 Addendum, even a single instance, constitutes a material breach of this addendum and may lead to
                 immediate termination of the lease and withhold of security deposit.</p>
         </li>
     </ol>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Tenant understands all of the provisions
+    <p class="s90" style="padding-left: 5pt;padding-top:30pt;text-indent: 0pt;text-align: left;">Tenant understands all of the provisions
         listed above and agrees to comply with the requirements of this Addendum.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p class="s88" style="padding-top: 2pt;padding-left: 59pt;text-indent: 0pt;text-align: left;">Zero Tolerance for
+    <table style="padding-top:40pt">
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+
+    <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 14 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+    </table>
+
+    <p class="s88" style="padding-top: 2pt;padding-left: 20pt;text-indent: 0pt;text-align: left;">Zero Tolerance for
         Criminal Activity and Megan&#39;s Law Addendum</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
     <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
+        </span>
+    </p>
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+        <span style=" color: #1F4E79;">Emily Magner and Family</span>
+    </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: left;">This Lease Addendum is
+    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: left;width:580pt">This Lease Addendum is
         incorporated into and made part of the lease executed by and between the Landlord and the Tenant referring to
         and incorporating the Leased Premises listed above.</p>
     <p class="s92" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">The Landlord has zero-tolerance for
         criminal activity in or around the Leased Premises.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s91" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">
+    <p class="s91" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:540pt">
         This policy applies to all Tenants, occupants, guests, and any visitors in or around the Leased Premises. The
         Landlord will immediately report any evidence of criminal and/or drug related activity to the proper
         authorities, and the Tenant&#39;s engagement in any criminal activity is a default of the Lease.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 113%;text-align: justify;">The Tenant
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 113%;text-align: justify;width:580pt">The Tenant
         understands his/her responsibility to call the police/emergency services and report any suspicious activity
         observed, and then notify the Landlord.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 113%;text-align: justify;">The Tenant
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 113%;text-align: justify;width:580pt">The Tenant
         understands that disturbances of the peace not only infringe on the neighbors&#39; peaceful enjoyment of their
         property but are also default of the Lease.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">In the event of any
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">In the event of any
         criminal activity in which the Tenant is directly or indirectly involved, the Landlord will take the legal
         measures necessary to evict the Tenant(s) from the Leased Premises. This includes but is not limited to illegal
         drug activity, gang involvement, organized crime, and disturbances of the peace.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">The Tenant
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">The Tenant
         understands that violation of this addendum is a default of the Lease and will result in the Landlord taking the
         necessary steps towards eviction of the Tenant. The Tenant may then be responsible for the rent remaining due
         for the balance of the Lease term, court costs, attorney fees, and other charges in accordance with all
         applicable local laws and regulations.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <p class="s92" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Megan&#39;s Law Statement.</p>
-    <p style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;">Before or
+    <p style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;line-height: 114%;text-align: justify;width:580pt">Before or
         After taking occupancy in the above-stated Premises, <span style=" color: #313D4F;">Tenant(s) should exercise
             whatever due to diligence Tenant(s) deems necessary with respect to the information on sexual offenders
             registered under Local/State Law, such information may be obtained by contacting your local police
             department or the Department of State Police. </span>Tenant acknowledges and understands that the Property
         Owner, Property Management Company, and Property Employees are unable to obtain such information for you.</p>
-    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: justify;">The Tenant(s)
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: justify;width:580pt">The Tenant(s)
         acknowledge receipt of a copy of this disclosure statement.</p>
+    <p style="text-indent: 0pt;text-align: left;padding-bottom:60pt"><br /></p>
+    <table>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+
+    <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 15 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+        </table>
+
+    <p class="s88" style="padding-top: 2pt;text-indent: 0pt;text-align: center;">Bedbug Addendum
+    </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p class="s88" style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">Bedbug Addendum</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: justify;">Landlord: <span
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
-    <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: justify;">
+    <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
-    <p class="s53" style="padding-top: 8pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">The goal of this
-        Addendum is to protect the quality of the rented unit&#39;s environment from the affects of bed bugs by providing
-        sufficient information and instructions. It is also the goal of this Addendum to clearly set forth the
-        responsibilities of each of the parties to the rental agreement.</p>
+        </span>
+    </p>
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+        <span style=" color: #1F4E79;">Emily Magner and Family</span>
+    </p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s75" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Resident(s) hereby agree to prevent
-        and control possible infestation by adhering to the below list of responsibilities:</p>
+    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">The goal of this Addendum is to 
+     protect the quality of the rented unit’s environment from the affects of bed bugs by providing sufficient
+     information and instructions. It is also the goal of this Addendum to clearly set forth the responsibilities
+      of each of the parties to the rental agreement.
+    </p>
+    <p style="text-indent: 0pt;text-align: left;"><br /></p>
+    <p class="s91" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Resident(s) hereby agree to prevent
+     and control possible infestation by adhering to the below list of responsibilities:
+    </p>
+    <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <ol id="l44">
         <li data-list-text="1.">
-            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">Check for hitch-hiking
+            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">Check for hitch-hiking
                 bedbugs. If you stay in a hotel or another home, inspect your clothing, luggage, shoes, and personal
                 belongings for signs of bedbugs before re-entering your apartment. Check backpacks, shoes, and clothing
                 after using public transportation or visiting theaters. After guests visit, inspect beds, bedding, and
                 upholstered furniture for signs of a bedbug infestation.</p>
         </li>
         <li data-list-text="2.">
-            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">Resident shall report any
+            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">Resident shall report any
                 problems immediately to Owner/Agent. Even a few bedbugs can rapidly multiply to create a major
                 infestation that can spread to other units.</p>
         </li>
         <li data-list-text="3.">
-            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">The Resident shall
+            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">The Resident shall
                 cooperate with pest control efforts. If your unit or a neighbor&#39;s unit is infested, a pest management
                 professional may be called in to eradicate the problem. Your unit must be properly prepared for
                 treatment. The resident must comply with recommendations and requests from the pest control specialist
                 prior to professional treatment including but not limited to:</p>
-            <ul id="l45">
-                <li data-list-text="">
-                    <p class="s75" style="padding-left: 59pt;text-indent: -18pt;text-align: justify;">Placing all
+            <ul >
+                <li class="s75" style="list-style: disc inside;padding-left: 59pt;text-indent: -18pt;text-align: justify;width:520pt">
+                        Placing all
                         bedding, drapes, curtains, and small rugs in bags for transport to laundry or dry cleaners.
                         Heavily infested mattresses are not salvageable and must be sealed in plastic and disposed of
                         properly. Empty dressers, nightstands, <u>and</u> closets. Remove all items from floors; bag all
                         clothing, shoes, boxes, toys, etc. Bag and tightly seal washable and non-washable items
-                        separately. Used bags must be disposed of properly.</p>
+                        separately. Used bags must be disposed of properly.
                 </li>
-                <li data-list-text="">
-                    <p class="s75" style="padding-left: 59pt;text-indent: -18pt;text-align: justify;">Vacuum all floors,
+                <li class="s75" style="list-style: disc inside;padding-left: 59pt;text-indent: -18pt;text-align: justify;width:520pt">
+                        Vacuum all floors,
                         including inside closets. Vacuum all furniture including inside drawers and nightstands. Vacuum
                         mattresses and box springs. Carefully remove vacuum bags sealing them tightly in plastic and
-                        discarding of properly.</p>
+                        discarding of properly.
                 </li>
-                <li data-list-text="">
-                    <p class="s75" style="padding-left: 59pt;text-indent: -18pt;text-align: justify;">Wash all
+                <li class="s75" style="list-style: disc inside;padding-left: 59pt;text-indent: -18pt;text-align: justify;width:520pt">
+                        Wash all
                         machine-washable bedding, drapes, and clothing, etc. on the hottest water temperature and dry on
                         the highest heat setting. Take other items to the dry cleaner making sure to inform the dry
                         cleaner that the items are infested with bedbugs. Discard any items that cannot be
-                        decontaminated.</p>
+                        decontaminated.
                 </li>
-                <li data-list-text="">
-                    <p class="s75" style="padding-left: 59pt;text-indent: -18pt;text-align: justify;">Move furniture
+                <li class="s75" style="list-style: disc inside;padding-left: 59pt;text-indent: -18pt;text-align: justify;width:520pt">
+                        Move furniture
                         toward the center of the room so that technicians can easily treat carpet edges where bed bugs
                         congregate, as well as walls and furniture surfaces. Be sure to leave easy access to closets.
-                    </p>
                 </li>
             </ul>
         </li>
         <li data-list-text="4.">
-            <p class="s75" style="padding-top: 4pt;padding-left: 41pt;text-indent: -18pt;text-align: justify;">Resident
+            <p class="s75" style="padding-top: 4pt;padding-left: 41pt;text-indent: -18pt;text-align:justify;width:540pt">Resident
                 agrees to indemnify and hold the Owner/Agent harmless from any actions, claims, losses, damages, and
                 expenses including but not limited to attorneys&#39; fees that Owner/Agent may incur as a result of the
                 negligence of the Resident(s) or any guest occupying or using the premises.</p>
         </li>
         <li data-list-text="5.">
-            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;">It is acknowledged that
+            <p class="s75" style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt">It is acknowledged that
                 the Owner/Agent shall not be liable for any loss of personal property to the Resident, as a result of an
                 infestation of bedbugs. The Resident agrees to have personal property insurance to cover such losses. By
                 signing below, the undersigned Resident(s) agree and acknowledge having read and understood this
                 addendum.</p>
         </li>
         <li data-list-text="6.">
-            <p style="padding-left: 41pt;text-indent: -18pt;text-align: justify;"><a href="https://www.epa.gov/bedbugs"
+            <p style="padding-left: 41pt;text-indent: -18pt;text-align: justify;width:540pt"><a href="https://www.epa.gov/bedbugs"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt;"
                     target="_blank">For more information on Bedbugs visit the EPA website: </a><a
                     href="https://www.epa.gov/bedbugs" class="s94" target="_blank">https://www.epa.gov/bedbugs</a></p>
         </li>
     </ol>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s53" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">By signing below, the
-        undersigned Resident(s) agree and acknowledge having read and understood this addendum.</p>
+    <p class="s90" style="padding-left: 5pt;text-indent: 0pt;text-align: left;">By signing below, the undersigned Resident(s)
+     agree and acknowledge having read and understood this addendum.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 2pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
+    <table>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+    <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 16 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+    </table>
+    
+    <p class="s88" style="padding-top: 2pt;padding-left: 20pt;text-indent: 0pt;text-align: center;">Mold Addendum</p>
     <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
             style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
-    <p class="s88" style="padding-top: 2pt;padding-left: 20pt;text-indent: 0pt;text-align: left;">Mold Addendum</p>
-    <p class="s4" style="padding-top: 2pt;padding-left: 79pt;text-indent: -31pt;line-height: 113%;text-align: left;">
+    <p class="s4" style="padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
         Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">This “MOLD ADDENDUM” is incorporated
+        </span>
+    </p>
+    <p class="s4" style="padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+        <span style=" color: #1F4E79;">Emily Magner and Family</span>
+    </p>
+    <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+    <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">This “MOLD ADDENDUM” is incorporated
         into and made part of the lease agreement, executed by the Landlord and the Tenant referring to and
         incorporating the leased Premises. The goal of this Addendum is to protect the quality of the rented unit&#39;s
         environment from the affects of mold by providing sufficient information and instructions. It is also the goal
         of this Addendum to clearly set forth the responsibilities of each of the parties to the rental agreement.</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s96" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">There are no established guidelines
+    <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+    <p class="s96" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">There are no established guidelines
         for unacceptable air quality caused by mold. Mold is a naturally occurring phenomenon. Mold and/ or mildew
         should be cleaned as soon as it appears. Mold and/or mildew growth can often be seen in the form of
         discoloration. The different colors of mold range from white to black, including, but not limited to, green,
         gray, brown, orange, yellow, and other colors. Your housekeeping and living habits are an integral part of the
         ability of mold to grow. In order for mold to grow, water and/or moisture must be present.</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">TENANT AGREES to maintain the
+    <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+    <p class="s95" style="padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">TENANT AGREES to maintain the
         Premises in a manner that prevents the occurrence of mold or mildew growth within the Premises. In furtherance
         of such obligation, TENANT AGREES TO PERFORM THE FOLLOWING:</p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
+    <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
     <p class="s96" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: left;">To keep the Premises
         free from dirt and debris that can harbor mold;</p>
     <ol id="l46">
         <li data-list-text="1.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To inspect
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:580pt">To inspect
                 the Premises regularly for the indications and sources of indoor moisture;</p>
         </li>
         <li data-list-text="2.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;">To immediately report to
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;width:580pt">To immediately report to
                 management any discoloration evidenced on walls, floors, or ceiling and/or any water intrusion, such as
                 plumbing leaks, drips, or flooding;</p>
         </li>
         <li data-list-text="3.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To not
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:580pt">To not
                 air-dry wet clothes indoors;</p>
         </li>
         <li data-list-text="4.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To always
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:580pt">To always
                 utilize stove hood vents when cooking items that may cause steam;</p>
         </li>
         <li data-list-text="5.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;">When showering/bathing,
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;width:580pt">When showering/bathing,
                 always utilize the bathroom fan and notify management of any nonworking fan;</p>
         </li>
         <li data-list-text="6.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To water
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:580pt">To water
                 plants outdoors;</p>
         </li>
         <li data-list-text="7.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;">To notify management in
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;width:580pt">To notify management in
                 writing of overflows from the bathroom, kitchen, or any other water source facilities, especially in
                 cases where the overflow may have permeated walls, flooring, or cabinets;</p>
         </li>
         <li data-list-text="8.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">TO
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:585pt">TO
                 IMMEDIATELY WIPE DOWN ANY WATER OR CONDENSATION THAT APPEARS AND/OR DEVELOPS ON ANY AREA OR ANY SURFACE;
             </p>
         </li>
         <li data-list-text="9.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: justify;">To clean upon the first
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: justify;width:570pt">To clean upon the first
                 appearance, any mildew from condensation on window interiors, bathroom &amp; kitchen walls, floor,
                 and/or ceilings. Cleaning is done with common household bleach. The mixture is one-part bleach to 10
                 parts water. You may add a little dish soap to the water mixture to cut any dirt and oil on the surface
@@ -6040,21 +6559,21 @@
                 any rags or sponges used to clean the mold in a sealed bag;</p>
         </li>
         <li data-list-text="10.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;">TO REPORT TO MANAGEMENT IN
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;width:570pt">TO REPORT TO MANAGEMENT IN
                 WRITING AND VERBALLY THE PRESENCE OF ANY MOLD GROWTH on surfaces inside the Premises;</p>
         </li>
         <li data-list-text="11.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: justify;">To allow
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: justify;width:570pt">To allow
                 management immediate entry to the Premises to inspect and make necessary repairs in the event mold or
                 water intrusion is present;</p>
         </li>
         <li data-list-text="12.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: justify;">To use
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: justify;width:570pt">To use
                 all reasonable care to close all windows and other openings in the Premises to prevent outdoor water
                 from penetrating into the interior unit;</p>
         </li>
         <li data-list-text="13.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: justify;">To clean and dry any
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: justify;width:570pt">To clean and dry any
                 visible condensation/moisture on windows and window tracks, walls, and other surfaces, including
                 personal property as soon as reasonably possible. Condensation on windows indicates that fresh air is
                 not being circulated in the home to prevent moisture buildup. Open your windows and air out your home
@@ -6062,15 +6581,15 @@
                 condensation in your home;</p>
         </li>
         <li data-list-text="14.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To notify
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:570pt">To notify
                 management of any problems with air-conditioning or heating systems that are discovered by Tenant;</p>
         </li>
         <li data-list-text="15.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;">To maximize
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:570pt">To maximize
                 the circulation of air by keeping furniture away from the walls and out of corners;</p>
         </li>
         <li data-list-text="16.">
-            <p class="s97" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;"><a
+            <p class="s97" style="padding-left: 19pt;text-indent: -13pt;line-height: 11pt;text-align: left;width:570pt"><a
                     href="https://www.epa.gov/mold"
                     style=" color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt;"
                     target="_blank">For more information on Mold visit EPA website: </a><span
@@ -6081,86 +6600,174 @@
                     target="_blank">https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home</a></p>
         </li>
         <li data-list-text="17.">
-            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;">In addition to the above, The
+            <p class="s96" style="padding-left: 19pt;text-indent: -13pt;text-align: left;width:570pt">In addition to the above, The
                 Tenant further agrees to perform all responsibilities set forth in the MOLD/MOISTURE DISCLOSURE
                 STATEMENT.</p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s96" style="padding-left: 19pt;text-indent: 0pt;text-align: justify;">TENANT FURTHER AGREES to
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+            <p class="s96" style="padding-left: 19pt;text-indent: 0pt;text-align: justify;width:570pt">TENANT FURTHER AGREES to
                 indemnify and hold harmless Owner and Owner&#39;s management agents from any suits, actions, claims, losses,
                 damages, and expenses (including reasonable attorney&#39;s and court costs) and any liability whatsoever
                 that Owner and/or its management agents may sustain or incur as a result of Tenant&#39;s failure to comply
                 or perform with the obligations set forth above or as the result of intentional or negligent action or
                 failure to act on the part of Tenant or any other person living in, occupying, or using the Premises.
             </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s95" style="padding-left: 19pt;text-indent: 0pt;text-align: justify;">Tenant hereby certifies that
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+            <p class="s95" style="padding-left: 19pt;text-indent: 0pt;text-align: justify;width:570pt">Tenant hereby certifies that
                 Tenant has read the MOLD/MOISTURE DISCLOSURE STATEMENT and has read and understood the contents of this
                 ADDENDUM and has received a duplicate copy.</p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-                Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-                <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-            <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal –
-                <span class="s84">On Behalf of Dan Housing, Inc.</span></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-            <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <h3 style="padding-top: 9pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp;
-            </h3>
-            <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-            <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-            <h2 style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">Asbestos Disclosure
+            <!-- <p style="text-indent: 0pt;text-align: left;"><br /></p> -->
+            <table>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:5pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:5pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:5pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:5pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td>
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tbody>
+            <tr>
+                <td style="text-align: right; width:700px">
+                    <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <tbody>
+            <tr>
+                <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                <td style="width:500px"></td>
+                <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+            </tr>
+            <tr>
+                <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                <td class="s28" style="width:500px"></td>
+                <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+    <table>
+        <tbody>
+            <tr style="height:16pt">
+
+            <td style="width:200pt">
+                <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                    Confidential - Thursday, July 7, 2022
+                </p>
+            </td>
+
+            <td style="width:200pt">
+                <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                    Page 17 of 22
+                </p>
+            </td>
+            <td>
+                <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                    DAN Housing, Inc © 2016-2022
+                </p>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+    <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+        <tr style="height:30px">
+            <td style="width:30%; padding-right:30px">
+                <img style="width:100%" src="images/logo.png" alt="logo"/>
+            </td>
+            <td style="width:70%">
+                <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                    108 Lakeside Drive, Southampton, PA 18966
+                </p>
+                <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+            </td>
+        </tr>
+    </table>
+        
+            <h2 style="padding-top: 2pt;text-indent: 0pt;text-align: center;">Asbestos Disclosure
                 Addendum</h2>
-            <p class="s4" style="padding-top: 10pt;padding-left: 121pt;text-indent: 0pt;text-align: left;">Landlord:
-                <span style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
-            <p class="s4"
-                style="padding-top: 2pt;padding-left: 118pt;text-indent: -31pt;line-height: 114%;text-align: left;">
-                Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-                </span>Tenant(s): <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
-            <p class="s95" style="padding-top: 8pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;">This
+                <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
+                        style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
+                <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
+                    Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
+                    </span>
+                </p>
+                <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+                    <span style=" color: #1F4E79;">Emily Magner and Family</span>
+                </p>
+            <p class="s95" style="padding-top: 8pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;width:570pt">This
                 “ASBESTOS DISCLOSURE ADDENDUM” is incorporated into and made part of the lease agreement, executed by
                 the Landlord and the Tenant referring to and incorporating the Leased Premises. The goal of this
                 Addendum is to protect the quality of the rented unit&#39;s environment from the affects of asbestos by
                 providing sufficient information and instructions. It is also the goal of this Addendum to clearly set
                 forth the responsibilities of each of the parties to the rental agreement.</p>
-            <p class="s96" style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;">Asbestos is
+            <p class="s96" style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;width:570pt">Asbestos is
                 a building material commonly found in buildings constructed before 1981. It has been determined that the
                 mere existence of Asbestos does not pose a health risk as long as the asbestos is not disturbed, and the
                 fibers are not released into the air. As such, owners and residents must take reasonable precautions to
                 minimize the risk of disturbance of asbestos materials.</p>
             <p class="s96"
-                style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;line-height: 108%;text-align: justify;">This
+                style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;line-height: 108%;text-align: justify;width:570pt">This
                 Addendum is intended as a <b>WARNING </b>that the Premises may contain asbestos, which may be present in
                 buildings constructed prior to 1981 and may expose him/her to a chemical known to cause cancer.</p>
-            <p class="s96" style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;">The terms
+            <p class="s96" style="padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: justify;width:570pt">The terms
                 of this Addendum are intended by the parties to be added to and incorporated into the rental/lease
                 agreement between Resident and Owner/Agent that currently governs the tenancy of Resident(s) in the
                 Premises.</p>
             <p class="s96" style="padding-top: 6pt;padding-left: 24pt;text-indent: 0pt;text-align: left;">
                 (<i><b>Owner/Agent must check one</b></i>)</p>
-            <ul id="l47">
-                <li data-list-text="☐">
+            <ul>
+                <li>
                     <p class="s96"
-                        style="padding-top: 3pt;padding-left: 47pt;text-indent: -22pt;line-height: 80%;text-align: left;">
+                        style="padding-top: 3pt;padding-bottom: 3pt; padding-left: 47pt;text-indent: -22pt;line-height: 80%;text-align: left;width:550pt">
+                        <img src="images/checkbox.png" alt="checkbox-cross" style="width:13px;height:13px">
                         Owner/Agent discloses that the Premises contains asbestos materials and/or asbestos hazards that
-                        are located in or around the following areas of the Premises:</p>
+                        are located in or around the following areas of the Premises:
+                    </p>
                 </li>
             </ul>
+            <p style="margin-left: 41pt;margin-right: 20pt;text-indent: 0pt;line-height: 1pt;text-align: left;border-bottom:1px solid #000"></p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p style="padding-left: 41pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-            <p style="text-indent: 0pt;text-align: left;"><br /></p>
+            <p style="margin-left: 41pt;margin-right: 20pt;text-indent: 0pt;line-height: 1pt;text-align: left;border-bottom:1px solid #000"></p>
             <p class="s96"
-                style="padding-top: 5pt;padding-left: 47pt;text-indent: -22pt;line-height: 78%;text-align: left;"><span
-                    class="s99">☒ </span>Owner/Agent has no knowledge of asbestos-containing materials and/or asbestos
+                style="padding-top: 3pt;padding-bottom: 3pt; padding-left: 47pt;text-indent: -22pt;line-height: 80%;text-align: left;width:550pt">
+                <img src="images/checkbox-cross.png" alt="checkbox-cross" style="width:17px;height:17px">
+                Owner/Agent has no knowledge of asbestos-containing materials and/or asbestos
                 hazards located in or around the Premises, however, Owner/Agent notifies Resident that the
-                Premises<u><i> may</i></u><i> </i>contain asbestos materials.</p>
+                Premises<u><i> may</i></u><i> </i>contain asbestos materials.
+            </p>
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
-            <p class="s96" style="padding-top: 3pt;padding-left: 47pt;text-indent: 0pt;text-align: justify;">Resident
+            <p class="s96" style="padding-top: 3pt;padding-left: 47pt;text-indent: 0pt;text-align: justify;width:530pt">Resident
                 understands and agrees that as his/her part of taking reasonable steps to minimize the risk of exposure
                 to asbestos-materials, he/she will not be doing anything that may disturb the building materials of the
                 Premises in a manner that may cause the asbestos fibers to be released. This includes, but is not
@@ -6168,20 +6775,20 @@
             <p style="text-indent: 0pt;text-align: left;"><br /></p>
             <ol id="l48">
                 <li data-list-text="1.">
-                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;">Scraping,
+                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;width:515pt">Scraping,
                         pounding, sanding, or remodeling any portion of the Premises that may release dust and which may
                         cause the asbestos materials to be released into the air.</p>
                     <p style="text-indent: 0pt;text-align: left;"><br /></p>
                 </li>
                 <li data-list-text="2.">
-                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;">Making any
+                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;width:515pt">Making any
                         repairs, improvements, or alterations to the Premises without obtaining Owner/Agent&#39;s prior
                         written consent and (when appropriate) providing Owner/Agent with a plan to prevent the release
                         or exposure of any asbestos.</p>
                     <p style="text-indent: 0pt;text-align: left;"><br /></p>
                 </li>
                 <li data-list-text="3.">
-                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;">Limiting contact
+                    <p class="s96" style="padding-left: 68pt;text-indent: -18pt;text-align: justify;width:515pt">Limiting contact
                         with the ceiling of the Premises, including not hanging hooks or other objects in the ceiling,
                         not penetrating the ceiling in any way, not drilling holes in the ceiling or attaching fixtures
                         to the ceiling, not allowing objects to come in contact with the ceiling, limiting the contact
@@ -6198,7 +6805,7 @@
             target="_blank">For more information on Asbestos visit the EPA website: </a><a
             href="https://www.epa.gov/asbestos" target="_blank">https://www.epa.gov/asbestos</a></p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s96" style="padding-top: 3pt;padding-left: 17pt;text-indent: 0pt;text-align: justify;">
+    <p class="s96" style="padding-top: 3pt;padding-left: 17pt;text-indent: 0pt;text-align: justify;width:570pt">
         Resident(s)/Occupants(s) agrees to immediately notify Owner/Agent in writing of any signs of asbestos
         disturbance or other damage to the Premises, such as crumbling, cracking, peeling, or deterioration of the walls
         or ceiling. The resident also agrees to immediately notify Owner/Agent in writing if any of the above-stated
@@ -6206,69 +6813,157 @@
     <p class="s95" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">By signing below,
         Resident(s) acknowledges and confirms that he/she has received, reviewed, and understands this Addendum.</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">Tenant&#39;s
-        Signature: <u>&nbsp;</u> Date: <u>&nbsp;</u> Tenant&#39;s Signature: <u>&nbsp;</u> Date:
-        <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Landlord&#39;s Signature:</p>
-    <p class="s83" style="padding-top: 4pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Gary Segal – <span
-            class="s84">On Behalf of Dan Housing, Inc.</span></p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <p class="s81" style="padding-left: 20pt;text-indent: 0pt;text-align: left;">Date:</p>
-    <p class="s17" style="padding-left: 121pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="text-indent: 0pt;text-align: left;"><br /></p>
-    <h3 style="padding-top: 8pt;text-indent: 0pt;text-align: right;"> GS <span class="s34"> </span>&nbsp;&nbsp; </h3>
-    <p class="s35" style="padding-left: 11pt;text-indent: 0pt;line-height: 1pt;text-align: left;"> </p>
-    <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;">Tenant Initials Landlord Initials</p>
-    <h2 style="padding-top: 2pt;padding-left: 105pt;text-indent: 0pt;text-align: center;">Pet Addendum (if Applicable)
-    </h2>
-    <p class="s102" style="padding-top: 4pt;padding-left: 96pt;text-indent: 0pt;text-align: left;">Landlord: <span
-            style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
-    <p class="s102" style="padding-top: 2pt;padding-left: 104pt;text-indent: -43pt;line-height: 114%;text-align: left;">
-        Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
-        </span>Tenant: <span style=" color: #1F4E79;">Emily Magner and Family</span></p>
-    <p class="s98" style="padding-top: 4pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">This LEASE ADDENDUM is
+    <table>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: <span style="color: #000"></span>
+                    <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">_________________________________________</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Tenant&#39;s Signature: 
+                <span class="s81"> &nbsp;<span style="color: #000;padding-left: 11pt;text-align:right">__________________________________________</span></span>  
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <p class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></p>
+            </td>
+        </tr>
+        <tr style="padding-left: 28pt">
+            <td colspan="3" style="padding-left:35pt;padding-bottom:10pt">
+                <p class="s81">Landlord&#39;s Signature: <span style="color: #000;text-align:right"></span>
+                    <span class="s83" style="padding-left: 11pt;text-indent: 0pt;text-align: left;border-bottom:1px solid #000">Gary Segal – <span
+                    class="s84">On Behalf of Dan Housing, Inc.</span></span>
+                </p>
+            </td>
+            <td style="padding-bottom:10pt">
+                <span class="s81"> Date: &nbsp;<span style="color: #000">____________________</span></span>
+                
+            </td>
+        </tr>
+    </table>
+    <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: right; width:700px">
+                        <h3 style="padding-left: 0px;padding-top: 2pt;text-indent: -100pt;text-align: right;"> GS <span class="s34"></span></h3>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;border-bottom:1px solid #000;padding-left:30px;"></td>
+                    <td style="width:500px"></td>
+                    <td style="padding-right: 11pt;border-bottom:1px solid #000"></td>
+                </tr>
+                <tr>
+                    <td class="s28" style="text-indent: 0pt;text-align: left;padding-left:30px">Tenant Initials</td>
+                    <td class="s28" style="width:500px"></td>
+                    <td class="s28" style="text-indent: 0pt;text-align: right;">Landlord Initials</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr class="hr" style="height:10px;background-color:#0462C1;border:none;margin:20px">
+        <table>
+            <tbody>
+                <tr style="height:16pt">
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-right: 5pt;padding-left:30px;text-indent: 0pt;line-height: 13pt;">
+                        Confidential - Thursday, July 7, 2022
+                    </p>
+                </td>
+
+                <td style="width:200pt">
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: center;">
+                        Page 18 of 22
+                    </p>
+                </td>
+                <td>
+                    <p class="s28" style="padding-left: 10pt;text-indent: 0pt;line-height: 13pt;text-align: right;">
+                        DAN Housing, Inc © 2016-2022
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table style="border-collapse:collapse;margin-left:8.74pt;padding-top:20px" cellspacing="0">
+            <tr style="height:30px">
+                <td style="width:30%; padding-right:30px">
+                    <img style="width:100%" src="images/logo.png" alt="logo"/>
+                </td>
+                <td style="width:70%">
+                    <p class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color:#0563c1">
+                        108 Lakeside Drive, Southampton, PA 18966
+                    </p>
+                    <span class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1">(215) 355-4094 Office | (215) 220-3419 Fax |</span>
+                    <a class="s10" style="padding-right: 5pt;text-indent: 0pt;line-height: 13pt;color: #0563c1;text-decoration:underline" href="http://danhousing.com/"> www.DanHousing.com</a>
+                </td>
+            </tr>
+    </table>
+    <h2 style="padding-top: 2pt;text-indent: 0pt;text-align: center;">Pet Addendum (if Applicable)</h2>
+    <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Landlord: <span
+        style=" color: #1F4E79;">Dan Housing, Inc.</span></p>
+        <p class="s4" style="padding-top: 6pt;padding-left: 79pt;text-indent: -31pt;line-height: 150%;text-align: left;">
+            Leased Premises: <span style=" color: #1F4E79;">9099 East Mississippi Ave, Unit K103, Denver, CO 80247
+            </span>
+        </p>
+        <p class="s4" style="padding-top: 12pt;padding-left: 82pt;text-indent: 0pt;text-align: left;">Tenant(s): 
+            <span style=" color: #1F4E79;">Emily Magner and Family</span>
+        </p>
+    <p class="s98" style="padding-top: 4pt;padding-left: 15pt;text-indent: 0pt;text-align: left;width:580pt">This LEASE ADDENDUM is
         incorporated into and made part of the lease agreement, executed by and between the Landlord and the Tenant
         referring to and incorporating the leased premises. <span class="s103">&nbsp;1 </span><span class="s104">
         </span>pet(s) are allowed at the premises. (Please fill separate form for each pet).</p>
     <p style="text-indent: 0pt;text-align: left;"><br /></p>
     <table style="border-collapse:collapse;margin-left:36.94pt" cellspacing="0">
         <tr style="height:10pt">
-            <td style="width:53pt">
+            <td style="width:60pt">
                 <p class="s105"
                     style="padding-left: 5pt;padding-right: 1pt;text-indent: 0pt;line-height: 8pt;text-align: center;">
-                    Type of Pet:</p>
-            </td>
-            <td style="width:135pt">
-                <p class="s106" style="padding-left: 2pt;text-indent: 0pt;line-height: 8pt;text-align: left;">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-            </td>
-            <td style="width:57pt">
-                <p class="s105" style="padding-right: 2pt;text-indent: 0pt;line-height: 8pt;text-align: right;">Name:
+                    Type of Pet:
                 </p>
             </td>
-            <td style="width:146pt">
-                <p class="s107" style="padding-left: 2pt;text-indent: 0pt;line-height: 8pt;text-align: left;">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;</p>
+            <td style="width:130pt">
+                <p class="s106" style="padding-left: 2pt;text-indent: 0pt;line-height: 8pt;text-align: left;border-bottom:1px solid #000">
+                    Cat 
+                </p>
+            </td>
+            <td style="width:57pt">
+                <p class="s105" style="padding-right: 2pt;text-indent: 0pt;line-height: 8pt;text-align: right">Name:
+                </p>
+            </td>
+            <td style="width:150pt">
+                <p class="s107" style="padding-left: 2pt;text-indent: 0pt;line-height: 8pt;text-align: left;border-bottom:1px solid #000">
+                    
+                </p>
             </td>
             <td style="width:59pt">
-                <p class="s105" style="padding-right: 4pt;text-indent: 0pt;line-height: 8pt;text-align: right;">Breed:
+                <p class="s105" style="padding-right: 4pt;text-indent: 0pt;line-height: 8pt;text-align: right">Breed:
                 </p>
             </td>
             <td style="width:103pt;border-bottom-style:solid;border-bottom-width:1pt">
-                <p class="s108" style="padding-left: 6pt;text-indent: 0pt;line-height: 8pt;text-align: left;">N/A</p>
+                <p class="s108" style="padding-left: 6pt;text-indent: 0pt;line-height: 8pt;text-align: left;border-bottom:1px solid #000">N/A</p>
             </td>
         </tr>
         <tr style="height:17pt">
-            <td style="width:53pt">
-                <p class="s105" style="padding-left: 1pt;padding-right: 1pt;text-indent: 0pt;text-align: center;">
-                    Weight/Size:</p>
-            </td>
+            <p class="s105"
+                    style="padding-left: 5pt;padding-right: 1pt;text-indent: 0pt;line-height: 8pt;text-align: center;">
+                    Weight/Size:
+                </p>
             <td style="width:135pt">
-                <p class="s107" style="padding-left: 2pt;text-indent: 0pt;text-align: left;">
+                <p class="s107" style="padding-left: 2pt;text-indent: 0pt;text-align: left;color:#000">
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;</p>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
             </td>
             <td style="width:57pt">
                 <p class="s105" style="padding-right: 2pt;text-indent: 0pt;text-align: right;">Age:</p>
@@ -6455,7 +7150,7 @@
             </td>
             <td style="width:146pt">
                 <p style="text-indent: 0pt;text-align: left;"><br /></p>
-                <p style="padding-left: 2pt;text-indent: 0pt;line-height: 1pt;text-align: left;" />
+                <p style="padding-left: 2pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
             </td>
             <td style="width:59pt">
                 <p class="s105" style="padding-right: 4pt;text-indent: 0pt;line-height: 10pt;text-align: right;">Other:
@@ -6467,53 +7162,72 @@
             </td>
         </tr>
     </table>
-    <p style="padding-left: 92pt;text-indent: 0pt;line-height: 1pt;text-align: left;"></p>
-    <p class="s96" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">All dogs and cats
+    <p style="padding-left: 92pt;text-indent: 0pt;line-height: 1pt;text-align: left"></p>
+    <p class="s96" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">All dogs and cats
         must wear vaccination tags attached to a collar that is worn at all times. The Tenant will maintain a valid
         rabies vaccination certificate issued by a licensed veterinarian. It must include the animal&#39;s name,
         description, age, date, and type of vaccination. The Tenant must renew all pet registrations annually and
         provide a copy of the registration to the Landlord.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Landlord requires
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Landlord requires
         the animal to be housebroken. Any reptile, fish, or pet that is considered a poisonous species is prohibited.
         The Tenant cannot maintain exotic animals or livestock in the rental home, grounds, or community property. The
         breeding of privately-owned animals is prohibited.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Any damage to the
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Any damage to the
         leased premises caused by a pet or an aquarium leak must be immediately repaired, cleaned, and/or replaced at
         the Tenant&#39;s expense (including but not limited to stained carpets, broken window shades or blinds, and
         scratched and chewed cabinetry). The Tenant must protect all carpeting from odor, infestation, and stain by
         cleaning it annually. The Landlord reserves the right to inspect the Leased Premises (while providing proper
         notice) periodically in order to assess any possible damages.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Continual reports of
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Continual reports of
         excessive animal noise (such as a barking dog or loud bird) will be grounds for the Landlord&#39;s withdrawal of
         permission, after which the Tenant will have to remove the pet(s) from the premises immediately. Pet owners must
         ensure the proper disposal of a deceased animal according to State and Local regulations. Burial of the deceased
         pet on the property grounds is strictly prohibited. When outdoors, all pets must be on a leash and under the
         control of a mature and responsible individual. Pets may not be tethered or left unattended outside at any time.
         Pets are barred from any community area such as playgrounds, pools, and game courts.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">The Tenant agrees to
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">The Tenant agrees to
         clean and properly dispose of all pet waste, both inside and outside the rental property, on a daily basis. No
         excrement is to remain on the grounds. Security and/or pet deposits are only refunded after the property has
         been vacated and examined by the management.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Service Animals are
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Service Animals are
         not pets but provide assistance to disabled residents. By law, the Landlord must allow service animals for
         Tenants who have an apparent or verified need that they require them in order to afford a disabled Tenant fair
         use and enjoyment of the facilities. Additional deposits and or pet rent are not required for service animals,
         but Tenant(s) are responsible for cleaning up after the animal. Tenant(s) are also responsible for any damage
         done to the unit, building or grounds, beyond reasonable wear and tear. Service animals must meet local and
         state laws for vaccinations.</p>
-    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Stray pets shall not
+    <p class="s96" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Stray pets shall not
         be kept or fed in or about the Premises, they can be dangerous. Tenant must notify local animal control and/or
         local authorities.</p>
-    <p class="s96" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">Landlord is not
+    <p class="s96" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">Landlord is not
         responsible/liable for any of the Tenant&#39;s pet(s) action. If the Tenant violates any part of this Addendum, the
         Tenant is then in default of the Lease. In the event of a default, the Landlord may initiate legal proceedings
         in accordance with State and Local regulations to evict or have the Tenant removed from the Leased Premises as
         well as seek a judgment against the Tenant for any monies owed to the Landlord as a result of the Tenants
         default.</p>
-    <p class="s109" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">⭐⭐⭐ ⭐⭐⭐</p>
+            <p class="s58" style="padding-left: 23pt;text-indent: 0pt;line-height: 13pt;text-align: left;width:580pt">
+            <table>
+                <tr>
+                    <td style="width:535pt;padding-left:5pt">
+                        <img src="images/star.png" alt="star">
+                        <img src="images/star.png" alt="star">
+                        <img src="images/star.png" alt="star">
+                    </td>
+                    <td>
+                        <img src="images/star.png" alt="star">
+                        <img src="images/star.png" alt="star">
+                        <img src="images/star.png" alt="star">
+                    </td>
+                </tr>
+            </table>
+            <span class="s57 width:530pt;padding-left:10pt">All of the big
+            and/or aggressive dog breeds or aggressive dogs must wear dog muzzle while walking outside. 
+            </span>
+        </p>
+    <!-- <p class="s109" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;width:580pt">⭐⭐⭐ ⭐⭐⭐</p>
     <p class="s110" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: justify;">All of the big
-        and/or aggressive dog breeds or aggressive dogs must wear dog muzzle while walking outside.</p>
-    <p class="s110" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: justify;">Owner(s) and/or
+        and/or aggressive dog breeds or aggressive dogs must wear dog muzzle while walking outside.</p> -->
+    <p class="s110" style="padding-left: 5pt;text-indent: 0pt;line-height: 11pt;text-align: justify;width:580pt">Owner(s) and/or
         Owners&#39; Agent(s) are not responsible for Tenant&#39;s pet(s) actions, damages, and/or Injuries to humans or other
         animals.</p>
     <p class="s81" style="padding-top: 8pt;padding-left: 28pt;text-indent: 0pt;line-height: 26pt;text-align: left;">
